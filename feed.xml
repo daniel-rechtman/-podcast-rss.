@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>יוני כהן מלמד אנגלית</title>
-    <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
-    <language>he</language>
-    <itunes:author>יוני כהן</itunes:author>
+ <channel>
+  <title>יוני כהן מלמד אנגלית</title>
+  <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
+  <language>he</language>
+  <itunes:author>יוני כהן</itunes:author>
+
+  <itunes:owner>
+    <itunes:name>יוני כהן</itunes:name>
+    <itunes:email>daniel763@gmail.com</itunes:email>
+  </itunes:owner>
     <description>פאל שבעת ההאזנה אסקר לכם כתבים מעניינות וילמד אותך אנגלית בצורה קלילה ושירותית.</description>
     <itunes:image href="https://drive.google.com/uc?export=download&amp;id=178k_2EzaeqMFeQLUN8z5SBfciyOlTpcX"/>
     <itunes:explicit>no</itunes:explicit>
