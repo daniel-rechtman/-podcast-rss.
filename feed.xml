@@ -29,5 +29,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506191722</guid>
+      <title>Dramatic Rescues and Unexpected Challenges</title>
+      <pubDate>Thu, 19 Jun 2025 17:22:49 GMT</pubDate>
+      <enclosure url="https://drive.google.com/file/d/13nb5ldMI7kSaCA6xkU0R8NJHsBHw5pM8/view?usp=drivesdk" type="audio/mpeg"/>
+      <description>In this episode, we talk about a dramatic rescue of people from Cyprus. We also discuss a young woman who faced unexpected challenges after offering shelter. Join us to hear these engaging stories today!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
