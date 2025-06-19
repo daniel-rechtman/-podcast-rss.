@@ -2,12 +2,10 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Understanding Early Warnings</title>
-    <!-- קישור כללי לאתר הפודקאסט (כל עוד הוא מפנה לפרק ספציפי או לדף הבית) -->
-    <!-- <link>https://yourpodcast.example.com/</link> -->
     <language>he</language>
     <description>כל שבוע אסקור לכם כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
     <itunes:author>יוני כהן</itunes:author>
-    <itunes:image href="https://yourpodcast.example.com/artwork.jpg"/>
+    <itunes:image href="https://drive.google.com/uc?export=view&id=178k_2EzaeqMFeQLUN8z5SBfciyOlTpcX"/>
     <itunes:owner>
       <itunes:name>יוני כהן</itunes:name>
       <itunes:email>daniel763@gmail.com</itunes:email>
