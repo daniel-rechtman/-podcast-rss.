@@ -29,5 +29,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506221704</guid>
+      <title>Court Orders and Peaceful Shelters</title>
+      <pubDate>Sun, 22 Jun 2025 17:04:59 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_iYB_ufC_4lQz-ZvQUzNT5rf93GLYIC1" type="audio/mpeg"/>
+      <description>In this episode, we talk about a big court decision that helped a family stay together. We also discuss a fight in a shelter during a time of danger, showing how important it is to stay calm and help each other. Listen in for stories about finding peace and unity.</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
