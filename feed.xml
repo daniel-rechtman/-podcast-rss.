@@ -47,5 +47,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506251613</guid>
+      <title>Peace and New Beginnings בינוני</title>
+      <pubDate>Wed, 25 Jun 2025 16:13:06 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_5BlKF2ZNymiZwxlJN9OzGiSXLy6Bq2m" type="audio/mpeg"/>
+      <description>Join us as we explore recent peaceful developments. Discover how people felt relief after a ceasefire. Learn about rebuilding efforts and hopes for the future. It's a time for healing and moving forward together.</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
