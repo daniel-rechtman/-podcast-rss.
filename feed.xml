@@ -38,5 +38,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506251548</guid>
+      <title>A Pause for Peace מתקדמים</title>
+      <pubDate>Wed, 25 Jun 2025 15:48:37 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=153N2vejPKYNYi_riz8W1irtlna53WRYq" type="audio/mpeg"/>
+      <description>Join us as we explore a fragile ceasefire bringing relief to many. Discover stories of hope amidst past conflicts. Learn how communities rebuild and hope for lasting peace.</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
