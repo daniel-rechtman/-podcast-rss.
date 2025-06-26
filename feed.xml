@@ -56,5 +56,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506261043</guid>
+      <title>Peace and Challenges מתחילים</title>
+      <pubDate>Thu, 26 Jun 2025 10:43:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tfzWL7rp5ozMQ7hC8XzTEe1xf8fYkuyx" type="audio/mpeg"/>
+      <description>In this episode, we talk about a new peace agreement and how it affects people. We also discuss a soldier's story and plans for rebuilding schools. Join us to learn more about these important events!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
