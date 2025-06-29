@@ -74,5 +74,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506291815</guid>
+      <title>Cultural Choices and Challenges מתקדמים</title>
+      <pubDate>Sun, 29 Jun 2025 18:15:12 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LLPlU6R6d6O5MwmfijZsWHflMczNde1V" type="audio/mpeg"/>
+      <description>In this episode, we explore cultural conflicts and safety concerns. From university dress codes to military incidents, learn how different communities navigate rules and expectations. Let's dive into these real-world stories together!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
