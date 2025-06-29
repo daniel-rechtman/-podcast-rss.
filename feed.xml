@@ -83,5 +83,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202506291821</guid>
+      <title>Stories Behind the News מתחילים</title>
+      <pubDate>Sun, 29 Jun 2025 18:21:01 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mQo1dmUOQS9GnlpRPhDMJJAtr23NyjGJ" type="audio/mpeg"/>
+      <description>Join us as we explore interesting news stories. Discover the exciting world of bunker bombs and military life. Understand the challenges of aid delivery and personal choices. Learn English while learning about the world!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
