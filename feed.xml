@@ -101,5 +101,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202507161152</guid>
+      <title>Stories of Resilience and Connection בינוני</title>
+      <pubDate>Wed, 16 Jul 2025 11:52:32 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jk5hqQGV-zjxoYjWOo4Q6GAFLrut6mJV" type="audio/mpeg"/>
+      <description>Join us as we explore heartwarming stories about people who found love through running, and a musician fighting cancer with hope. Discover the powerful words of a fallen soldier and enjoy the laugh-out-loud moments from a comedic duo. Let's celebrate the spirit of resilience and connection!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
