@@ -92,5 +92,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+    <item>
+      <guid>episode-202507161143</guid>
+      <title>Inspiration and Connection מתקדמים</title>
+      <pubDate>Wed, 16 Jul 2025 11:43:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IsZFvHNHChOfU_RIX4lOzO1G_n65KWkP" type="audio/mpeg"/>
+      <description>Discover how running can lead to love, and listen to stories of strength and spirit. From touching music to lasting friendships, we explore how people connect through challenges and creativity.</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
