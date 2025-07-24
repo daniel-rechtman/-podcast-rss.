@@ -29,14 +29,5 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
-    <item>
-      <guid>episode-202507241322</guid>
-      <title>Music, Laughter, and Stories מתחילים</title>
-      <pubDate>Thu, 24 Jul 2025 13:22:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t_n4dhjlMHNjRDPtbOOyornm7dSQvvdI" type="audio/mpeg"/>
-      <description>In this episode, we share fun music news and TV stories. Learn about a big concert in London and a hit comedy show. Join us for exciting updates and simple storytelling.</description>
-      <itunes:author>יוני כהן</itunes:author>
-      <itunes:duration>00:04:30</itunes:duration>
-    </item>
   </channel>
 </rss>
