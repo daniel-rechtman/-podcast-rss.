@@ -11,6 +11,8 @@
     </itunes:owner>
     <itunes:author>יוני כהן</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+
+    <!-- פרק 1 -->
     <item>
       <guid>episode-202507241106</guid>
       <title>Entertainment Buzz: Music and Screen מתקדמים</title>
@@ -20,6 +22,8 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <!-- פרק 2 -->
     <item>
       <guid>episode-202508270854</guid>
       <title>Exploring Life and Finance מתקדמים</title>
@@ -29,5 +33,28 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <!-- פרק 3 -->
+    <item>
+      <guid>episode-202508270853</guid>
+      <title>Big Changes Ahead! בינוני</title>
+      <pubDate>Wed, 27 Aug 2025 08:53:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H_LHd8RG3Nn5EuIeg6PhsgfN_EMyEnvo" type="audio/mpeg"/>
+      <description>Join us as we explore a bold movie from Jordan and a touching duet by popular singers. We also discuss a controversial business move by the U.S. government and remember actress Verónica Echegui. Get ready for some big news and emotional moments!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <!-- פרק 4 -->
+    <item>
+      <guid>episode-202508270852</guid>
+      <title>Exploring Exciting Topics מתחילים</title>
+      <pubDate>Wed, 27 Aug 2025 08:52:31 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CNMZgEfTCdTQoq273PMsikk4S5vQIj7d" type="audio/mpeg"/>
+      <description>Join us for a fun episode where we dive into interesting articles. Discover new ideas and learn English along the way. Perfect for curious minds and language lovers!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
   </channel>
 </rss>
