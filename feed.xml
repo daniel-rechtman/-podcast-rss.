@@ -3,7 +3,8 @@
     <title>IFAL News-English</title>
     <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
     <language>he</language>
-    <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
+    <description>כל שבוע אסקור לכם כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
+    <lastBuildDate>Wed, 27 Aug 2025 08:54:33 GMT</lastBuildDate>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
     <itunes:owner>
       <itunes:name>יוני כהן</itunes:name>
@@ -12,20 +13,9 @@
     <itunes:author>יוני כהן</itunes:author>
     <itunes:explicit>no</itunes:explicit>
 
-    <!-- פרק 1 -->
+    <!-- חדש ביותר -->
     <item>
-      <guid>episode-202507241106</guid>
-      <title>Entertainment Buzz: Music and Screen מתקדמים</title>
-      <pubDate>Thu, 24 Jul 2025 11:06:48 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WxMCkTsBilAbUW4zSGeOrRhh7NKnqnix" type="audio/mpeg"/>
-      <description>Join us to hear about star-studded music events and exciting new TV shows. Discover Ayel Golan's big concert plans and Hagi Levine's new mini-series. We also look at a surprise hospital concert and a new telenovela. Tune in for all things fun and entertaining!</description>
-      <itunes:author>יוני כהן</itunes:author>
-      <itunes:duration>00:04:30</itunes:duration>
-    </item>
-
-    <!-- פרק 2 -->
-    <item>
-      <guid>episode-202508270854</guid>
+      <guid isPermaLink="false">episode-202508270854</guid>
       <title>Exploring Life and Finance מתקדמים</title>
       <pubDate>Wed, 27 Aug 2025 08:54:33 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IS3cSMnYlx5yiOdVa_d-X30B0pWrRa-p" type="audio/mpeg"/>
@@ -34,9 +24,8 @@
       <itunes:duration>00:04:30</itunes:duration>
     </item>
 
-    <!-- פרק 3 -->
     <item>
-      <guid>episode-202508270853</guid>
+      <guid isPermaLink="false">episode-202508270853</guid>
       <title>Big Changes Ahead! בינוני</title>
       <pubDate>Wed, 27 Aug 2025 08:53:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H_LHd8RG3Nn5EuIeg6PhsgfN_EMyEnvo" type="audio/mpeg"/>
@@ -45,13 +34,23 @@
       <itunes:duration>00:04:30</itunes:duration>
     </item>
 
-    <!-- פרק 4 -->
     <item>
-      <guid>episode-202508270852</guid>
+      <guid isPermaLink="false">episode-202508270852</guid>
       <title>Exploring Exciting Topics מתחילים</title>
       <pubDate>Wed, 27 Aug 2025 08:52:31 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CNMZgEfTCdTQoq273PMsikk4S5vQIj7d" type="audio/mpeg"/>
       <description>Join us for a fun episode where we dive into interesting articles. Discover new ideas and learn English along the way. Perfect for curious minds and language lovers!</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <!-- הישן ביותר -->
+    <item>
+      <guid isPermaLink="false">episode-202507241106</guid>
+      <title>Entertainment Buzz: Music and Screen מתקדמים</title>
+      <pubDate>Thu, 24 Jul 2025 11:06:48 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WxMCkTsBilAbUW4zSGeOrRhh7NKnqnix" type="audio/mpeg"/>
+      <description>Join us to hear about star-studded music events and exciting new TV shows. Discover Ayel Golan's big concert plans and Hagi Levine's new mini-series. We also look at a surprise hospital concert and a new telenovela. Tune in for all things fun and entertaining!</description>
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
