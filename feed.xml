@@ -12,8 +12,6 @@
     </itunes:owner>
     <itunes:author>יוני כהן</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-
-    <!-- חדש ביותר -->
     <item>
       <guid isPermaLink="false">episode-202508270854</guid>
       <title>Exploring Life and Finance מתקדמים</title>
@@ -23,7 +21,6 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
-
     <item>
       <guid isPermaLink="false">episode-202508270853</guid>
       <title>Big Changes Ahead! בינוני</title>
@@ -33,7 +30,6 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
-
     <item>
       <guid isPermaLink="false">episode-202508270852</guid>
       <title>Exploring Exciting Topics מתחילים</title>
@@ -43,8 +39,6 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
-
-    <!-- הישן ביותר -->
     <item>
       <guid isPermaLink="false">episode-202507241106</guid>
       <title>Entertainment Buzz: Music and Screen מתקדמים</title>
@@ -54,6 +48,14 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
-
+    <item>
+      <guid isPermaLink="false">episode-202509041425</guid>
+      <title>Master Everyday English מתחילים</title>
+      <pubDate>Thu, 04 Sep 2025 14:25:36 GMT</pubDate>
+      <enclosure url="https://drive.google.com/file/d/1KYn7p9VNV4TH_74qctB2IHieJO3hY4NN/export?view&amp;usp=drivesdk" type="audio/mpeg"/>
+      <description>Join us to learn how to use common English phrases in daily life! Discover fun examples and easy tips to boost your English. Perfect for learners who want to sound more like native speakers.</description>
+      <itunes:author>יוני כהן</itunes:author>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
   </channel>
 </rss>
