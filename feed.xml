@@ -4,6 +4,7 @@
     <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
     <language>he</language>
     <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
+    <lastBuildDate>Wed, 27 Aug 2025 08:54:33 GMT</lastBuildDate>
     <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
     <itunes:owner>
       <itunes:name>יוני כהן</itunes:name>
@@ -11,6 +12,7 @@
     </itunes:owner>
     <itunes:author>יוני כהן</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+
     <item>
       <guid isPermaLink="false">episode-202508270854</guid>
       <title>Exploring Life and Finance מתקדמים</title>
@@ -20,6 +22,7 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
     <item>
       <guid isPermaLink="false">episode-202508270853</guid>
       <title>Big Changes Ahead! בינוני</title>
@@ -29,6 +32,7 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
     <item>
       <guid isPermaLink="false">episode-202508270852</guid>
       <title>Exploring Exciting Topics מתחילים</title>
@@ -38,6 +42,7 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
     <item>
       <guid isPermaLink="false">episode-202507241106</guid>
       <title>Entertainment Buzz: Music and Screen מתקדמים</title>
@@ -47,14 +52,16 @@
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
     <item>
       <guid isPermaLink="false">episode-202509041426</guid>
-      <title>Cinematic Celebration: Haifa Film Festival בינוני</title>
-      <pubDate>Thu, 04 Sep 2025 14:26:16 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OaXrFCYaj9jNQrKxX06pwVL-elS3F-8O" type="audio/mpeg"/>
-      <description>Join us for a peek into the Haifa Film Festival in Israel. Discover exciting films and a new series by Eran Zarahovich. Learn about the creativity showcased at this special event!</description>
+      <title>Songs, Stories, and Surprises מתקדמים</title>
+      <pubDate>Thu, 04 Sep 2025 14:26:43 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vloRfwEge6DKa5QXW8FQGNva3mmeRlPM" type="audio/mpeg"/>
+      <description>In this episode, we talk about new music, a film festival, and unexpected challenges at work. Discover a fresh song about community and a new album release. Get insights into a surprising work incident and a big event in film. Join us for catchy tunes and surprising stories!</description>
       <itunes:author>יוני כהן</itunes:author>
       <itunes:duration>00:04:30</itunes:duration>
     </item>
+
   </channel>
 </rss>
