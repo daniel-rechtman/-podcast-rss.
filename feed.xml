@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>IFAL News-English</title>
@@ -5,7 +6,7 @@
 <language>he</language>
 <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
 <lastBuildDate>Wed, 27 Aug 2025 08:54:33 GMT</lastBuildDate>
-<itunes:image href="https://drive.google.com/uc?export=view&id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
+<itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
 <itunes:owner>
 <itunes:name>יוני כהן</itunes:name>
 <itunes:email>daniel763@gmail.com</itunes:email>
@@ -16,7 +17,7 @@
 <guid isPermaLink="false">episode-202508270854</guid>
 <title>Exploring Life and Finance מתקדמים</title>
 <pubDate>Wed, 27 Aug 2025 08:54:33 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1IS3cSMnYlx5yiOdVa_d-X30B0pWrRa-p" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1IS3cSMnYlx5yiOdVa_d-X30B0pWrRa-p" type="audio/mpeg"/>
 <description>In this episode, learn about a new Palestinian movie going to the Oscars. Discover a touching song by two famous singers and remember a beloved actress. Understand how some governments invest in big companies and how a financial plan might bring billions back.</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
@@ -25,7 +26,7 @@
 <guid isPermaLink="false">episode-202508270853</guid>
 <title>Big Changes Ahead! בינוני</title>
 <pubDate>Wed, 27 Aug 2025 08:53:00 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1H_LHd8RG3Nn5EuIeg6PhsgfN_EMyEnvo" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1H_LHd8RG3Nn5EuIeg6PhsgfN_EMyEnvo" type="audio/mpeg"/>
 <description>Join us as we explore a bold movie from Jordan and a touching duet by popular singers. We also discuss a controversial business move by the U.S. government and remember actress Verónica Echegui. Get ready for some big news and emotional moments!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
@@ -34,7 +35,7 @@
 <guid isPermaLink="false">episode-202508270852</guid>
 <title>Exploring Exciting Topics מתחילים</title>
 <pubDate>Wed, 27 Aug 2025 08:52:31 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1CNMZgEfTCdTQoq273PMsikk4S5vQIj7d" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1CNMZgEfTCdTQoq273PMsikk4S5vQIj7d" type="audio/mpeg"/>
 <description>Join us for a fun episode where we dive into interesting articles. Discover new ideas and learn English along the way. Perfect for curious minds and language lovers!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
@@ -43,37 +44,34 @@
 <guid isPermaLink="false">episode-202507241106</guid>
 <title>Entertainment Buzz: Music and Screen מתקדמים</title>
 <pubDate>Thu, 24 Jul 2025 11:06:48 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1WxMCkTsBilAbUW4zSGeOrRhh7NKnqnix" type="audio/mpeg"/>
-<description>Join us to hear about star-studded music events and exciting new TV shows. Discover Ayel Golan's big concert plans and Hagi Levine's new mini-series. We also look at a surprise hospital concert and a new telenovela. Tune in for all things fun and entertaining!</description>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1WxMCkTsBilAbUW4zSGeOrRhh7NKnqnix" type="audio/mpeg"/>
+<description>Join us to hear about star-studded music events and exciting new TV shows. Discover Ayel Golan&apos;s big concert plans and Hagi Levine&apos;s new mini-series. We also look at a surprise hospital concert and a new telenovela. Tune in for all things fun and entertaining!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
-<!--  Existing item from original  -->
 <item>
 <guid isPermaLink="false">episode-202509041426</guid>
 <title>Songs, Stories, and Surprises מתקדמים</title>
 <pubDate>Thu, 04 Sep 2025 14:26:43 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1vloRfwEge6DKa5QXW8FQGNva3mmeRlPM" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1vloRfwEge6DKa5QXW8FQGNva3mmeRlPM" type="audio/mpeg"/>
 <description>In this episode, we talk about new music, a film festival, and unexpected challenges at work. Discover a fresh song about community and a new album release. Get insights into a surprising work incident and a big event in film. Join us for catchy tunes and surprising stories!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
-<!--  Added item #1: ensure unique GUID and valid description  -->
 <item>
 <guid isPermaLink="false">episode-202509041426a</guid>
 <title>Cinematic Celebration: Haifa Film Festival בינוני</title>
 <pubDate>Thu, 04 Sep 2025 14:26:16 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1OaXrFCYaj9jNQrKxX06pwVL-elS3F-8O" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1OaXrFCYaj9jNQrKxX06pwVL-elS3F-8O" type="audio/mpeg"/>
 <description>Join us for a peek into the Haifa Film Festival in Israel. Discover exciting films and a new series by Eran Zarahovich. Learn about the creativity showcased at this special event!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
-<!--  Added item #2: unified Google Drive URL format  -->
 <item>
 <guid isPermaLink="false">episode-202509041425</guid>
 <title>Master Everyday English מתחילים</title>
 <pubDate>Thu, 04 Sep 2025 14:25:36 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&id=1KYn7p9VNV4TH_74qctB2IHieJO3hY4NN" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1KYn7p9VNV4TH_74qctB2IHieJO3hY4NN" type="audio/mpeg"/>
 <description>Join us to learn how to use common English phrases in daily life! Discover fun examples and easy tips to boost your English. Perfect for learners who want to sound more like native speakers.</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
