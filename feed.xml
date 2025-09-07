@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>IFAL News-English</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
 <language>he</language>
 <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
-<lastBuildDate>Wed, 27 Aug 2025 08:54:33 GMT</lastBuildDate>
 <itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
 <itunes:owner>
 <itunes:name>יוני כהן</itunes:name>
@@ -73,6 +71,15 @@
 <pubDate>Thu, 04 Sep 2025 14:25:36 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KYn7p9VNV4TH_74qctB2IHieJO3hY4NN" type="audio/mpeg"/>
 <description>Join us to learn how to use common English phrases in daily life! Discover fun examples and easy tips to boost your English. Perfect for learners who want to sound more like native speakers.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid isPermaLink="false">episode-202509071318</guid>
+<title>Mastering Language with Fun מתחילים</title>
+<pubDate>Sun, 07 Sep 2025 13:18:34 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=14tuJK8O993nXuBSDMD1mhH6xv5IWqDJY" type="audio/mpeg"/>
+<description>In this episode, we explore fun ways to learn English. Discover tips and tricks to improve your skills faster. Listen in and boost your confidence with language learning today!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
