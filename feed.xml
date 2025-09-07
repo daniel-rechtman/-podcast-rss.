@@ -83,5 +83,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202509071324</guid>
+<title>Exciting News and Stories מתקדמים</title>
+<pubDate>Sun, 07 Sep 2025 13:24:22 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=12oudBeILRMoTRCv9oxGNK2MEzMrtJuAG" type="audio/mpeg"/>
+<description>Join us as we explore new TV shows coming this September and an emotional take on societal issues. Hear about a couple making films together, and a big business sale. Plus, learn about scientific discussions and future financial plans. It's going to be an interesting episode!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
