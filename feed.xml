@@ -128,5 +128,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202509141125</guid>
+<title>Unlocking the Mystery of NaN מתחילים</title>
+<pubDate>Sun, 14 Sep 2025 11:25:30 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ezgz-s0q2kdvjT9eQhBp7dWnP_FB0KFZ" type="audio/mpeg"/>
+<description>In this episode, we explore the fascinating world of NaN. What does it stand for? What does it mean in everyday coding and math? Join us as we simplify this tricky topic and make it fun to understand.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
