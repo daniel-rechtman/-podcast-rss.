@@ -110,5 +110,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202509141114</guid>
+<title>New Songs and September Shows בינוני</title>
+<pubDate>Sun, 14 Sep 2025 11:14:33 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1VffijpRPBiAhKcK6C2ZY84KXTFKrrwGC" type="audio/mpeg"/>
+<description>Discover Benaya Barabi&apos;s inspiring new song full of hope and light. Find out about exciting TV series coming in September. Perfect for music and TV lovers looking for something new!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
