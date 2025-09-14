@@ -146,5 +146,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202509141136</guid>
+<title>Cool Crypto and More! מתקדמים</title>
+<pubDate>Sun, 14 Sep 2025 11:36:28 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1EjCItx0bN_EYInSKmkT3fAeC_p5Kce4x" type="audio/mpeg"/>
+<description>Let's dive into the world of digital currencies. Learn about how cryptocurrencies are used today. Also, discover exciting pop-up stores and hear about a big music contest!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
