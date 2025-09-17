@@ -155,5 +155,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202509170939</guid>
+<title>Let's Explore English Learning Together מתחילים</title>
+<pubDate>Wed, 17 Sep 2025 09:39:36 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1E99L7cTt_7V0bfpzaqTtKy8OdJzMOojc" type="audio/mpeg"/>
+<description>Join us on a fun journey to learn English. We'll talk about cool tips to boost your language skills. Perfect for beginners who want to improve fast!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
