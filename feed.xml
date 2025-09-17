@@ -164,5 +164,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202509170945</guid>
+<title>Cheers to New Adventures! בינוני</title>
+<pubDate>Wed, 17 Sep 2025 09:45:56 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1PTlC7Jl-895uAmyjG1PmakJgcDgjcL8M" type="audio/mpeg"/>
+<description>Join us as we explore stories from Hollywood to Israel. Discover the legacy of a film legend and learn about exciting new TV series. We'll also talk about the love for wine in Israel. Get ready for fun and learning!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
