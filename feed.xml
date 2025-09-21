@@ -191,5 +191,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202509210801</guid>
+<title>Eurovision Excitement בינוני</title>
+<pubDate>Sun, 21 Sep 2025 08:01:18 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1pmJB-nwmsMt-67QGHP_t23rG1ZJAu254" type="audio/mpeg"/>
+<description>Join us as we dive into the Eurovision song contest drama! Discover why some countries support the show while others may not. Plus, learn about the exciting surprises and decisions behind the scenes. It's all about music, culture, and keeping the dialogue open!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
