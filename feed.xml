@@ -209,5 +209,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202509281025</guid>
+<title>Unlocking English in Fun Ways מתחילים</title>
+<pubDate>Sun, 28 Sep 2025 10:25:08 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=161GUVecGXDBOnI3F1OZZ9zc95CidUl6F" type="audio/mpeg"/>
+<description>Join us to explore easy and fun ways to learn English! We share simple tips and tricks to boost your language skills. Perfect for beginners who want to speak English confidently.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
