@@ -188,7 +188,7 @@
 <pubDate>Sun, 21 Sep 2025 07:54:08 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kp60AysAZG6CR2IC6CvGFgh7z3qsP3X4" type="audio/mpeg"/>
 <description>Join us! We'll guide you through trusty vocab tips and simple grammar tricks. Get ready to boost your English skills with ease. Perfect for learners who enjoy a fun and friendly podcast journey.</description>
-<itunes:author>יוני כהן</itunes:author>
+<itunes:author>יוני כהן</itunes:duration>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
@@ -215,6 +215,15 @@
 <pubDate>Sun, 28 Sep 2025 10:25:08 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=161GUVecGXDBOnI3F1OZZ9zc95CidUl6F" type="audio/mpeg"/>
 <description>Join us to explore easy and fun ways to learn English! We share simple tips and tricks to boost your language skills. Perfect for beginners who want to speak English confidently.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202509281032</guid>
+<title>Amazing Stories from Around the World בינוני</title>
+<pubDate>Sun, 28 Sep 2025 10:32:01 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1TaHT8qqpsRERy_SXIAJdbpZiTCDWpXaF" type="audio/mpeg"/>
+<description>Join us as we explore exciting events happening globally. From the world of movies to the wonders of music, discover the heartwarming stories and thrilling tech developments that are making the news today. Let's learn English with interesting stories!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
