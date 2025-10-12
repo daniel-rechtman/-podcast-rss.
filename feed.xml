@@ -263,5 +263,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510120803</guid>
+<title>Unlock the Secrets of English! מתחילים</title>
+<pubDate>Sun, 12 Oct 2025 08:03:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=19lunueTlgQe7Fw6fsCLvab-NZGe7CQzg" type="audio/mpeg"/>
+<description>Join us to explore fun ways to learn English. Discover tips to improve your skills. Together, we’ll make learning exciting and enjoyable!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
