@@ -245,5 +245,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510120751</guid>
+<title>Exciting TV Shows in 2025 בינוני</title>
+<pubDate>Sun, 12 Oct 2025 07:51:46 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1wFFwJtaIlcUgKZP93JRayGR5ir4LPqMU" type="audio/mpeg"/>
+<description>Check out the cool TV shows coming in September 2025! From old favorites to thrilling new releases, there's something fun for everyone to watch. Let's dive into the world of exciting mysteries and entertainment!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
