@@ -299,5 +299,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510150741</guid>
+<title>News and Hope בינוני</title>
+<pubDate>Wed, 15 Oct 2025 07:41:23 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1SCmIM5_Tt4TVnW7fqxWCLNol6HKlFJPQ" type="audio/mpeg"/>
+<description>Join us this episode as we explore stories about peace and kindness. From international news events to personal stories of courage, learn about people making a difference. Let's celebrate the return of loved ones and new beginnings!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
