@@ -317,5 +317,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510190737</guid>
+<title>Learning with Numbers מתחילים</title>
+<pubDate>Sun, 19 Oct 2025 07:37:48 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1M0KnMP2IxeSyXwltSDVtLIcNzMyiOUAU" type="audio/mpeg"/>
+<description>Join us to explore numbers! Learn how to use numbers in English. Practice counting and talk about your favorite numbers with us.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
