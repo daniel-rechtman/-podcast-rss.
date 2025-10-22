@@ -344,5 +344,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510220725</guid>
+<title>Exploring the Unknown מתחילים</title>
+<pubDate>Wed, 22 Oct 2025 07:25:09 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1TkYa1hLxDNIoieGBCSjGVEVYarGcjrOU" type="audio/mpeg"/>
+<description>Join us as we dive into mysteries and unknowns. Learn new words and phrases on this exciting journey. Perfect for curious minds wanting to practice English!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
