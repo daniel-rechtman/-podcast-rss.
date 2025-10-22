@@ -362,5 +362,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510220740</guid>
+<title>Big Talks and Big Changes מתקדמים</title>
+<pubDate>Wed, 22 Oct 2025 07:40:50 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1FJyTfpaXRnu5VvuVMQP5zq5KKnDFIN_o" type="audio/mpeg"/>
+<description>Join us as we explore lively discussions and exciting new music. Discover how AI is changing the world of the web. We’ll also talk about the surprising secrets of the housing market. Tune in for an exciting episode!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
