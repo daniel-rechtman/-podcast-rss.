@@ -353,5 +353,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202510220734</guid>
+<title>Music and Money בינוני</title>
+<pubDate>Wed, 22 Oct 2025 07:34:39 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1txPnwbB8KED-lFW_HymcxCd-4jfnEVvy" type="audio/mpeg"/>
+<description>In this episode, we talk about a famous musician's new song. We also discuss how much money an AI company raised. Learn new words and enjoy the stories!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
