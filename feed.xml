@@ -371,5 +371,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510240843</guid>
+<title>Cracking the Code of English Learning מתחילים</title>
+<pubDate>Fri, 24 Oct 2025 08:43:57 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1DPZV_npVuYzdK44qIie8rkC-foRj8WYs" type="audio/mpeg"/>
+<description>Join us to learn English with fun and simple steps. Discover easy ways to practice every day. Boost your skills and enjoy the journey!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
