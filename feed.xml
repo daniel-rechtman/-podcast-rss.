@@ -398,5 +398,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510290719</guid>
+<title>Master English Numbers Easily מתחילים</title>
+<pubDate>Wed, 29 Oct 2025 07:19:30 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1N1S2eyHO5uzHfr83nQ8fgSxAQ7odxEja" type="audio/mpeg"/>
+<description>Join us as we explore the world of English numbers. Learn how to use numbers in everyday situations. Improve your confidence with tips and examples.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
