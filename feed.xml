@@ -425,5 +425,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510290746</guid>
+<title>Tech Giants on the Move בינוני</title>
+<pubDate>Wed, 29 Oct 2025 07:46:13 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=15jnaj629239zmzVfubNl6y7g6awYdG6w" type="audio/mpeg"/>
+<description>Join us as we explore big changes in the tech world! Apple and PayPal are growing and reaching new heights. Meanwhile, Amazon is preparing for the future with AI, but it means some hard choices.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
