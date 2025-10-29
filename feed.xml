@@ -416,5 +416,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202510290738</guid>
+<title>Stories That Shake the World מתקדמים</title>
+<pubDate>Wed, 29 Oct 2025 07:38:49 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1af_PJGhXLj5igtceVv33z91TBvb8alkK" type="audio/mpeg"/>
+<description>Join us as we explore exciting stories from around the globe. From a viral music video in Iran to Apple's new milestone, and PayPal's big announcement with ChatGPT. Let's learn English and stay updated together!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
