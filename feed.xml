@@ -407,5 +407,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202510290726</guid>
+<title>Master English Numbers Easily מתחילים</title>
+<pubDate>Wed, 29 Oct 2025 07:26:27 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1qI1ymOJuc8NzMyy8m_mvoR5DZ3cpFFBn" type="audio/mpeg"/>
+<description>Join us as we explore the world of English numbers. Learn how to use numbers in everyday situations. Improve your confidence with tips and examples.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
