@@ -452,5 +452,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511020805</guid>
+<title>Lights, Camera, Action! מתקדמים</title>
+<pubDate>Sun, 02 Nov 2025 08:05:08 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1lwslV_cQ8jomY9fViE4G810haqdIReIJ" type="audio/mpeg"/>
+<description>Join us as we explore a new TV show, a thrilling movie, and the exciting final season of a hit series. We also touch on interesting developments in cryptocurrency and a unique business merger. Don't miss this fun and informative episode!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
