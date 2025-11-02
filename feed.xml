@@ -434,5 +434,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511020749</guid>
+<title>Boost Your Grammar Skills! מתחילים</title>
+<pubDate>Sun, 02 Nov 2025 07:49:02 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=13jsZCvHdzJXRggMtND0ZbtmJZp1cS5Uv" type="audio/mpeg"/>
+<description>Join us as we explore simple grammar tips to improve your English. Learn easy tricks to remember key rules. Perfect for beginners wanting to speak with confidence!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
