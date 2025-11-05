@@ -461,5 +461,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511050756</guid>
+<title>Learning Fun with IFAL מתחילים</title>
+<pubDate>Wed, 05 Nov 2025 07:56:09 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZOxOqQL8YbkNeC4SHyMTnS_W69sIT6PC" type="audio/mpeg"/>
+<description>Join us as we explore exciting topics to make learning English easy. Listen to fun conversations, learn new words, and improve your skills. Enjoy a simple and friendly way to practice English!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
