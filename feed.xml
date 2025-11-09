@@ -515,5 +515,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511090948</guid>
+<title>Discovering Hidden Stories מתקדמים</title>
+<pubDate>Sun, 09 Nov 2025 09:48:16 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1USTZrMRgeZ_TB4Z-yMvznqliHOUV4G3T" type="audio/mpeg"/>
+<description>Join us as we explore surprising stories linked by history and mystery. Hear about a filmmaker unveiling a shocking historical truth. Dive into gripping tales of mothers entwined by fate. Stay tuned for more exciting adventures!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
