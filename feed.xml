@@ -533,5 +533,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511120742</guid>
+<title>Safety and Secrets בינוני</title>
+<pubDate>Wed, 12 Nov 2025 07:42:36 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1HfqvuesSyFNcklLw4GTSUzJojCWQWDpv" type="audio/mpeg"/>
+<description>Discover why John Cleese canceled his shows in Israel. We unravel the truth behind the headlines. Join us as we explore the reasons and the response.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
