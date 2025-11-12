@@ -524,5 +524,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511120734</guid>
+<title>Understanding NaN in Numbers מתחילים</title>
+<pubDate>Wed, 12 Nov 2025 07:34:10 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1vMzpbf6JWXpo6qMJykHL3dt0O0WGT3Os" type="audio/mpeg"/>
+<description>Learn what NaN means in numbers. Find out why it shows up in math problems. Discover how to handle NaN in simple ways.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
