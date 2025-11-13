@@ -560,5 +560,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511140035</guid>
+<title>Explore Great Adventures מתחילים</title>
+<pubDate>Fri, 14 Nov 2025 00:35:53 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1P6JMAbxn1eX-34YX7SovEgC0q01xs0MI" type="audio/mpeg"/>
+<description>Join us to learn about amazing adventures around the world. Discover new places and exciting challenges. Get ready to plan your dream trip!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
