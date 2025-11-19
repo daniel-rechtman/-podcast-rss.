@@ -587,5 +587,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid isPermaLink="false">episode-202511190852</guid>
+<title>Learning English with Fun מתחילים</title>
+<pubDate>Wed, 19 Nov 2025 08:52:17 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=16dd9_aU6SPXI7H4JyvK39eDw0ayPRtfx" type="audio/mpeg"/>
+<description>Join us to explore easy ways to learn English with interesting examples. From new vocabulary to fun expressions, we have something for everyone. Improve your English skills step by step with our friendly lessons!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
