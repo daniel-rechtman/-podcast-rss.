@@ -614,5 +614,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511230805</guid>
+<title>Learning English with Fun Stories מתחילים</title>
+<pubDate>Sun, 23 Nov 2025 08:05:50 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1iuOfzq37989P2Zj_xSTpDnN2wMVhWagU" type="audio/mpeg"/>
+<description>Join us for a fun English lesson! We'll explore interesting stories and learn useful words. Perfect for practicing your speaking and listening skills. Let's start our language adventure together!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
