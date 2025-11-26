@@ -641,5 +641,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511260754</guid>
+<title>Unlock the Secrets of Daily English מתחילים</title>
+<pubDate>Wed, 26 Nov 2025 07:54:12 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1EYRn5pzXTGY8VgdUVVe6_52YsLf4AoQ3" type="audio/mpeg"/>
+<description>Join us to explore simple tips for better English communication. We'll share fun and easy ways to practice. Boost your confidence with real-life examples!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
