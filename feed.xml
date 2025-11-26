@@ -650,5 +650,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511260800</guid>
+<title>Music, Movies, and More בינוני</title>
+<pubDate>Wed, 26 Nov 2025 08:00:43 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1qmlWBuQMEc_hQ_30Yz7Y2YHrSLE4Zm7t" type="audio/mpeg"/>
+<description>In today's episode, we talk about a new song by Moran Aharoni. We also discuss the film event with Tovah Feldshuh. Join us for exciting music, movies, and entertainment news!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
