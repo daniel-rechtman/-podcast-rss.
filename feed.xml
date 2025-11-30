@@ -686,5 +686,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511300946</guid>
+<title>Hot Topics of Today מתקדמים</title>
+<pubDate>Sun, 30 Nov 2025 09:46:15 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=13yyX8fPhKuW-9UZdaVsuPiNzYRk2t_QF" type="audio/mpeg"/>
+<description>Join us as we explore current events from around the world! Discover the Eurovision contest drama, Black Friday sales secrets, and more. Stay informed and enjoy learning English with us!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
