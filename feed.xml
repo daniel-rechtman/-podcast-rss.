@@ -668,5 +668,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202511300933</guid>
+<title>Explore and Learn! מתחילים</title>
+<pubDate>Sun, 30 Nov 2025 09:33:41 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=10aYP6LtEXr0WhquWDxCoFwTEiYmtyvub" type="audio/mpeg"/>
+<description>Join us as we explore five interesting topics. Learn new words and practice listening. It's a fun way to improve your English!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
