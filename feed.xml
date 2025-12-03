@@ -704,5 +704,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512030750</guid>
+<title>Surprising Stories Unwrapped בינוני</title>
+<pubDate>Wed, 03 Dec 2025 07:50:48 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1wD3NCyUrcFXwWkeb8mOXcBcUZ03juINk" type="audio/mpeg"/>
+<description>Join us as we explore some surprising news stories! From a famous comedian's new song to fans catching mistakes in a popular TV show. We also talk about how banks are changing their views on crypto!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
