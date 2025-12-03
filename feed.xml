@@ -713,5 +713,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512030757</guid>
+<title>Trending Tales and Surprising Facts! מתקדמים</title>
+<pubDate>Wed, 03 Dec 2025 07:57:11 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1NOSvIo-0ZVt1NJiIP-XsLNgJhiPmotFT" type="audio/mpeg"/>
+<description>Join us as we explore exciting music from Omar Rivkah and unravel fan secrets of a favorite Netflix show. Discover how big banks embrace cryptocurrency and learn about surprising product changes in grocery stores. We've got something for everyone!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
