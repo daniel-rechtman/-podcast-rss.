@@ -695,5 +695,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512030744</guid>
+<title>Understanding 'NaN' in Numbers מתחילים</title>
+<pubDate>Wed, 03 Dec 2025 07:44:23 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1TGpdE0SqhDYOhDEsolSpRcvZW6QxDVUi" type="audio/mpeg"/>
+<description>In this episode, we explore 'NaN', which means 'Not a Number'. Learn why it's important in maths and computing. We make it fun and easy to understand with everyday examples!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
