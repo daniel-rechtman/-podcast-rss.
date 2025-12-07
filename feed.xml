@@ -722,5 +722,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512070829</guid>
+<title>Exciting English Adventures! מתחילים</title>
+<pubDate>Sun, 07 Dec 2025 08:29:18 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=18d4qqBz-tMV0q0RY370vjIELhUd3desq" type="audio/mpeg"/>
+<description>Join us for fun English learning! Discover easy ways to improve your skills. Learn new words and practice speaking with us in this exciting episode.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
