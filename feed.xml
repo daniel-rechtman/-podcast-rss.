@@ -731,5 +731,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512070835</guid>
+<title>Pop Legends and TV Hits בינוני</title>
+<pubDate>Sun, 07 Dec 2025 08:35:28 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1w8PSplOq1UurATwggnku-lmHs5GDI9xi" type="audio/mpeg"/>
+<description>Join us to explore December's TV must-sees and a pop legend's new song. Discover which TV series are making a comeback and learn about a special song by a famous songwriter. It's all about music and entertainment surprises!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
