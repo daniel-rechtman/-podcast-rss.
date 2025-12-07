@@ -740,5 +740,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512070841</guid>
+<title>Mix of Music, Shows, and Innovations מתקדמים</title>
+<pubDate>Sun, 07 Dec 2025 08:41:37 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZCzeQk92Kfo0XduJdLrh-qIxxpFWKDp0" type="audio/mpeg"/>
+<description>Join us as we explore new shows and a classic album. Learn about exciting brand news and the future of technology. It's a mixed bag of culture, innovation, and fun!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
