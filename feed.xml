@@ -758,5 +758,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512100737</guid>
+<title>Big News and New Books! בינוני</title>
+<pubDate>Wed, 10 Dec 2025 07:37:06 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1y3cCPVX0QIvo9cOfQo7Jgg7UysZwGX0w" type="audio/mpeg"/>
+<description>Join us as we talk about an artist's new book and an exciting TV interview! Learn about a band's impressive ticket sales and a film event. Plus, find out why many people will get a special payment this week!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
