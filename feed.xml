@@ -749,5 +749,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512100728</guid>
+<title>Exploring the World of Numbers מתחילים</title>
+<pubDate>Wed, 10 Dec 2025 07:28:18 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1zM91Ql90y8EwztHL_gN3OUpq_SmAqbPE" type="audio/mpeg"/>
+<description>Join us as we dive into the fascinating world of numbers! We'll discuss what makes numbers special and how they shape our everyday lives. Perfect for curious learners who love to count and discover new things!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
