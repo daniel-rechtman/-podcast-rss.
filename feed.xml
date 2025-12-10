@@ -767,5 +767,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512100743</guid>
+<title>Music, Movies, and More! מתקדמים</title>
+<pubDate>Wed, 10 Dec 2025 07:43:43 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=18NgsPDNgvDchlpab1nUY5K2Y4jTGUM4N" type="audio/mpeg"/>
+<description>Join us as we discover a new book by Alon Olearchik and explore a debate about history on TV. Find out which band sold the most concert tickets and hear about a new movie event. Plus, learn about a gas search competition. It's going to be interesting!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
