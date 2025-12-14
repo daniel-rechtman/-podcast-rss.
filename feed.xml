@@ -785,5 +785,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512141009</guid>
+<title>Exciting Stories from Around the World בינוני</title>
+<pubDate>Sun, 14 Dec 2025 10:09:02 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1VZVuiSphhvE15eAdO9E4bFHtS05NvlIB" type="audio/mpeg"/>
+<description>Join us as we explore thrilling events and stories. Discover the fun of Hanukkah festivals and Omri Casspi's big investment. Plus, learn about a new visa program and a school's musical journey.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
