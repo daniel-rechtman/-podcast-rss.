@@ -803,5 +803,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512210937</guid>
+<title>Understanding NaN in Numbers מתחילים</title>
+<pubDate>Sun, 21 Dec 2025 09:37:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1yiZz4X1u3nsWdNScZOs17qr_A7p12JKx" type="audio/mpeg"/>
+<description>Why does NaN appear in math calculations? Join us to explore what NaN means and why it shows up. Learn how to handle it when you see it in your math results!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
