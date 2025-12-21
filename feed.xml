@@ -812,5 +812,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+<item>
+<guid>episode-202512210943</guid>
+<title>TV Comebacks and Movie Magic בינוני</title>
+<pubDate>Sun, 21 Dec 2025 09:43:26 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1xwbTwHgdYR7h-mGqXmJIDr2oc-JwThU1" type="audio/mpeg"/>
+<description>Join us as we talk about Kevin Spacey's return to TV in a new show. We also share some thoughts on the latest Avatar movie. Stay tuned for fun discussions!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
 </channel>
 </rss>
