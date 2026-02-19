@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>IFAL News-English</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
 <language>he</language>
 <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
-<itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
+<itunes:image href="https://drive.google.com/uc?export=view&amp;id=178k_2EzaeqMFeQLUN8z5SBfciyOlTpcX"/>
 <itunes:owner>
 <itunes:name>יוני כהן</itunes:name>
 <itunes:email>daniel763@gmail.com</itunes:email>
@@ -823,11 +822,11 @@
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602110857</guid>
-<title>Chasing Dreams and Stars מתקדמים</title>
-<pubDate>Wed, 11 Feb 2026 08:57:00 GMT</pubDate>
-<enclosure url="" type="audio/mpeg"/>
-<description>Episode description coming soon.</description>
+<guid>episode-202602191528</guid>
+<title>Exciting Events and Shifting Trends! מתקדמים</title>
+<pubDate>Thu, 19 Feb 2026 15:28:10 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1gf6mI6FMFopakJdxE5e_tUpLg_4zKHMV" type="audio/mpeg"/>
+<description>Join us in this exciting episode as we explore breaking records in TV, amazing theater awards, and major changes in the world of work. Discover what's happening in entertainment and the future of employment. Stay tuned for some interesting insights!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
