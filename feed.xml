@@ -1146,5 +1146,15 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
-</channel>
+
+     <item>
+       <guid isPermaLink="false">episode-1771524582747-1</guid>
+       <title>Understanding NaN in Simple Terms מתחילים</title>
+       <pubDate>Thu, 19 Feb 2026 18:09:45 GMT</pubDate>
+       <enclosure url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/audio/episode-1771524582747-1.mp3" type="audio/mpeg" length="7708465"/>
+       <description>Learn what NaN means in tech and math! It&apos;s a special value that you might see when something goes wrong with numbers. Join us to understand why NaN is important and how it is used!</description>
+       <itunes:author>יוני כהן</itunes:author>
+       <itunes:duration>00:04:30</itunes:duration>
+     </item>
+  </channel>
 </rss>
