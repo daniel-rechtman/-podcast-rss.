@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>IFAL News-English</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
 <language>he</language>
 <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
-<itunes:image href="https://drive.google.com/uc?export=view&amp;id=178k_2EzaeqMFeQLUN8z5SBfciyOlTpcX"/>
+<itunes:image href="https://drive.google.com/uc?export=view&amp;id=1i6VRloHFujUCPy3-UxWnQJBDnINyhqp3"/>
 <itunes:owner>
 <itunes:name>יוני כהן</itunes:name>
 <itunes:email>daniel763@gmail.com</itunes:email>
@@ -822,11 +823,326 @@
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602191528</guid>
+<guid>episode-202512300900</guid>
 <title>Exciting Events and Shifting Trends! מתקדמים</title>
-<pubDate>Thu, 19 Feb 2026 15:28:10 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1gf6mI6FMFopakJdxE5e_tUpLg_4zKHMV" type="audio/mpeg"/>
+<pubDate>Tue, 30 Dec 2025 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1cla8YxTJkbDsfDnPAeuOLqavFhNsiqre" type="audio/mpeg"/>
 <description>Join us in this exciting episode as we explore breaking records in TV, amazing theater awards, and major changes in the world of work. Discover what's happening in entertainment and the future of employment. Stay tuned for some interesting insights!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202512300906</guid>
+<title>Trends and Triumphs in 2026 בינוני</title>
+<pubDate>Tue, 30 Dec 2025 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1gf6mI6FMFopakJdxE5e_tUpLg_4zKHMV" type="audio/mpeg"/>
+<description>In this episode, discover exciting trends in 2026, from big theater awards to record-breaking TV shows. Learn about changes in work life and how people are adapting. Get ready for an engaging exploration of what the future holds!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202512300912</guid>
+<title>Learn with Numbers מתחילים</title>
+<pubDate>Tue, 30 Dec 2025 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1kaHndZJd9Ys1kq83H6CEqpGUcb8WRi2c" type="audio/mpeg"/>
+<description>In this episode, we explore how to use numbers in English. You'll learn to talk about ages, dates, and prices. Join us for fun number practice with easy exercises!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601010900</guid>
+<title>Exciting TV Shows and More! מתקדמים</title>
+<pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1IrfRsm3xaa-kn2OvNIFjHiDg1oGBdr56" type="audio/mpeg"/>
+<description>Discover the best TV shows to watch in January 2026. From &quot;Stranger Things&quot; to new adaptations by famous authors, there's something for everyone. Join us to learn more about what's coming to your screens!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601010906</guid>
+<title>New Series and Shows to Catch This January בינוני</title>
+<pubDate>Thu, 01 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1bSFnywnM9mRmQ_j4nUo5iMYLxpmhA78N" type="audio/mpeg"/>
+<description>Discover the exciting TV series to watch this January. Say goodbye to some old favorites, and welcome new adventures. Find out what's coming to your screen!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601010912</guid>
+<title>Understanding Numbers and Nan מתחילים</title>
+<pubDate>Thu, 01 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=157ft1Uyegedm9z_Id9lYnWavkkFqlkO6" type="audio/mpeg"/>
+<description>Learn about numbers and what 'NaN' means in an easy way. We'll explore how numbers work in programming. Join us for a fun lesson on this unique term!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601060900</guid>
+<title>Teen Scientists &amp; Big Dreams מתקדמים</title>
+<pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZckpDr4rt4i_2X2vMF87Kng_BFB1HDYV" type="audio/mpeg"/>
+<description>In this episode, we talk about young students with big dreams. They are starting their science careers early to help shape the future. Listen to their stories of challenges and success in Israel's top youth programs.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601060906</guid>
+<title>Pop, Politics, and Future Stars בינוני</title>
+<pubDate>Tue, 06 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1eT7tKBDvsJDR9QEd7BhKpbrR9sAN_4bk" type="audio/mpeg"/>
+<description>Join us as we celebrate Taylor Swift's record-breaking hit. Discover the exciting mayoral race in New York City. Meet young talents shaping the future with their big dreams.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601060912</guid>
+<title>Explore the World of Words מתחילים</title>
+<pubDate>Tue, 06 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1mwPu6OJp7UrMpTTBPLVJNFK2_7pxNsDC" type="audio/mpeg"/>
+<description>Join us as we dive into fun stories about language. Learn new words, their meanings, and how they are used in everyday life. Perfect for anyone who loves words and wants to improve their English!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601080900</guid>
+<title>Melodies and Innovations מתקדמים</title>
+<pubDate>Thu, 08 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Vyg5yBqrkRtx91DDads4uADBXQcRyxh3" type="audio/mpeg"/>
+<description>Join us as we explore stories of creativity and change. Meet a drummer from a famous band, and a singer who turns critique into song. We also discuss a series, a company's decision in the AI age, and a country's gas challenge.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601080906</guid>
+<title>Rock, Laugh, and Learn בינוני</title>
+<pubDate>Thu, 08 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=157nuWPL_x4UY6F88q77PEyqMllZRT9Rh" type="audio/mpeg"/>
+<description>Join us as we dive into the world of music, TV, and innovation. Discover a band's sweet name change, a singer's fun answer to critics, and a gripping medical drama. Plus, explore the future of workplaces and a community's inspiring story.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601080912</guid>
+<title>Unlocking Language Fun מתחילים</title>
+<pubDate>Thu, 08 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1YKhRXyQ2XJomd033uaFsLAnLt3VlzrnB" type="audio/mpeg"/>
+<description>Join us for a fun episode about learning English. We'll share easy tips and interesting stories. It's a perfect way to practice and enjoy English together!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601130900</guid>
+<title>Shrek's Villain Takes the Stage מתקדמים</title>
+<pubDate>Tue, 13 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1kvycYCtD9C4e_vOT3xG9B9TtBM6yMIDA" type="audio/mpeg"/>
+<description>In this episode, we talk about a new movie about the villain from Shrek. Find out what makes this character interesting. Plus, a look at what's next for Shrek 5!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601130906</guid>
+<title>Movie Magic and More! בינוני</title>
+<pubDate>Tue, 13 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1effkOzKZp6KwM4OhxQlgnydux5x9HcYX" type="audio/mpeg"/>
+<description>Join us as we talk about exciting things in entertainment. Discover how the 'Shrek' villain might get his own movie. We also explore the fun world of Eurovision and young, budding scientists. Tune in for fun and informative stories!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601130912</guid>
+<title>English Tips &amp; Tricks מתחילים</title>
+<pubDate>Tue, 13 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1BoY6pvCTbnD3dXboXXOih8x2T8yjlosf" type="audio/mpeg"/>
+<description>Join us to learn practical English tips. Improve your skills with easy exercises. Let's make English fun and simple!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601150900</guid>
+<title>Exciting News: From Shows to Savings מתקדמים</title>
+<pubDate>Thu, 15 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1zQKcSwwm6p9Wtz7qJlHGTM5DDv8qtd-6" type="audio/mpeg"/>
+<description>In this episode, we explore a dazzling dance show and the finale of a popular TV series in theaters. We also discuss a royal refusal and how AI is helping in medicine. Lastly, we look at smart savings tips for your future.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601150906</guid>
+<title>Fueling Your Wallet בינוני</title>
+<pubDate>Thu, 15 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1GKCWKzM5aA0sk00QSgo7gP5OGS6lNULF" type="audio/mpeg"/>
+<description>Is your gas station overcharging you? Discover how fuel prices differ greatly, costing you extra each year. This episode helps you understand what's happening and how to save money.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601150912</guid>
+<title>Exploring English Together מתחילים</title>
+<pubDate>Thu, 15 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1yQKoaMn0JP_cDOSkKliqVNppezCjNoRT" type="audio/mpeg"/>
+<description>In today's episode, we learn English in a fun and easy way. We explore new words and phrases you can use every day. Join us and improve your English with a smile!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601200900</guid>
+<title>Why We Say Goodbye to Jobs מתקדמים</title>
+<pubDate>Tue, 20 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1cBc9gjzGNT6yXbuXlZnrY2PaEJgRPfn4" type="audio/mpeg"/>
+<description>In this episode, we talk about why people leave their jobs. Learn the top 10 reasons that make people quit. Understand what can be done to keep workers happy and staying longer.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601200906</guid>
+<title>Top Stories: New Songs, Films, and Work Trends בינוני</title>
+<pubDate>Tue, 20 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1IHWOixgswhc1BNBnCWZRsTCguIV-PUUA" type="audio/mpeg"/>
+<description>Join us as we explore exciting news in music and film! Discover a new song by a famous singer and celebrate an Israeli film going to Berlin. Plus, learn why people are leaving their jobs and what it means for workplaces today.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601200912</guid>
+<title>Learning English Fun! מתחילים</title>
+<pubDate>Tue, 20 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1bQG2IuJ9r7Oy847wG7CQaud-VAvfT49U" type="audio/mpeg"/>
+<description>Join us for another episode of IFAL! We will explore some fun ways to improve your English. Stay tuned and let's learn together!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601220900</guid>
+<title>A Magical Journey and Award Dreams מתקדמים</title>
+<pubDate>Thu, 22 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1l2b7jl35LxfHpHncmRPuEzgSYbbib7kC" type="audio/mpeg"/>
+<description>Discover exciting news from the Oscars and a heartwarming movie about Shakespeare. Join us to learn about a musical journey and a magical hospital project for kids. Enjoy a mix of inspiration and entertainment!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601220906</guid>
+<title>Oscar Buzz and Movie Magic בינוני</title>
+<pubDate>Thu, 22 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=10enruL67VHCcA4EDTxQjxCHv6EisrMPW" type="audio/mpeg"/>
+<description>Join us as we discuss two Israeli films with Oscar nominations. Discover the incredible acting in a movie inspired by Shakespeare's life. Plus, learn about a magical project for kids in hospitals!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601220912</guid>
+<title>Explore Mindful Language Learning מתחילים</title>
+<pubDate>Thu, 22 Jan 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1k_GfAhbX6_TcOkBOxR7-5oUNYsoL2MJ0" type="audio/mpeg"/>
+<description>Join us as we dive into mindful and fun ways to learn English! Discover simple tips to boost your skills. Perfect for everyday practice, it's learning made easy.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601270900</guid>
+<title>Top TV Shows for February מתקדמים</title>
+<pubDate>Tue, 27 Jan 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5PU2DpNg-uK9u9kvUNnaU3_ei-A8LcP" type="audio/mpeg"/>
+<description>Discover the best new TV shows and seasons this February. We talk about what's worth watching, including exciting thrillers and classic comebacks. Join us for a fun chat about the latest TV trends!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601270906</guid>
+<title>TV Picks and Big Changes בינוני</title>
+<pubDate>Tue, 27 Jan 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1szZbiJUtud1xauqMDJJOJxf3uTtNaOmW" type="audio/mpeg"/>
+<description>Join us as we explore exciting new TV shows coming this February. We also discuss big cultural and economic changes happening around the world. Tune in for news on new projects, awards, and more!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202601280853</guid>
+<title>Exploring Exciting Adventures in Learning מתחילים</title>
+<pubDate>Wed, 28 Jan 2026 08:53:53 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1dIf8DCIq-SDpnIQKrR1990MBRpzd4ZL-" type="audio/mpeg"/>
+<description>Join us as we explore the world of learning with fun and simple stories. Discover easy tips to improve your English skills every day. Let's enjoy English together with curious and exciting adventures!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602030900</guid>
+<title>News Buzz: Headlines That Matter מתקדמים</title>
+<pubDate>Tue, 03 Feb 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1pjIjUA9JFmenTMzBbRPvLfxKPGZKpB4g" type="audio/mpeg"/>
+<description>In today's episode, we talk about an Israeli music critic who faced harsh words but stayed calm. We also cover a famous reporter's missing mom, and how Disney is betting big on a new leader. Join us for these stories and more!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602030906</guid>
+<title>Big Stories from Around the World בינוני</title>
+<pubDate>Tue, 03 Feb 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1L8-1AxQjgvzmhpWIjG96_k6zc7enH3T5" type="audio/mpeg"/>
+<description>Join us as we explore stories from different places. From a missing person's mystery in the U.S. to a city's financial troubles, and Disney's new CEO. Let's dive into these exciting stories together!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602030912</guid>
+<title>Mastering English with IFAL מתחילים</title>
+<pubDate>Tue, 03 Feb 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gsqxr5NvvrF5xI3MyGo9NSid2rY0asVS" type="audio/mpeg"/>
+<description>Join us for a fun English lesson where we learn new words and phrases. Improve your skills with simple, clear examples. Perfect for anyone wanting to enjoy learning English!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602100900</guid>
+<title>Chasing Dreams and Stars מתקדמים</title>
+<pubDate>Tue, 10 Feb 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1adGFghZHx7GqkxzHYsbr7_rf1ODTwVG4" type="audio/mpeg"/>
+<description>Join us as we explore amazing stories of success and creativity. Discover how one singer celebrated his new album and birthday, while a famous actress returns to theater. Get inspired to follow your dreams too!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602100906</guid>
+<title>Dreams, Drama, and Deals בינוני</title>
+<pubDate>Tue, 10 Feb 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1wdgyHy1xsM3N-XbkbO4pvqFITkYlaD2e" type="audio/mpeg"/>
+<description>In this episode, we talk about chasing dreams with singer Margi's new album. Join us as we explore a big theater event with stars Ania Bukstein and Netta Barzilai. Finally, learn how a supermarket deal aims to make living cheaper.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602100912</guid>
+<title>Learning Bytes מתחילים</title>
+<pubDate>Tue, 10 Feb 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1xT3fMYjqw9nyRU71uTk8_20bD0E_zK4U" type="audio/mpeg"/>
+<description>Join us for a fun episode where we explore small but powerful learning bits. Discover new words, tips, and tricks to make your English better. It's simple and exciting!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602120900</guid>
+<title>Love, Dollars, and Drama מתקדמים</title>
+<pubDate>Thu, 12 Feb 2026 09:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ULPVpKRsCRGW5_KjYWslwpJU9DYergEL" type="audio/mpeg"/>
+<description>Join us as we dive into the buzz around a hyped movie and explore the surprising dollar drop. We'll also chat about love trends and torments facing everyday people.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602120906</guid>
+<title>Love, Movies, and Money בינוני</title>
+<pubDate>Thu, 12 Feb 2026 09:06:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1fSYyYixftrn4KOWEjjPHYvhgyVaq6hJX" type="audio/mpeg"/>
+<description>Join us as we explore the world of love and money. We'll dive into why people love the new 'Bridgerton' show. Learn how Valentine's spending is changing, and why some movies aren't as good as they seem.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602120912</guid>
+<title>Fun with Numbers: Understanding NaN! מתחילים</title>
+<pubDate>Thu, 12 Feb 2026 09:12:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1VmkNs8HFzDBNeheoAZKA5qa4VBRYWJvi" type="audio/mpeg"/>
+<description>In this episode, we learn about NaN, which means 'Not a Number.' It's a special term in computers. Join us to discover why NaN is important and how it helps in computer programs!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
