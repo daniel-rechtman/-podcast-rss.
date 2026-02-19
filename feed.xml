@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>IFAL News-English</title>
@@ -277,7 +278,7 @@
 <title>Unlock the Secrets of English! מתחילים</title>
 <pubDate>Sun, 12 Oct 2025 08:03:00 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=19lunueTlgQe7Fw6fsCLvab-NZGe7CQzg" type="audio/mpeg"/>
-<description>Join us to explore fun ways to learn English. Discover tips to improve your skills. Together, we’ll make learning exciting and enjoyable!</description>
+<description>Join us to explore fun ways to learn English. Discover tips to improve your skills. Together, we'll make learning exciting and enjoyable!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
@@ -376,7 +377,7 @@
 <title>Big Talks and Big Changes מתקדמים</title>
 <pubDate>Wed, 22 Oct 2025 07:40:50 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FJyTfpaXRnu5VvuVMQP5zq5KKnDFIN_o" type="audio/mpeg"/>
-<description>Join us as we explore lively discussions and exciting new music. Discover how AI is changing the world of the web. We’ll also talk about the surprising secrets of the housing market. Tune in for an exciting episode!</description>
+<description>Join us as we explore lively discussions and exciting new music. Discover how AI is changing the world of the web. We'll also talk about the surprising secrets of the housing market. Tune in for an exciting episode!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
@@ -691,7 +692,7 @@
 <title>Eurovision Drama Unfolds בינוני</title>
 <pubDate>Sun, 30 Nov 2025 09:39:49 GMT</pubDate>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PdtlpDJfMmcOIiATJZ9xeKanhAJVdLIF" type="audio/mpeg"/>
-<description>Discover the heated debate as Iceland and Slovenia question Israel’s place in Eurovision. Find out why Spain is next to make a big decision. Tune in for the latest updates on this musical rivalry!</description>
+<description>Discover the heated debate as Iceland and Slovenia question Israel's place in Eurovision. Find out why Spain is next to make a big decision. Tune in for the latest updates on this musical rivalry!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
@@ -824,4 +825,11 @@
 <item>
 <guid>episode-202602110857</guid>
 <title>Chasing Dreams and Stars מתקדמים</title>
-<pubDate>Wed, 11 Feb 2026
+<pubDate>Wed, 11 Feb 2026 08:57:00 GMT</pubDate>
+<enclosure url="" type="audio/mpeg"/>
+<description>Episode description coming soon.</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+</channel>
+</rss>
