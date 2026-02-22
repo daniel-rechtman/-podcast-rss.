@@ -1146,5 +1146,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
-  </channel>
+  
+    <item>
+        <title>Stories of Change מתקדמים</title>
+        <description>Join us to explore tales of new beginnings and unexpected turns. From emotional farewells to career shifts, each story shows how change can reshape our lives. Listen as we talk about music, life decisions, and industry drama shaping our world.</description>
+        <link>https://yourpodcast.com/episodes/69971fb973e622368d9ac805</link>
+        <guid>69971fb973e622368d9ac805</guid>
+        <pubDate>Thu, 19 Feb 2026 14:35:37 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/17493f8f1_episode-1771745413889-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzE3NDkzZjhmMV9lcGlzb2RlLTE3NzE3NDU0MTM4ODktMS5tcDMiLCJpYXQiOjE3NzE3NDU0MTUsImV4cCI6MTc3NDMzNzQxNX0.E9M9ppP3kueL-3e-WpvfI__Zt88YXEr7H9vEPkJM_jU" type="audio/mpeg" />
+    </item>
+</channel>
 </rss>
