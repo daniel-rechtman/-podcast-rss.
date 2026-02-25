@@ -177,7 +177,7 @@
 <guid isPermaLink="false">episode-202509170945</guid>
 <title>Cheers to New Adventures! בינוני</title>
 <pubDate>Wed, 17 Sep 2025 09:45:56 GMT</pubDate>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1PTlC7Jl-895uAmyjG1PmakJgcDgjcL8M" type="audio/mpeg"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1PTtlC7Jl-895uAmyjG1PmakJgcDgjcL8M" type="audio/mpeg"/>
 <description>Join us as we explore stories from Hollywood to Israel. Discover the legacy of a film legend and learn about exciting new TV series. We'll also talk about the love for wine in Israel. Get ready for fun and learning!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
@@ -1160,6 +1160,15 @@
 <pubDate>Wed, 25 Feb 2026 09:37:12 GMT</pubDate>
 <enclosure url="https://drive.google.com/file/d/1WYD8GRQAX-j5dtKZ29Mnna0GVRJZdQrc/view?usp=drivesdk" type="audio/mpeg"/>
 <description>Join us for a lively episode on new music releases, including Ben Zur's latest album. Discover the Eurovision song writer drama and how music connects people. Plus, stay informed on Israel's top law firms shaping 2026. Tune in for fun and learning!</description>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:duration>00:04:30</itunes:duration>
+</item>
+<item>
+<guid>episode-202602250946</guid>
+<title>Music, Money, and More מתקדמים</title>
+<pubDate>Wed, 25 Feb 2026 09:46:31 GMT</pubDate>
+<enclosure url="https://drive.google.com/file/d/1Q223NP56gqNqWzt7_5R-oxstFxSje52Y/view?usp=drivesdk" type="audio/mpeg"/>
+<description>In this episode, we talk about a new music album and a fight over Eurovision song credits. We also discuss a tax change in Israel and a legal case revealing secret deals. Join us as we explore these exciting stories!</description>
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
