@@ -1172,5 +1172,14 @@
 <itunes:author>יוני כהן</itunes:author>
 <itunes:duration>00:04:30</itunes:duration>
 </item>
+
+    <item>
+        <title>Musical Moments &amp; Legal Giants בינוני</title>
+        <description>Join us for a lively episode on new music releases, including Ben Zur&apos;s latest album. Discover the Eurovision song writer drama and how music connects people. Plus, stay informed on Israel&apos;s top law firms shaping 2026. Tune in for fun and learning!</description>
+        <link>https://yourpodcast.com/episodes/699db3b7b71b8fc2517fd36f</link>
+        <guid>699db3b7b71b8fc2517fd36f</guid>
+        <pubDate>Tue, 24 Feb 2026 14:20:39 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/e5ffe5183_episode-1772006813292-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2U1ZmZlNTE4M19lcGlzb2RlLTE3NzIwMDY4MTMyOTItMS5tcDMiLCJpYXQiOjE3NzIwMDY4MTQsImV4cCI6MTc3NDU5ODgxNH0.PF-vrZRysfGk1oxXWY7oKexJQbwvQ7H1Sk7pQsza5nQ" type="audio/mpeg" />
+    </item>
 </channel>
 </rss>
