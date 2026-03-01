@@ -1200,5 +1200,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a056b4b5c88e5c156f915e</guid>
+        <title>Fun, Drama, and Big Decisions! בינוני</title>
+        <pubDate>Thu, 26 Feb 2026 14:20:36 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/8e67b0e5a_episode-1772346062535-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzhlNjdiMGU1YV9lcGlzb2RlLTE3NzIzNDYwNjI1MzUtMS5tcDMiLCJpYXQiOjE3NzIzNDYwNjQsImV4cCI6MTc3NDkzODA2NH0.3p6LAVAOdWLlZM888vuO77OR0L0hIRvIqVlgz715Yps" type="audio/mpeg"/>
+        <description>Join us as we dive into exciting events! Discover a thrilling theater show, a festive Purim celebration, and an amazing TV series season. Plus, explore big money moves in sports and tech. Learn about choices and their costs!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
