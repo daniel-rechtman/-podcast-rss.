@@ -1190,5 +1190,15 @@
         <pubDate>Tue, 24 Feb 2026 14:35:36 GMT</pubDate>
         <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/8b0e7cb2e_episode-1772006849220-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzhiMGU3Y2IyZV9lcGlzb2RlLTE3NzIwMDY4NDkyMjAtMS5tcDMiLCJpYXQiOjE3NzIwMDY4NTAsImV4cCI6MTc3NDU5ODg1MH0.Ku-1U2g4TyFBYKP6CfgfGo1900_8Y1x4ofz2bwPwN1w" type="audio/mpeg" />
     </item>
+
+    <item>
+        <guid>69a0557ebd181ab095bbfe0d</guid>
+        <title>Unlocking the Mystery of NaN מתחילים</title>
+        <pubDate>Thu, 26 Feb 2026 14:15:26 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/ed1f4bca0_episode-1772346031050-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2VkMWY0YmNhMF9lcGlzb2RlLTE3NzIzNDYwMzEwNTAtMS5tcDMiLCJpYXQiOjE3NzIzNDYwMzIsImV4cCI6MTc3NDkzODAzMn0.9O06CbajpO_9vAMESe3kk1voUo3pxUF2t3ObBrkHepc" type="audio/mpeg"/>
+        <description>Join us as we explore the world of NaN, a unique number in math and programming. Learn what it means and where we find it. Discover why understanding NaN is useful in everyday life.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
