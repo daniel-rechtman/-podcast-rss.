@@ -1210,5 +1210,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a05a347a9bf9eacbe7a676</guid>
+        <title>Stage Magic and Surprises מתקדמים</title>
+        <pubDate>Thu, 26 Feb 2026 14:35:32 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/afc3e6728_episode-1772346091817-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2FmYzNlNjcyOF9lcGlzb2RlLTE3NzIzNDYwOTE4MTctMS5tcDMiLCJpYXQiOjE3NzIzNDYwOTQsImV4cCI6MTc3NDkzODA5NH0.o8wkfXpLgo8oFpSzfo-Wtc1neIXkVUvSG9TLpOGjy0s" type="audio/mpeg"/>
+        <description>Join us for a tour of a thrilling new theater show and a groovy Purim party. Discover the magic behind TV series successes and unexpected sports investments. Plus, learn about surprising worker policies in tech companies.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
