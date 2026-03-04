@@ -1240,5 +1240,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a6f1c1285cb407f3483403</guid>
+        <title>Helping Hands and Tough Times מתקדמים</title>
+        <pubDate>Tue, 03 Mar 2026 14:35:45 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/196989bde_episode-1772606450899-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzE5Njk4OWJkZV9lcGlzb2RlLTE3NzI2MDY0NTA4OTktMS5tcDMiLCJpYXQiOjE3NzI2MDY0NTIsImV4cCI6MTc3NTE5ODQ1Mn0.L2u6rQZDSWVd2Tv0tc1sv-vG0WbieLkNZPSqzO23gfY" type="audio/mpeg"/>
+        <description>In this episode, we explore stories of support and struggle. Discover how a company aids restaurants during tough times. Learn why freezing a mortgage may not be the best idea. Stay tuned for stories of courage and a glimpse into financial challenges.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
