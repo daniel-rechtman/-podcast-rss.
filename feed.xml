@@ -1220,5 +1220,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a6ed0acb975b38c1fd986e</guid>
+        <title>Explore the World in Today&apos;s Words מתחילים</title>
+        <pubDate>Tue, 03 Mar 2026 14:15:38 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/56a975830_episode-1772606354649-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzU2YTk3NTgzMF9lcGlzb2RlLTE3NzI2MDYzNTQ2NDktMS5tcDMiLCJpYXQiOjE3NzI2MDYzNTYsImV4cCI6MTc3NTE5ODM1Nn0.MoONblgt3am1FBFMFgvsoAm33phM_sRM0sdnGEdJhMU" type="audio/mpeg"/>
+        <description>Join us as we dive into global topics. We&apos;ll explore culture, technology, and surprising facts you might not know. Listen in and learn English with real-world stories!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
