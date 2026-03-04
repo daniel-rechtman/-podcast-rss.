@@ -1230,5 +1230,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a6ee3e50431d09cadf01c7</guid>
+        <title>New Ideas for a Better Future בינוני</title>
+        <pubDate>Tue, 03 Mar 2026 14:20:46 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/f43e93fc3_episode-1772606403321-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2Y0M2U5M2ZjM19lcGlzb2RlLTE3NzI2MDY0MDMzMjEtMS5tcDMiLCJpYXQiOjE3NzI2MDY0MDQsImV4cCI6MTc3NTE5ODQwNH0.Ufu1M8wMZFjMhlTyIC2gbtgXlnNCf1xiq-zcKKDcINY" type="audio/mpeg"/>
+        <description>In this episode, we explore how companies can help during tough times. We also learn about making smart money choices and finding hope in dark days. Join us to learn and grow together!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
