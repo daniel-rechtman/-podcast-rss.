@@ -1260,5 +1260,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a991382d3ed95d4440645c</guid>
+        <title>Trending Now: Movies, Music, and More! בינוני</title>
+        <pubDate>Thu, 05 Mar 2026 14:20:40 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/f0e0dbdb7_episode-1772959023698-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2YwZTBkYmRiN19lcGlzb2RlLTE3NzI5NTkwMjM2OTgtMS5tcDMiLCJpYXQiOjE3NzI5NTkwMjUsImV4cCI6MTc3NTU1MTAyNX0.WmIwB3NnyvbdphFCWFGVhMeuSN0qSpugc6duGrfoOKM" type="audio/mpeg"/>
+        <description>Discover the latest in movies and music. Learn why a popular American film is hitting streams and what&apos;s happening with Kanye West in France. Plus, hear about changes in shopping habits and the rise of Bitcoin.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
