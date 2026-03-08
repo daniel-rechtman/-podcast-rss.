@@ -1250,5 +1250,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69a9900180a260e0ab648b39</guid>
+        <title>Decoding &apos;NaN&apos;: A Language Lesson מתחילים</title>
+        <pubDate>Thu, 05 Mar 2026 14:15:29 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/0c150d3a0_episode-1772958979595-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzBjMTUwZDNhMF9lcGlzb2RlLTE3NzI5NTg5Nzk1OTUtMS5tcDMiLCJpYXQiOjE3NzI5NTg5ODAsImV4cCI6MTc3NTU1MDk4MH0.RMa4spE5Vanzqd7YtsZmeneRAMw-ZSfjRd6eKuQvrnk" type="audio/mpeg"/>
+        <description>Join us to explore what &apos;NaN&apos; means in English. We&apos;ll learn why it&apos;s important in computer language. This episode makes tech terms easy and fun!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
