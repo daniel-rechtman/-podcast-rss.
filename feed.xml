@@ -4,7 +4,10 @@
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
 <language>he</language>
 <description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
-<itunes:image href="https://drive.google.com/uc?export=view&amp;id=178k_2EzaeqMFeQLUN8z5SBfciyOlTpcX"/>
+<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/artwork.jpg"/>
+<itunes:category text="Education">
+<itunes:category text="Language Learning"/>
+</itunes:category>
 <itunes:owner>
 <itunes:name>יוני כהן</itunes:name>
 <itunes:email>daniel763@gmail.com</itunes:email>
