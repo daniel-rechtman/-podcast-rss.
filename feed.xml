@@ -1293,5 +1293,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69b2cbb62662c8107f6e9747</guid>
+        <title>Lights, Camera, Action! בינוני</title>
+        <pubDate>Thu, 12 Mar 2026 14:20:38 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/100d27697_episode-1773561649892-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3MzU2MTY0MSwiZXhwIjoxNzc2MTUzNjQxLCJqdGkiOiI5NjYwNDdjZS1hY2U3LTQ4YTUtOGQzMC0wMWYyNTgyYjM1NjkiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzEwMGQyNzY5N19lcGlzb2RlLTE3NzM1NjE2NDk4OTItMS5tcDMifV1dfQ.R2dZqfgkfQ_EGE7ifMfg_bG0LmvTe-A09gJn4cql4vY" type="audio/mpeg"/>
+        <description>In this episode, we explore the buzz around the Oscars and guess who might make a bold speech. Learn about exciting new TV shows coming in March. Also, hear about Billie Eilish&apos;s move from music to acting. Let&apos;s dive into the world of entertainment together!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
