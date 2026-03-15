@@ -1303,5 +1303,15 @@
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69b2cf418123563ef6ef7b80</guid>
+        <title>Hollywood Sparkles and Surprises מתקדמים</title>
+        <pubDate>Thu, 12 Mar 2026 14:35:45 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/bb2c89658_episode-1773561721732-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3MzU2MTcxMywiZXhwIjoxNzc2MTUzNzEzLCJqdGkiOiJmZGUxOGYxYS03MWIzLTQ5MjAtOGJkNy01NDExNDVkMjBkOTUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2JiMmM4OTY1OF9lcGlzb2RlLTE3NzM1NjE3MjE3MzItMS5tcDMifV1dfQ.EkD8AGbNRDT54ktd4ayVMSz5OvyiLwcYINwthChZFG8" type="audio/mpeg"/>
+        <description>Join us as we chat about this year&apos;s Oscar buzz, including expected winners and surprises. Get a sneak peek into 2026 TV shows and learn about Billie Eilish&apos;s new acting role. We also explain changes in compensation laws in Israel.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
