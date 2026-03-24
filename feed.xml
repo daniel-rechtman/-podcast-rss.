@@ -1,10 +1,25 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>IFAL News-English</title>
+<title>English Learning Podcast – Learn English Through Real News | I-FAL</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
 <language>he</language>
-<description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.</description>
-<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/artwork.jpg"/>
+<description>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.
+
+English Learning Podcast – Learn English Through Real News | I-FAL
+Learn English with real news in a simple and practical way. The I-FAL English Podcast helps beginners and intermediate learners improve their vocabulary, listening, and speaking skills using real-world news stories.
+
+Each episode includes:
+• Easy English explanations
+• Useful vocabulary and phrases
+• Real-life news topics
+• Listening practice for everyday conversations
+
+New episodes are published twice a week to help you improve your English step by step. Whether you're just starting or want to speak English more confidently, I-FAL makes learning simple, practical, and effective.</description>
+<itunes:summary>כל שבוע אסקור כתבות מעניינות ואלמד אתכם אנגלית בצורה קלילה וכיפית.
+
+English Learning Podcast – Learn English Through Real News | I-FAL
+Learn English with real news in a simple and practical way. The I-FAL English Podcast helps beginners and intermediate learners improve their vocabulary, listening, and speaking skills using real-world news stories. Each episode includes easy English explanations, useful vocabulary and phrases, real-life news topics, and listening practice for everyday conversations. New episodes are published twice a week to help you improve your English step by step.</itunes:summary>
+<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/artwork.png"/>
 <itunes:category text="Education">
 <itunes:category text="Language Learning"/>
 </itunes:category>
