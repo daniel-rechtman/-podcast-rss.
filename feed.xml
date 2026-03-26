@@ -1409,5 +1409,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69b966bef7440b1fc0587490</guid>
+        <title>Surprising Twists from Around the World מתקדמים</title>
+        <pubDate>Tue, 17 Mar 2026 14:35:42 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a27ae07cb_episode-1774157674877-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NDE1NzY2NywiZXhwIjoxNzc2NzQ5NjY3LCJqdGkiOiJlNjk5OGU2YS1iOTdlLTQ2ZjMtOGZlYy0zYjhkNjJlNmVkOGMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2EyN2FlMDdjYl9lcGlzb2RlLTE3NzQxNTc2NzQ4NzctMS5tcDMifV1dfQ.dxd7eKF26PZFPNmVoio54oqctENZ0njR1UIUesZhZQ4" type="audio/mpeg"/>
+        <description>Join us as we explore unexpected stories from the global stage. Discover how one man got stuck in Australia and how TV shows compete for big ratings. Learn about unique workplace bonuses and secret schools defying the odds. Get ready for an interesting journey!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
