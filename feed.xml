@@ -1379,5 +1379,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>699db2993688a9dfa9aaa5d3</guid>
+        <title>Understanding NaN in English מתחילים</title>
+        <pubDate>Tue, 24 Feb 2026 14:15:53 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/79bc8a991_episode-1772004309188-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzc5YmM4YTk5MV9lcGlzb2RlLTE3NzIwMDQzMDkxODgtMS5tcDMiLCJpYXQiOjE3NzIwMDQzMTAsImV4cCI6MTc3NDU5NjMxMH0.4LCc8UsJJAwgO9Q0kYwQxjeGuLbLJvjnMsKORrvqZWQ" type="audio/mpeg"/>
+        <description>In this episode, we explore NaN, a term that means &apos;not a number.&apos; Learn how it&apos;s used in programming and math. Join us for a simple and fun explanation!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
