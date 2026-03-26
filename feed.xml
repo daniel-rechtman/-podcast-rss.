@@ -1329,5 +1329,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69c29dbeb28d24b73f08105d</guid>
+        <title>Hot Topics: TV, Comedy, and Global Changes! בינוני</title>
+        <pubDate>Tue, 24 Mar 2026 14:20:46 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/09a13d5df_episode-1774515634011-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NDUxNTYyNSwiZXhwIjoxNzc3MTA3NjI1LCJqdGkiOiI4NmQ0NDFhZi1jNDQ2LTRjYzUtODY1Yi1iYjkwMWNhMTdiOWYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzA5YTEzZDVkZl9lcGlzb2RlLTE3NzQ1MTU2MzQwMTEtMS5tcDMifV1dfQ.KZAizDJgRBRtvx4hrB-_y9FJbYCJtjADE27GM0g-D2Q" type="audio/mpeg"/>
+        <description>Explore must-watch TV series coming in March 2026, and get the scoop on a comedian&apos;s outburst on stage. Plus, find out how football broadcasting might change and why Generation Z is a powerful workforce.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
