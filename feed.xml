@@ -1349,5 +1349,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69947807b85ad7eb07c38ea8</guid>
+        <title>Unlock English Fluency מתחילים</title>
+        <pubDate>Tue, 17 Feb 2026 14:15:35 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/5c7d6414b_episode-1771745769408-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzVjN2Q2NDE0Yl9lcGlzb2RlLTE3NzE3NDU3Njk0MDgtMS5tcDMiLCJpYXQiOjE3NzE3NDU3NzAsImV4cCI6MTc3NDMzNzc3MH0.K5J4vv8-E9ef8UAKX2bIrWSup64fXidnoqUVkGo3Vpk" type="audio/mpeg"/>
+        <description>Join us as we explore new ways to speak English like a local. Learn through fun stories and easy tips. Perfect for improving your English skills today!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
