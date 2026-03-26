@@ -1369,5 +1369,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69971c371f87351bc8cd4301</guid>
+        <title>Stories of Change and New Beginnings בינוני</title>
+        <pubDate>Thu, 19 Feb 2026 14:20:39 GMT</pubDate>
+        <enclosure url="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/sign/base44-prod-private/private/68514fa748ce1e5f14a82af3/5b19f8037_episode-1771572197857-1.mp3?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mYmRhNGViMS0xNDhjLTQ5ZWQtYWY0Zi01ODQwZjI2ZTljMzkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJiYXNlNDQtcHJvZC1wcml2YXRlL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzViMTlmODAzN19lcGlzb2RlLTE3NzE1NzIxOTc4NTctMS5tcDMiLCJpYXQiOjE3NzE1NzIxOTksImV4cCI6MTc3NDE2NDE5OX0.8bF057vXJ469bi8xELq_5jJ7qvj6zohbhzf0SBHbsX0" type="audio/mpeg"/>
+        <description>In this episode, we explore people&apos;s journeys through change. From a TV show ending to life after divorce, and a personal story of rebirth at 60. Get ready to be inspired by these stories of transformation and discovery. Tune in and join us!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
