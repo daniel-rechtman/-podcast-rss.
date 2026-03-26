@@ -1339,5 +1339,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69c2a1374e72379d1bc0b22b</guid>
+        <title>TV Shows and Comedy Drama מתקדמים</title>
+        <pubDate>Tue, 24 Mar 2026 14:35:35 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/59da65c68_episode-1774515673569-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NDUxNTY2NCwiZXhwIjoxNzc3MTA3NjY0LCJqdGkiOiI3ZjA4YjJkZi00ZjEwLTQ1OTgtOThiNC0wNTFkZTMwZDdlYTEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzU5ZGE2NWM2OF9lcGlzb2RlLTE3NzQ1MTU2NzM1NjktMS5tcDMifV1dfQ.yFiHdgz5XLrDp1i7R8F-rfiknIEp_e_v4XViqve1nFg" type="audio/mpeg"/>
+        <description>Discover exciting new TV series coming in March 2026. Explore the surprising story of a comedian&apos;s tough crowd. Learn about the new UEFA platform for live football games. Join us to find out more in this fun and engaging episode!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
