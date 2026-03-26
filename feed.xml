@@ -1399,5 +1399,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69b9633e873c804cf08c5cf0</guid>
+        <title>Amazing Stories Around the World בינוני</title>
+        <pubDate>Tue, 17 Mar 2026 14:20:46 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/00d865c22_episode-1774157589495-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NDE1NzU4MSwiZXhwIjoxNzc2NzQ5NTgxLCJqdGkiOiJhOTAzNmYzOS0yMDAxLTQ5YjktYThlMi1mMWE0MTBhYjJmMmQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzAwZDg2NWMyMl9lcGlzb2RlLTE3NzQxNTc1ODk0OTUtMS5tcDMifV1dfQ.QGAv2WlerJZ7j9P8v1Bps_kGYyavEQYz5BMSMtzx1OM" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories. A famous singer is stuck in Australia. A big TV drama wins the ratings game. Plus, an Australian family&apos;s life changes forever after a truck accident. Don&apos;t miss these interesting tales!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
