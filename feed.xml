@@ -1429,5 +1429,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69cbca28629d55a8ca9b8be4</guid>
+        <title>What&apos;s New on Your Screen בינוני</title>
+        <pubDate>Tue, 31 Mar 2026 13:20:40 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a76821aa8_episode-1775023608171-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTAyMzYwMCwiZXhwIjoxNzc3NjE1NjAwLCJqdGkiOiJkN2MzN2ZiYy1iYWY3LTQ5NWQtYjMxYi05ZGYyN2M2OWY4MDYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2E3NjgyMWFhOF9lcGlzb2RlLTE3NzUwMjM2MDgxNzEtMS5tcDMifV1dfQ.x8-TVUwyzD8oTfvKUg7V0qVKwhupzGdQsUzefjoyCM0" type="audio/mpeg"/>
+        <description>In this episode, discover new music and shows. Learn about a fresh album release and must-watch Netflix series. Also, hear about a new TV show on a famous investigation. Tune in for more updates!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
