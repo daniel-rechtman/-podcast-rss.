@@ -1439,5 +1439,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69cbcda8b24333be4f9d129b</guid>
+        <title>Songs, Shows, and Surprises מתקדמים</title>
+        <pubDate>Tue, 31 Mar 2026 13:35:36 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/09964bcd6_episode-1775023637510-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTAyMzYyOSwiZXhwIjoxNzc3NjE1NjI5LCJqdGkiOiIzZjkxY2ZiYS00NzFkLTRjNzMtYjVkOS1kZGQyMDgxN2M1N2MiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzA5OTY0YmNkNl9lcGlzb2RlLTE3NzUwMjM2Mzc1MTAtMS5tcDMifV1dfQ.l_hX-aEuADaCB-3_eZfanFT6xrkyxwsA-NI3-KuH8e0" type="audio/mpeg"/>
+        <description>Join us as we explore a brand new music album, discover the top Netflix series to watch, and learn about exciting real estate trends in Athens. We&apos;ll also dive into the world of drones and take a look at changes in car insurance prices. Tune in for a fun and informative episode!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
