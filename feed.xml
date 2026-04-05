@@ -1449,5 +1449,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69ce6be7b18dab3b40c41271</guid>
+        <title>Exploring the World of NaN מתחילים</title>
+        <pubDate>Thu, 02 Apr 2026 13:15:19 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/038b1c89b_episode-1775375172295-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTM3NTE2NCwiZXhwIjoxNzc3OTY3MTY0LCJqdGkiOiI5OGFkYmI1Ny04MTkzLTQ2NGItOGJjZi04MWM3NDYxNTgyZDUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzAzOGIxYzg5Yl9lcGlzb2RlLTE3NzUzNzUxNzIyOTUtMS5tcDMifV1dfQ.GWn1VAldMIjgcZM-u5RKFmQC9Xfhdu9a0HGSOWg1gEw" type="audio/mpeg"/>
+        <description>Join us to learn about NaN, a symbol in computer language. It&apos;s short for &apos;Not-a-Number.&apos; Discover why NaN is important in programming and when it shows up!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
