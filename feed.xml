@@ -1499,5 +1499,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69d5082a02f25696f43c0f74</guid>
+        <title>Hot Topics and World Stories מתקדמים</title>
+        <pubDate>Tue, 07 Apr 2026 13:35:38 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/f666c18c1_episode-1775712942483-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTcxMjkzNCwiZXhwIjoxNzc4MzA0OTM0LCJqdGkiOiI0ZDA4NjFiYS04ZTBmLTQ4ODMtYTc4NS1lNGUzYmQ4YTZjMGEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2Y2NjZjMThjMV9lcGlzb2RlLTE3NzU3MTI5NDI0ODMtMS5tcDMifV1dfQ.EaNycujGr0Raz34eKLXlOP6Q1j0-70VqzjsFMYXdAVg" type="audio/mpeg"/>
+        <description>Join us for an exciting episode where we discuss a celebrity standing up against hate. We&apos;ll explore the return of a popular TV show and hear a heartfelt tribute to a beloved teacher. Get insights into the impact of AI on our minds and celebrate a missile defense milestone. Lastly, learn about a big business deal in Greece.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
