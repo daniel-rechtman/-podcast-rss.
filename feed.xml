@@ -1489,5 +1489,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69d504af2b729531c1bc4a3f</guid>
+        <title>Stars, Stories, and Surprises בינוני</title>
+        <pubDate>Tue, 07 Apr 2026 13:20:47 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/35ee06105_episode-1775712894793-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTcxMjg4NiwiZXhwIjoxNzc4MzA0ODg2LCJqdGkiOiI0NGNkMmY1MC05N2Y2LTQwMzgtOTc5YS1kMDA2MzI3ZWNmM2IiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzM1ZWUwNjEwNV9lcGlzb2RlLTE3NzU3MTI4OTQ3OTMtMS5tcDMifV1dfQ.-ZaPItB1dhI6bNEqAUK9tyHU_mdDwSPlr_FyjdiO7lE" type="audio/mpeg"/>
+        <description>Join us for an exciting episode with celebrity drama, new series reviews, and touching tributes. Discover how technology and defense systems shape our future. Super friendly and easy to follow!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
