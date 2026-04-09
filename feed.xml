@@ -1479,5 +1479,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69d50377dfcd03f843e6e171</guid>
+        <title>Learn English with Fun Stories! מתחילים</title>
+        <pubDate>Tue, 07 Apr 2026 13:15:35 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b65cac28b_episode-1775712855300-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NTcxMjg0NywiZXhwIjoxNzc4MzA0ODQ3LCJqdGkiOiJiMTk4OGQ5Yy00M2EyLTRmYzEtOGY4Ny0zZGU1NWZlYTM0MDIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I2NWNhYzI4Yl9lcGlzb2RlLTE3NzU3MTI4NTUzMDAtMS5tcDMifV1dfQ.PEdD139-BDhSwlYNNoxIO6OKkLBAlPWTfT4_UknOOa4" type="audio/mpeg"/>
+        <description>Join us for a fun episode of English learning! We share interesting and simple stories to help you improve your language skills. Listen, learn, and enjoy with us!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
