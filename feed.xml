@@ -1529,5 +1529,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69d7ab2b289d71f4e4d6482c</guid>
+        <title>Music, Theater, and Changing Tunes מתקדמים</title>
+        <pubDate>Thu, 09 Apr 2026 13:35:39 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a09819fbb_episode-1776055136094-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NjA1NTEyNywiZXhwIjoxNzc4NjQ3MTI3LCJqdGkiOiJjOTVjNWQ0Yi1lMTczLTQ1ODAtOWExNC1iNzMyZmRkYjk0MGEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2EwOTgxOWZiYl9lcGlzb2RlLTE3NzYwNTUxMzYwOTQtMS5tcDMifV1dfQ.qjpGkXZ5va3vgLtMAb0ZKTjfoCOmM6wRIugY41G4nqs" type="audio/mpeg"/>
+        <description>In this episode, we explore the world of theater with a new leadership change at a famous theater. Discover Eurovision excitement as a singer prepares for the big stage. Plus, learn how a famous singer changed his song to be more kind. Join us for these engaging stories!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
