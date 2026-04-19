@@ -1559,5 +1559,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69e0e5ad94c4a43095e2bd12</guid>
+        <title>Unveiling AI in Cinema מתקדמים</title>
+        <pubDate>Thu, 16 Apr 2026 13:35:41 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/6b0e32c06_episode-1776571598543-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NjU3MTU5MCwiZXhwIjoxNzc5MTYzNTkwLCJqdGkiOiI5NmQ0NmQ4Yi0xMmNiLTRkOTEtYjA2YS1mNGIzZjc1ZDEwN2IiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzZiMGUzMmMwNl9lcGlzb2RlLTE3NzY1NzE1OTg1NDMtMS5tcDMifV1dfQ.60qL35G3CIoTqvDoxOnUggDNKc3f_zDSDA4jgTGcTjA" type="audio/mpeg"/>
+        <description>Join us as we explore the groundbreaking use of AI in movies. Discover how technology revived Val Kilmer&apos;s role after his passing. It&apos;s a captivating peek into the future of filmmaking!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
