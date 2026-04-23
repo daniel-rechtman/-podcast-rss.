@@ -1579,5 +1579,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69e779abb57488d5da4f0fa6</guid>
+        <title>Lost and Found: Stars and Stories בינוני</title>
+        <pubDate>Tue, 21 Apr 2026 13:20:43 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/f51ee57b9_episode-1776917960959-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NjkxNzk1MiwiZXhwIjoxNzc5NTA5OTUyLCJqdGkiOiJjOGQ0NjUyNi1jZGVhLTQ5ZTItODBhMi1hMDc3ODllODVkZjAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2Y1MWVlNTdiOV9lcGlzb2RlLTE3NzY5MTc5NjA5NTktMS5tcDMifV1dfQ.OIhZaVCaqgDb3R-_jVifTzIoJOP_1vQyhcoPSFmx9hU" type="audio/mpeg"/>
+        <description>Join us as we talk about interesting stories from the entertainment world. Discover a misunderstanding on the &apos;Lost&apos; set, Madonna&apos;s missing iconic outfit, and special Independence Day updates from Israel. Tune in for fun and easy English listening!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
