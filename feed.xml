@@ -1589,5 +1589,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69e77d2ec71d211a05110e6d</guid>
+        <title>Lost Stories and Missing Outfits מתקדמים</title>
+        <pubDate>Tue, 21 Apr 2026 13:35:42 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/e495ea592_episode-1776917987552-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3NjkxNzk3OSwiZXhwIjoxNzc5NTA5OTc5LCJqdGkiOiI5ODU4YTg4Ni0xYzliLTRiN2ItYjEwOC03ZTU3ZTkzY2Y2M2UiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2U0OTVlYTU5Ml9lcGlzb2RlLTE3NzY5MTc5ODc1NTItMS5tcDMifV1dfQ.eMFiAt56oc4TPJzXydLSEUcIYNs8xCJGqNpmR-kDG5E" type="audio/mpeg"/>
+        <description>Join us for fascinating tales of memorable TV dramas and missing costumes. Discover why an actor doesn&apos;t talk to a co-star, and follow Madonna&apos;s search for her lost stage outfit. Expect humor, surprises, and a little bit of drama.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
