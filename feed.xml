@@ -1629,5 +1629,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69f3560c57a16e8a22a217b8</guid>
+        <title>Exploring the World of Numbers מתחילים</title>
+        <pubDate>Thu, 30 Apr 2026 13:15:56 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/13b63f9b4_episode-1777782351799-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3Nzc4MjM0MywiZXhwIjoxNzgwMzc0MzQzLCJqdGkiOiI2YjIwOWQzNi0yNDYzLTRjNzktOTVjMS00ZDYzZjg5MTg4Y2IiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzEzYjYzZjliNF9lcGlzb2RlLTE3Nzc3ODIzNTE3OTktMS5tcDMifV1dfQ.Ft4zsZ746FoMUKAGbAX7-FIxzKfkkZjuvZWL0QmG7p0" type="audio/mpeg"/>
+        <description>Join us to learn about numbers and math in everyday life. Discover interesting facts about how numbers shape our world. It&apos;s fun and easy to understand!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
