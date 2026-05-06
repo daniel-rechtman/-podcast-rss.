@@ -1679,5 +1679,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69f9f229646420bfc8bc7b65</guid>
+        <title>Mystery Unveiled and Victories Celebrated מתקדמים</title>
+        <pubDate>Tue, 05 May 2026 13:35:37 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a63df93ef_episode-1778045600549-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3ODA0NTU5MiwiZXhwIjoxNzgwNjM3NTkyLCJqdGkiOiJmZDliOThjOS02MGRiLTQyZTgtYWI2MS0xMzE1NDFjNzM4MzAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2E2M2RmOTNlZl9lcGlzb2RlLTE3NzgwNDU2MDA1NDktMS5tcDMifV1dfQ.FJYLhw1mgPZnVELRIin5ZYT8sxLTT0v9op6mP4Lbtxg" type="audio/mpeg"/>
+        <description>In this episode, we meet a singer who bravely reveals his identity. We also celebrate the success of an Israeli film winning awards in Italy. Lastly, discover how a legal decision affects foreign shopping. Join us for exciting stories!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
