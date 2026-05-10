@@ -1709,5 +1709,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69fc95271d796e417756caac</guid>
+        <title>Surprising Success Stories מתקדמים</title>
+        <pubDate>Thu, 07 May 2026 13:35:35 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/033fd328b_episode-1778387189618-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3ODM4NzE4MSwiZXhwIjoxNzgwOTc5MTgxLCJqdGkiOiI0NTcxNGU2YS03YjQ3LTQ0ODgtODY2NS05NDNlMzgyMjNhYjciLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzAzM2ZkMzI4Yl9lcGlzb2RlLTE3NzgzODcxODk2MTgtMS5tcDMifV1dfQ.F_Aoq9JfhcPg4AIkWQw6_q0MKQtZrDBBakxktj4-_PE" type="audio/mpeg"/>
+        <description>In this episode, hear about a young boy who loved technology and became a millionaire. Discover a mysterious lottery win and its impact. These stories show us anything can happen if we believe in ourselves or get a little lucky!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
