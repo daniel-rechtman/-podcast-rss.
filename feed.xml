@@ -1699,5 +1699,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>69fc919fd6157d0080bde395</guid>
+        <title>Stories of Success and Surprises בינוני</title>
+        <pubDate>Thu, 07 May 2026 13:20:31 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b8397ef74_episode-1778387154243-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3ODM4NzE0NiwiZXhwIjoxNzgwOTc5MTQ2LCJqdGkiOiJhMDAzNzE3NC04NzgyLTQ5NzUtOGYwYi1jOGJjMDFlNmRlYTQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I4Mzk3ZWY3NF9lcGlzb2RlLTE3NzgzODcxNTQyNDMtMS5tcDMifV1dfQ.V_aIt7n9h5KfygxGBG3pNgg9x_YdYpkkE1VfltbNORU" type="audio/mpeg"/>
+        <description>Join us in this episode as we explore inspiring stories and unexpected events. Discover the journey of a tech genius and his million-dollar success. Learn about a lucky lottery winner and intriguing book collections. Perfect for English learners eager to expand their language and knowledge!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
