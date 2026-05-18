@@ -1739,5 +1739,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a05cf9f1fc9ad07ba94d2f9</guid>
+        <title>From Books to Bids מתקדמים</title>
+        <pubDate>Thu, 14 May 2026 13:35:27 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/50d88f016_episode-1779078153550-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3OTA3ODE0NSwiZXhwIjoxNzgxNjcwMTQ1LCJqdGkiOiJlZTg4NWU1NS03MzA5LTQxMDEtYjlmMC03ZDg2ZGRkMTQ4OTAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzUwZDg4ZjAxNl9lcGlzb2RlLTE3NzkwNzgxNTM1NTAtMS5tcDMifV1dfQ.Z6UMnmBhY6t2XWPqBSAmN1fmLLJEnOVIYb8ORD7GS30" type="audio/mpeg"/>
+        <description>Join us as we explore a book that began as a self-published gem and sold a million copies. Discover how tech is simplifying pensions, and learn about a massive tech acquisition. Plus, find out how laid-off employees became the hottest hires in tech!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
