@@ -1769,5 +1769,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a0c6728d2301cf4dd70603a</guid>
+        <title>Songs, Dogs, and Docu-dramas מתקדמים</title>
+        <pubDate>Tue, 19 May 2026 13:35:36 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b7b268eaa_episode-1779259466983-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3OTI1OTQ1OCwiZXhwIjoxNzgxODUxNDU4LCJqdGkiOiI4MGQ3OGRhNi00ODQ1LTRiZTItYWUzYS1jNDFkNDQ3NDk2ZmYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I3YjI2OGVhYV9lcGlzb2RlLTE3NzkyNTk0NjY5ODMtMS5tcDMifV1dfQ.dWY-rfNgjUWr_TJAFRYdgs6aqXYqkknCapl5S91aukA" type="audio/mpeg"/>
+        <description>Join us as we explore a new song about hope and healing. Discover the inspiring stories behind a brave documentary and how dogs help keep us safe. We also share fun facts about drinking water habits in Israel!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
