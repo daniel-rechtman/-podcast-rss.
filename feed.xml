@@ -1789,5 +1789,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a0f069eae6cd666ed3bf36f</guid>
+        <title>A Festival of Stories בינוני</title>
+        <pubDate>Thu, 21 May 2026 13:20:30 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/cf887cb3f_episode-1779596038135-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3OTU5NjAyOSwiZXhwIjoxNzgyMTg4MDI5LCJqdGkiOiIwYzU4NDFlYi1lMTVlLTQyZTgtYWI3Ni02MmYxZGJiNWExMGEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2NmODg3Y2IzZl9lcGlzb2RlLTE3Nzk1OTYwMzgxMzUtMS5tcDMifV1dfQ.xoH4FpAk5pf6EF25Ip8Hx9o5kocmfurkPgtK8RCrKFQ" type="audio/mpeg"/>
+        <description>Join us as we explore Cannes&apos; heavy dramas and a historian&apos;s view on anti-intellectual leaders. Discover why a rock show changes its date and hear Elon Musk&apos;s views on Israel. We also reveal the expensive truth behind weddings.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
