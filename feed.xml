@@ -1819,5 +1819,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a159e1a995759edd77edae8</guid>
+        <title>Pop Power Showdown! בינוני</title>
+        <pubDate>Tue, 26 May 2026 13:20:26 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/fc7956810_episode-1779857900628-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3OTg1Nzg5MiwiZXhwIjoxNzgyNDQ5ODkyLCJqdGkiOiI3YzdmZWUzYy1kOTg4LTQ2YzAtYWU5NC04MjEyZjRlZmIyZTQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2ZjNzk1NjgxMF9lcGlzb2RlLTE3Nzk4NTc5MDA2MjgtMS5tcDMifV1dfQ.87OMKbiNEFYAkm30NUuZ8V6KIlEhGyO6IV21LaFm7oI" type="audio/mpeg"/>
+        <description>In this episode, we talk about some exciting news from the world of pop music! Discover how Paul McCartney brought together famous singers in a surprise meeting. We also explore a new study on women in film and the latest happenings in K-pop. Join us for fun and friendly conversations!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
