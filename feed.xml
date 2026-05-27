@@ -1829,5 +1829,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a15a1a03ea1b473213d344c</guid>
+        <title>Pop Stars Unite! מתקדמים</title>
+        <pubDate>Tue, 26 May 2026 13:35:28 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/1772bb90f_episode-1779857933155-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc3OTg1NzkyNCwiZXhwIjoxNzgyNDQ5OTI0LCJqdGkiOiJhM2RlZTNmZC0zZTM1LTQwYWItYjNmOC02MTZjYWQ5NTFiMzUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzE3NzJiYjkwZl9lcGlzb2RlLTE3Nzk4NTc5MzMxNTUtMS5tcDMifV1dfQ.8TQ3XQlCfYyoFrOC5f981dirfwcJMls83zHlsfUel-U" type="audio/mpeg"/>
+        <description>Join us as we explore exciting news in music and movies. Discover how pop stars came together for a special meeting and learn about challenges in film representation. Plus, find out about the latest in tools and technology!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
