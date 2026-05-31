@@ -1839,5 +1839,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a1840116ed4bd81abe78153</guid>
+        <title>Exploring Fun Topics! מתחילים</title>
+        <pubDate>Thu, 28 May 2026 13:16:01 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/bf4f77735_episode-1780201893068-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MDIwMTg4NSwiZXhwIjoxNzgyNzkzODg1LCJqdGkiOiJhODQzMzZkNi02YmUzLTRmMDItODlmNC1mZmJiNGNjYWJkOGUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2JmNGY3NzczNV9lcGlzb2RlLTE3ODAyMDE4OTMwNjgtMS5tcDMifV1dfQ.rmaYXWrDU2hjGcxMxrcvlJuHT53pdwPdew77DFZudIM" type="audio/mpeg"/>
+        <description>Join us for a fun chat on different subjects! We explore interesting ideas and share easy tips. Perfect for English learners who love discovering new things.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
