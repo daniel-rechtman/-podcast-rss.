@@ -1869,5 +1869,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a1ed79b2fb84ee5176c9a8d</guid>
+        <title>Discover the NaN Mystery מתחילים</title>
+        <pubDate>Tue, 02 Jun 2026 13:16:11 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b10383652_episode-1780466186384-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MDQ2NjE3OCwiZXhwIjoxNzgzMDU4MTc4LCJqdGkiOiJkNTcwNTRiNi03NmI0LTRiMDEtOGVlMC01MDIwMTBkMmJjMDUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2IxMDM4MzY1Ml9lcGlzb2RlLTE3ODA0NjYxODYzODQtMS5tcDMifV1dfQ.mqLONL6MS5ezmok2YVuzVBJmdUCl0Q_YyNw7kBfU1tg" type="audio/mpeg"/>
+        <description>Join us as we explore the curious world of &apos;NaN&apos;. Learn what &apos;NaN&apos; means and where you might find it. Perfect for curious minds who love solving mysteries!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
