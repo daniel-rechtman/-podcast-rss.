@@ -1879,5 +1879,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a1ed8b725da346e12ca32f6</guid>
+        <title>Catchy Tunes and Big News בינוני</title>
+        <pubDate>Tue, 02 Jun 2026 13:20:55 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/4de3880da_episode-1780466219397-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MDQ2NjIxMSwiZXhwIjoxNzgzMDU4MjExLCJqdGkiOiJkNzZmZjYwNS02ZTUxLTRmYWUtYjA0MC1iMTY5YTk2NjU1MzYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzRkZTM4ODBkYV9lcGlzb2RlLTE3ODA0NjYyMTkzOTctMS5tcDMifV1dfQ.j_BcUQiHwCn3B1xI1MVWmd36WH3plROVfwwSwzx1RZQ" type="audio/mpeg"/>
+        <description>In this episode, discover the power of music with a new hit duet. Hear inspiring stories from a legendary band leader. Plus, get the latest updates on world events, including business and technology. Tune in for a fun and informative journey!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
