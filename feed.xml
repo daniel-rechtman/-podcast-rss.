@@ -1909,5 +1909,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a217bae074adbb5bf192886</guid>
+        <title>Movies, AI, and Money בינוני</title>
+        <pubDate>Thu, 04 Jun 2026 13:20:46 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/f5d49f594_episode-1780805936201-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MDgwNTkyOCwiZXhwIjoxNzgzMzk3OTI4LCJqdGkiOiI5MDQ3MTY0ZS0yYzkzLTRlYTItYTlmNS0xZmI5ZjQ0ZjE2YjUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2Y1ZDQ5ZjU5NF9lcGlzb2RlLTE3ODA4MDU5MzYyMDEtMS5tcDMifV1dfQ.N3kz9i2HTm80sVY-nOr7g1FOLjMsnrMcvOZqHRLT81I" type="audio/mpeg"/>
+        <description>Join us as we explore two blockbuster movies made by young filmmakers shaking up Hollywood. Learn about how artificial intelligence is changing business in Israel. We also discuss recent changes in job markets and what it means for salaries.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
