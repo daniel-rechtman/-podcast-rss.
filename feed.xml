@@ -1919,5 +1919,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a217f1f598d7be615d5b6c6</guid>
+        <title>Amazing Stories and Surprising Changes מתקדמים</title>
+        <pubDate>Thu, 04 Jun 2026 13:35:27 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b9b2d9efe_episode-1780805983290-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MDgwNTk3NSwiZXhwIjoxNzgzMzk3OTc1LCJqdGkiOiI3MjhlN2NiYy03N2NjLTQyMDYtYWI5Yi04ZjE1NzQxM2Y3NzIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I5YjJkOWVmZV9lcGlzb2RlLTE3ODA4MDU5ODMyOTAtMS5tcDMifV1dfQ.gP64eocFhqKchJjv5zSl_jNXxUMp2Jowu4fBzFW8H1g" type="audio/mpeg"/>
+        <description>Join us for fun tales and exciting news! We&apos;ll learn about young filmmakers making a big splash, a mystery involving a lost princess, and AI in the office. Plus, we&apos;ll explore changes in jobs and the wild rides of Bitcoin. Tune in for a mix of history, technology, and more!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
