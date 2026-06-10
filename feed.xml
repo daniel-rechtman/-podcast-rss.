@@ -1949,5 +1949,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a28169e4ba2d55da93f401e</guid>
+        <title>Music, Fame, and Fortune מתקדמים</title>
+        <pubDate>Tue, 09 Jun 2026 13:35:26 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/23bf5b363_episode-1781073605693-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTA3MzU5NywiZXhwIjoxNzgzNjY1NTk3LCJqdGkiOiJlNmUzZGEwMi0wZTlmLTRiMTQtOTEwZS1kMzQyNzQyYmY2MjIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzIzYmY1YjM2M19lcGlzb2RlLTE3ODEwNzM2MDU2OTMtMS5tcDMifV1dfQ.loWg5VWiXapNNR8adHMyb6onGliSwRxzHTu_LZJxDbo" type="audio/mpeg"/>
+        <description>Join us as we dive into the latest in music and fame. Discover new songs by beloved artists and explore how one man&apos;s riches are on track to make history. Perfect for keeping up with pop culture!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
