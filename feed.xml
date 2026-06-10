@@ -1939,5 +1939,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a281327a638150a76648068</guid>
+        <title>Music and Money: New Songs and Big Dreams בינוני</title>
+        <pubDate>Tue, 09 Jun 2026 13:20:39 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/1cbf580a5_episode-1781073579925-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTA3MzU3MSwiZXhwIjoxNzgzNjY1NTcxLCJqdGkiOiI5YWU5MWJmNi01ZWI1LTQyMzUtYTJmZi04ZTdkYzQ2NjJhMjEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzFjYmY1ODBhNV9lcGlzb2RlLTE3ODEwNzM1Nzk5MjUtMS5tcDMifV1dfQ.yT3qn5ei45ZZU8swq27PJaHp-4GaU99O-36a_t1LJ-E" type="audio/mpeg"/>
+        <description>Join us as we explore exciting new songs from talented artists. Shiri Maimon and Ofer Nissim release a Pride anthem, while Nes &amp; Stilla return with &apos;Who Like Me?&apos;. Plus, hear about Elon Musk&apos;s journey to becoming the first trillionaire. Discover the big world of music and success with us!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
