@@ -1979,5 +1979,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a2ab9abc1ebcdded5429543</guid>
+        <title>Pop Culture and Much More! מתקדמים</title>
+        <pubDate>Thu, 11 Jun 2026 13:35:39 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c44aefa20_episode-1781416793414-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTQxNjc4NSwiZXhwIjoxNzg0MDA4Nzg1LCJqdGkiOiJkYTk1YjE4OC04NGNhLTQwNzEtODc0ZC02NjcwZTE1MzZjNjciLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2M0NGFlZmEyMF9lcGlzb2RlLTE3ODE0MTY3OTM0MTQtMS5tcDMifV1dfQ.laLJ0AZGe4YdbBDCF4tzLyWQw-ykr2GvGBeelNZzu7M" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories from the world of books, movies, and music. Discover Spielberg&apos;s latest work and the top World Cup songs in Israel. We also look at events supporting special causes. Tune in for a fun and informative episode!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
