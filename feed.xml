@@ -1969,5 +1969,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a2ab62639ea904fd0e985d8</guid>
+        <title>A World of Stories and Surprises בינוני</title>
+        <pubDate>Thu, 11 Jun 2026 13:20:38 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/9dbbde9d8_episode-1781416718733-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTQxNjcxMCwiZXhwIjoxNzg0MDA4NzEwLCJqdGkiOiIzZGJlMDdjZS1hNjA2LTQ1MzctODg1Ni0xNWE5ZDM2MmUxMjQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzlkYmJkZTlkOF9lcGlzb2RlLTE3ODE0MTY3MTg3MzMtMS5tcDMifV1dfQ.rOH-QuHoWXZs6mZ_F247GM7NX5PaHP9ggBWI36CxxwI" type="audio/mpeg"/>
+        <description>Join us as we explore fascinating stories from around the world! From Spielberg&apos;s new movie to the most popular World Cup songs in Israel, there&apos;s so much to discover. Plus, hear about a heartwarming poker event and business trends during the World Cup.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
