@@ -1959,5 +1959,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a2ab515fbdf3c3a9f8b2793</guid>
+        <title>Unlock the Mystery of NaN! מתחילים</title>
+        <pubDate>Thu, 11 Jun 2026 13:16:05 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/385bd4153_episode-1781416686724-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTQxNjY3OCwiZXhwIjoxNzg0MDA4Njc4LCJqdGkiOiI3MDZiZDc1Ny02NGUyLTRjZTgtOWVkZi1kZTFkM2RkNDY0YjQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzM4NWJkNDE1M19lcGlzb2RlLTE3ODE0MTY2ODY3MjQtMS5tcDMifV1dfQ.mcrZi-zoO3JTD-A8siBaacCdOsR5bdhHD_EQc74tWP0" type="audio/mpeg"/>
+        <description>Let&apos;s explore the intriguing world of &apos;NaN&apos;. What does it mean? Where do we find it in English? Join us for a fun and easy lesson on how &apos;NaN&apos; makes English exciting!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
