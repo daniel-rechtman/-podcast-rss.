@@ -1999,5 +1999,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a314d9f5cbea53deeff3b4e</guid>
+        <title>Exciting Times in Entertainment! בינוני</title>
+        <pubDate>Tue, 16 Jun 2026 13:20:31 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/62ff4f1e9_episode-1781675676006-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MTY3NTY2NywiZXhwIjoxNzg0MjY3NjY3LCJqdGkiOiIyZjcyYTJlMi1iNjQyLTQ1YTAtOGIxNC0wNTU5ZTFhMjk2ZTQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzYyZmY0ZjFlOV9lcGlzb2RlLTE3ODE2NzU2NzYwMDYtMS5tcDMifV1dfQ.ypTMTyp-_kxQ_HNa5n1htP7nUlHDH-AixpsoBspRa2g" type="audio/mpeg"/>
+        <description>Join us as we explore a festival breaking mental health stigma, a final movie from the &apos;Jackass&apos; crew, and a new song for the 2026 Maccabiah Games. We will also talk about changes in Israeli residency and a big business deal with Western Union. Lots of fun and interesting topics to learn from!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
