@@ -2039,5 +2039,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a33f0936687004411778794</guid>
+        <title>Pixar&apos;s New Adventure בינוני</title>
+        <pubDate>Thu, 18 Jun 2026 13:20:19 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c40cb74de_episode-1782021300145-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MjAyMTI5MiwiZXhwIjoxNzg0NjEzMjkyLCJqdGkiOiIwMjA4YWEyMi1hZGJkLTQzNjAtYWU5ZC00NzQ4NjAxNmM0MTYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2M0MGNiNzRkZV9lcGlzb2RlLTE3ODIwMjEzMDAxNDUtMS5tcDMifV1dfQ.jqftfOueCRIgCsWHAU0UEM7n2Fs0WqNFEH-ioOGdzsI" type="audio/mpeg"/>
+        <description>Join us as we explore Pixar&apos;s latest film that takes a trip down memory lane. Is going back to basics the magic formula for success? Discover why the film may not be as exciting as expected.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
