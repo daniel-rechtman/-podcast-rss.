@@ -2019,5 +2019,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a33ef9b53862be8888dca2f</guid>
+        <title>Fun with Numbers! מתחילים</title>
+        <pubDate>Thu, 18 Jun 2026 13:16:11 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/753f0dfe5_episode-1782017696477-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MjAxNzY4OCwiZXhwIjoxNzg0NjA5Njg4LCJqdGkiOiI3NGVmYzIxNy1iYWRhLTQyZWEtOTRjNC0zYjRlZDBhYjNmNzkiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzc1M2YwZGZlNV9lcGlzb2RlLTE3ODIwMTc2OTY0NzctMS5tcDMifV1dfQ.a9L7gDSS7byX7B9WtEJRrftM3kCIXueLOocsV6gftM8" type="audio/mpeg"/>
+        <description>Let&apos;s explore the fascinating world of numbers together! We will talk about what happens when numbers behave strangely. Don&apos;t worry, it&apos;s easier and more exciting than it sounds!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
