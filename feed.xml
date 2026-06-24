@@ -2069,5 +2069,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a3a8ba2b772bfaddd0d6ba6</guid>
+        <title>Exciting Stories in the World Today מתקדמים</title>
+        <pubDate>Tue, 23 Jun 2026 13:35:30 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/e024e5e1c_episode-1782284094267-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MjI4NDA4NiwiZXhwIjoxNzg0ODc2MDg2LCJqdGkiOiIyZjAzZWY5MC05NWFlLTQzNjItODY2Zi1iYjcwZGYwZTAyYzUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2UwMjRlNWUxY19lcGlzb2RlLTE3ODIyODQwOTQyNjctMS5tcDMifV1dfQ.wZmjV2a_xxcIh7ZIyLcNE4euiRFS9vKTZemgxVRqL4c" type="audio/mpeg"/>
+        <description>Join us as we explore the latest happenings, from a special event marking a major milestone to mysterious film shoots in Wales. We&apos;ll also touch on personal challenges and family dramas making headlines. Tune in to learn in a fun and friendly way!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
