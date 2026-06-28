@@ -2089,5 +2089,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a3d2b29db352eb4522e7c3e</guid>
+        <title>Exciting Shows and Career Paths בינוני</title>
+        <pubDate>Thu, 25 Jun 2026 13:20:41 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/0047b35e4_episode-1782628998067-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MjYyODk4OSwiZXhwIjoxNzg1MjIwOTg5LCJqdGkiOiJhYmRjZTk4OS1hZGRjLTQ4OWItODYwOS1hZmVlODQyZmQzN2YiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzAwNDdiMzVlNF9lcGlzb2RlLTE3ODI2Mjg5OTgwNjctMS5tcDMifV1dfQ.0eAXcDOfwLEcppUXdzLE-oA9Edk8iIphNoGOf0HR6bs" type="audio/mpeg"/>
+        <description>In this episode, discover some exciting TV shows to watch in June 2026. We also explore unique career opportunities that can make a real difference in people&apos;s lives. Plus, learn why it&apos;s important to keep up with new skills in today&apos;s job market.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
