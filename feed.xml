@@ -2119,5 +2119,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a43c2b1f951a24a7f46d1fd</guid>
+        <title>Art, Music, and Strong Voices בינוני</title>
+        <pubDate>Tue, 30 Jun 2026 13:20:49 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/6a3b5b6e0_episode-1782884101673-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4Mjg4NDA5MywiZXhwIjoxNzg1NDc2MDkzLCJqdGkiOiI0YTZkZjdjNi1lZDM0LTQ5NzItOGI4ZS01ZjU5ZTE3MzRiOTYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzZhM2I1YjZlMF9lcGlzb2RlLTE3ODI4ODQxMDE2NzMtMS5tcDMifV1dfQ.HXQTuv7_1t-19Hn9OfelmtkSWF5VMlk8uez2mpQwnvs" type="audio/mpeg"/>
+        <description>In this episode, we explore a meaningful art exhibition in Tel Aviv. Discover a musical collaboration between an Israeli artist and a famous orchestra. Plus, hear about a musician&apos;s strong views on international politics.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
