@@ -2109,5 +2109,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a43c1a1f41daa789bbab596</guid>
+        <title>Learning English Made Easy מתחילים</title>
+        <pubDate>Tue, 30 Jun 2026 13:16:17 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/203bdab20_episode-1782884060130-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4Mjg4NDA1MiwiZXhwIjoxNzg1NDc2MDUyLCJqdGkiOiI2MDEwNDc2ZS04Y2E3LTRmNGMtODc2ZS1hNDcxNmEyNmY3OTQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzIwM2JkYWIyMF9lcGlzb2RlLTE3ODI4ODQwNjAxMzAtMS5tcDMifV1dfQ.94jUGA_FG7XUvNr7lYsevRf8aEC70KRs7DWfUcuHhlo" type="audio/mpeg"/>
+        <description>Join us as we explore fun ways to learn English. Discover simple tips to improve your speaking and listening skills. Perfect for beginners and anyone who loves languages!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
