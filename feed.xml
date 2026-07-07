@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>English Learning Podcast – Learn English Through Real News | I-FAL</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
@@ -2168,6 +2168,8 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Learn about the surprise returns of popular TV shows like Friends on Netflix. We also discuss Gal Gadot&apos;s tough reviews on her new film. It&apos;s all about entertainment and reactions this episode!</description>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
+    
+        <podcast:transcript url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9bcf25b8e_transcript-6a4669214df04ffcb0a9ed2c.vtt" type="text/vtt"/>
     </item>
 </channel>
 </rss>
