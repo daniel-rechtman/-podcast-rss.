@@ -2191,5 +2191,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a4d00b4f49ce3d49e7eff75</guid>
+        <title>TV Buzz and Big Deals מתקדמים</title>
+        <pubDate>Tue, 07 Jul 2026 13:35:48 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/556f88a10_episode-1783491671672-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MzQ5MTY2MywiZXhwIjoxNzg2MDgzNjYzLCJqdGkiOiI1MDIzODQ0YS03ZDU2LTRlNDItYjI2OS1mZGIzOWZlOWUzY2QiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzU1NmY4OGExMF9lcGlzb2RlLTE3ODM0OTE2NzE2NzItMS5tcDMifV1dfQ.o1m5Ng8jsbE3UqjsEa1lV1EX54NOTgVmOwMWPh3BzIU" type="audio/mpeg"/>
+        <description>Discover exciting new TV shows coming in July 2026. Listen to Madonna’s rare interview with Graham Norton. Find out about Amazon’s big plans and a new footwear brand in Israel!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
