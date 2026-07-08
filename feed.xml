@@ -2169,7 +2169,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     
-        <podcast:transcript url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9bcf25b8e_transcript-6a4669214df04ffcb0a9ed2c.vtt" type="text/vtt"/>
+        <podcast:transcript url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/transcripts/6a4669214df04ffcb0a9ed2c.vtt" type="text/vtt"/>
     </item>
 </channel>
 </rss>
