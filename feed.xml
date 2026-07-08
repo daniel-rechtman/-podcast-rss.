@@ -2171,5 +2171,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     
         <podcast:transcript url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/transcripts/6a4669214df04ffcb0a9ed2c.vtt" type="text/vtt"/>
     </item>
+
+    <item>
+        <guid>6a4cfc2ad91258e859955d2d</guid>
+        <title>Exploring the World of Numbers מתחילים</title>
+        <pubDate>Tue, 07 Jul 2026 13:16:26 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/64f0860cd_episode-1783491364204-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4MzQ5MTM1NSwiZXhwIjoxNzg2MDgzMzU1LCJqdGkiOiIwNzM1NWY1MC03M2RmLTQ3ODAtYjg0Mi0xMWY4NTdhMzc5ZjkiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzY0ZjA4NjBjZF9lcGlzb2RlLTE3ODM0OTEzNjQyMDQtMS5tcDMifV1dfQ.TfH9-CA3FRg2hMAUu_3cyZ6r3et_ArENMllEcPWYpE8" type="audio/mpeg"/>
+        <description>Join us as we explore the exciting world of numbers! Learn about &apos;NaN,&apos; a special number in math and computing. Discover why it&apos;s important and how it is used in our daily lives.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
