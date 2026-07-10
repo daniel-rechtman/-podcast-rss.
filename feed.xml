@@ -2200,6 +2200,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover exciting new TV shows coming in July 2026. Listen to Madonna’s rare interview with Graham Norton. Find out about Amazon’s big plans and a new footwear brand in Israel!</description>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
+        <podcast:transcript url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/transcripts/6a4d00b4f49ce3d49e7eff75.vtt" type="text/vtt"/>
     </item>
 </channel>
 </rss>
