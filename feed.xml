@@ -2203,5 +2203,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:duration>00:04:30</itunes:duration>
         <podcast:transcript url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/transcripts/6a4d00b4f49ce3d49e7eff75.vtt" type="text/vtt"/>
     </item>
+
+    <item>
+        <guid>6a4f9f29e0d7c916848addd9</guid>
+        <title>Discovering English Fun! מתחילים</title>
+        <pubDate>Thu, 09 Jul 2026 13:16:25 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c4f88db33_episode-1784011136383-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NDAxMTEyNywiZXhwIjoxNzg2NjAzMTI3LCJqdGkiOiJlYjMwZTdlMS0zNGY1LTQ1OTItODM4MC00N2YzZjI3NWIzNjAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2M0Zjg4ZGIzM19lcGlzb2RlLTE3ODQwMTExMzYzODMtMS5tcDMifV1dfQ.CNJ99JngTUZwSCyLPn8PGustXlbqg0WbkDk-zgb9AHk" type="audio/mpeg"/>
+        <description>Join us for a playful episode about learning English. We’ll share tips to make language practice enjoyable. Tune in and bring some fun to your English journey!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
