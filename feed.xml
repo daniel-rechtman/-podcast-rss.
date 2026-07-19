@@ -2233,5 +2233,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a58d9a3b60609595c95fb05</guid>
+        <title>Learn English with Fun Chats מתחילים</title>
+        <pubDate>Thu, 16 Jul 2026 13:16:19 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c3a12e67e_episode-1784456672769-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NDQ1NjY2NCwiZXhwIjoxNzg3MDQ4NjY0LCJqdGkiOiJlMGMzNGJhMi00MzcwLTQ5YmItOWQ0MC05NWM1YTVlOTIzMjAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2MzYTEyZTY3ZV9lcGlzb2RlLTE3ODQ0NTY2NzI3NjktMS5tcDMifV1dfQ.FoOgMzQ1jlLALlVq4jECSkff4L2Tfws9fXJP_NAQVEk" type="audio/mpeg"/>
+        <description>Join us for an exciting episode where we explore simple English conversations. Practice listening and speaking with real-life examples. Perfect for improving your English skills in a fun way!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
