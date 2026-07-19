@@ -2243,5 +2243,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a58daa262bf825562997ddd</guid>
+        <title>Stories of Success and Challenges בינוני</title>
+        <pubDate>Thu, 16 Jul 2026 13:20:34 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/4962c4a62_episode-1784456746368-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NDQ1NjczNywiZXhwIjoxNzg3MDQ4NzM3LCJqdGkiOiJkYjE3ZWIzMS0yYmFkLTQxMTItOTcwZi1hYjZlMjk2NWNjZjMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzQ5NjJjNGE2Ml9lcGlzb2RlLTE3ODQ0NTY3NDYzNjgtMS5tcDMifV1dfQ.o2GMm2UXRoRRKOcIN-BBHpmSJttzUGyT1kFH7bglnrM" type="audio/mpeg"/>
+        <description>In this episode, we talk about a funny new Netflix show and the reality of writing books. We also share stories about a famous actor, a hacker, and Meta&apos;s AI troubles. Join us for these exciting tales!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
