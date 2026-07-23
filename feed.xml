@@ -2283,5 +2283,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a5f75a29cc813d841d6f109</guid>
+        <title>Exciting Series and Events Ahead! מתקדמים</title>
+        <pubDate>Tue, 21 Jul 2026 13:35:30 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/46ee15819_episode-1784806944606-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NDgwNjkzNiwiZXhwIjoxNzg3Mzk4OTM2LCJqdGkiOiIzMWViN2U2Ni0wNGE3LTRiMjktOTY1Mi0zZWNkY2FkMTY5NWIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzQ2ZWUxNTgxOV9lcGlzb2RlLTE3ODQ4MDY5NDQ2MDYtMS5tcDMifV1dfQ.0VWVV8RBYg0fcNREgc0qlXvbch2tBWHKBQT1DDSyg6Q" type="audio/mpeg"/>
+        <description>Join us as we explore a new drama series with talented writers and actors. Discover an upcoming music festival mixing tech and traditional sounds. Plus, catch a sneak peek of the hottest TV shows in July 2026!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
