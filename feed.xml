@@ -2343,5 +2343,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a68b020fc086e774c0b2d6f</guid>
+        <title>Exciting Festivals and New Beginnings מתקדמים</title>
+        <pubDate>Tue, 28 Jul 2026 13:35:28 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/5b0075b99_episode-1785737895007-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NTczNzg4NiwiZXhwIjoxNzg4MzI5ODg2LCJqdGkiOiI2MTg1OTAyNC0yMGM4LTQ3ZTQtOTQyMS1lZmUwNWU5NDA3ZGEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzViMDA3NWI5OV9lcGlzb2RlLTE3ODU3Mzc4OTUwMDctMS5tcDMifV1dfQ.2C7zftz2oYNBLQV2W4SbKs-j1CY02kCFFuowSYoHNvI" type="audio/mpeg"/>
+        <description>Join us as we explore exciting events and changes around the world. Discover thrilling festivals with music and stories, and learn about the rise in weddings after tough times. Get ready to dive into these lively happenings!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
