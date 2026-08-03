@@ -2363,5 +2363,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a6b5326e8488f7b7a70e0e0</guid>
+        <title>Scandals and Songs מתקדמים</title>
+        <pubDate>Thu, 30 Jul 2026 13:35:34 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/42ad48a6d_episode-1785738030282-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NTczODAyMiwiZXhwIjoxNzg4MzMwMDIyLCJqdGkiOiJhMjc0MjVmMS00ODhiLTRiMjQtYjBlOS0zOWM2MTc2NWZhN2EiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzQyYWQ0OGE2ZF9lcGlzb2RlLTE3ODU3MzgwMzAyODItMS5tcDMifV1dfQ.pjY5jXz8JnHdBuo15hb25YZLE-YwBFMD8a9jGWymhaE" type="audio/mpeg"/>
+        <description>Join us to explore shocking stories and mysterious events in the world of music and business. Discover the secrets hidden in songs and the financial mysteries troubling companies. Get ready for fascinating tales and unexpected twists!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
