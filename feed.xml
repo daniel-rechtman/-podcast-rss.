@@ -2323,5 +2323,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a68ab9f638d8323fcc1eda4</guid>
+        <title>The Joy of Learning English מתחילים</title>
+        <pubDate>Tue, 28 Jul 2026 13:16:15 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/3327aefbb_episode-1785737832958-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NTczNzgyNCwiZXhwIjoxNzg4MzI5ODI0LCJqdGkiOiI4OTZmYjFhNy1lY2NkLTQyMjgtOWIxNS01NzA5NWM2NmU4NmMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzMzMjdhZWZiYl9lcGlzb2RlLTE3ODU3Mzc4MzI5NTgtMS5tcDMifV1dfQ.PIWwxOm0SpqKDnJRtwxijPVCkABE9VAVyLsIQv_dJEc" type="audio/mpeg"/>
+        <description>In this episode, we explore fun ways to learn English. Discover tips for improving your language skills. Join us and enjoy the journey of learning!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
