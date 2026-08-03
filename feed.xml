@@ -2204,15 +2204,6 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <podcast:transcript url="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/transcripts/6a4d00b4f49ce3d49e7eff75.vtt" type="text/vtt"/>
     </item>
 <item>
-        <guid>6a4fa021d0f9c4413f38d5f5</guid>
-        <title>News and Music: A Mix of Surprises! בינוני</title>
-        <pubDate>Thu, 09 Jul 2026 13:20:33 GMT</pubDate>
-        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/116be5ea3_episode-1784011172060-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NDAxMTE2MywiZXhwIjoxNzg2NjAzMTYzLCJqdGkiOiJmMGZjNjhmMS0wZmI2LTQxMGYtOWQ0Zi1mM2NiZWYyYjViOGYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzExNmJlNWVhM19lcGlzb2RlLTE3ODQwMTExNzIwNjAtMS5tcDMifV1dfQ.T8F_Th3l77347Sr-DmXpc5_OVtBg5TC1TMvlC64iLsU" type="audio/mpeg"/>
-        <description>Discover the movie of the summer, a surprise from Ford, and a heartfelt farewell to Bonnie Tyler in today&apos;s episode. We also dive into healthcare challenges and educational concerns. It&apos;s a fun and informative mix just for you!</description>
-        <itunes:author>יוני כהן</itunes:author>
-        <itunes:duration>00:04:30</itunes:duration>
-    </item>
-<item>
         <guid>6a58d9a3b60609595c95fb05</guid>
         <title>Learn English with Fun Chats מתחילים</title>
         <pubDate>Thu, 16 Jul 2026 13:16:19 GMT</pubDate>
@@ -2378,6 +2369,16 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <pubDate>Thu, 09 Jul 2026 13:35:28 GMT</pubDate>
         <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/78f92b3f4_episode-1785740029669-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NTc0MDAyMSwiZXhwIjoxNzg4MzMyMDIxLCJqdGkiOiJlZDIxZmMxNS01Mjk3LTQ3MGEtYTg4OC1kZTE3NjJlYzQ5ODYiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzc4ZjkyYjNmNF9lcGlzb2RlLTE3ODU3NDAwMjk2NjktMS5tcDMifV1dfQ.r5h453e6vPtxKcFg6gI3MBfJ6Y1rAJ9JuIqsDJh_n3Y" type="audio/mpeg"/>
         <description>In this episode, we chat about some surprising events and interesting news. Discover how a cookie caused a company trouble and learn about a big summer movie everyone is excited about. Join us for these stories and more!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a4fa021d0f9c4413f38d5f5</guid>
+        <title>News and Music: A Mix of Surprises! בינוני</title>
+        <pubDate>Thu, 09 Jul 2026 13:20:33 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/74094f09b_episode-1785739759613-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NTczOTc1MSwiZXhwIjoxNzg4MzMxNzUxLCJqdGkiOiJmMDQ1MTY5YS04ZDg0LTQyN2MtYjQxMy1iOGU3ZTljNDU1ODciLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzc0MDk0ZjA5Yl9lcGlzb2RlLTE3ODU3Mzk3NTk2MTMtMS5tcDMifV1dfQ.96s6HJTJfl6p81s8lNnz9MJ5K082O9Bx066eN9FdcPA" type="audio/mpeg"/>
+        <description>Discover the movie of the summer, a surprise from Ford, and a heartfelt farewell to Bonnie Tyler in today&apos;s episode. We also dive into healthcare challenges and educational concerns. It&apos;s a fun and informative mix just for you!</description>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
