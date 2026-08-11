@@ -2392,5 +2392,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a748a26e0f8ef0335338c35</guid>
+        <title>Hot Topics and Cool Tunes בינוני</title>
+        <pubDate>Thu, 06 Aug 2026 13:20:38 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b7f6d6630_episode-1786431476076-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NjQzMTQ2OCwiZXhwIjoxNzg5MDIzNDY4LCJqdGkiOiJlM2JkYzg1Ni0yYWRmLTQwNzktYmIzMy03MjA0YjFjZTVmZjAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I3ZjZkNjYzMF9lcGlzb2RlLTE3ODY0MzE0NzYwNzYtMS5tcDMifV1dfQ.Cb_zptjiODWjahCGWyo7gKdeQOXFhbGS8tuDANvIAxw" type="audio/mpeg"/>
+        <description>Join us this week as we discuss hot news stories and heartwarming moments. Discover the latest in Israeli rock music and learn about travel with airline points. Enjoy easy English to improve your language skills!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
