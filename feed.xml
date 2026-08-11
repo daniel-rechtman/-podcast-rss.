@@ -2402,5 +2402,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a748dbb75ec9da234807420</guid>
+        <title>News You Can Use מתקדמים</title>
+        <pubDate>Thu, 06 Aug 2026 13:35:55 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/8ddbd707f_episode-1786431502031-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NjQzMTQ5MywiZXhwIjoxNzg5MDIzNDkzLCJqdGkiOiJmYjM5NGRkMC1jYmMzLTRlYmMtOTU1ZS1kNDc2NDE0MjhmYzkiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzhkZGJkNzA3Zl9lcGlzb2RlLTE3ODY0MzE1MDIwMzEtMS5tcDMifV1dfQ.Al5kmNbac5rgv16cjHOOeIuLoTzLv3YI86LhfNyoHiU" type="audio/mpeg"/>
+        <description>Tune in as we discuss hot topics from Israel! From a controversial comment and rock music&apos;s comeback to an airline flight challenge, we&apos;ve got engaging stories for you. Listen in for updates and insights on these current events!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
