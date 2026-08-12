@@ -2422,5 +2422,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a7b21a2e6b2e84652f86d5e</guid>
+        <title>Stories from the Headlines בינוני</title>
+        <pubDate>Tue, 11 Aug 2026 13:20:34 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/ad92570dc_episode-1786534865914-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NjUzNDg1NywiZXhwIjoxNzg5MTI2ODU3LCJqdGkiOiI1YjM5NmU2OC0wM2MzLTQ3YzYtYWYxMi1kMWQ0MGMzYzQyNTEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2FkOTI1NzBkY19lcGlzb2RlLTE3ODY1MzQ4NjU5MTQtMS5tcDMifV1dfQ.zXEpRd4zQAch2h81e1EfvfWiTE2MnqO3yRAr1Q4kQE4" type="audio/mpeg"/>
+        <description>Join us as we explore a controversial TV star&apos;s response to criticism, the launch of a new reality show season, and a touching tale of hope and music. We&apos;ll also discuss financial scandal in the south and Cyprus&apos; military hopes. Dive into these engaging stories with us!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
