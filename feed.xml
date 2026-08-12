@@ -2432,5 +2432,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a7b2524778c627e8efa8eb2</guid>
+        <title>Stories of Challenge and Change מתקדמים</title>
+        <pubDate>Tue, 11 Aug 2026 13:35:32 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/29359c96c_episode-1786534965983-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NjUzNDk1NywiZXhwIjoxNzg5MTI2OTU3LCJqdGkiOiIxNWUyOGY1ZC1kNmVjLTQ5NGMtOGU1My1kZmMyYjhjMmFiNzgiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzI5MzU5Yzk2Y19lcGlzb2RlLTE3ODY1MzQ5NjU5ODMtMS5tcDMifV1dfQ.bzNRG_XMNMTb9Qsg0Wu7NVEsfvzQoRMJgMvQKxlphH8" type="audio/mpeg"/>
+        <description>Join us for captivating stories of people facing tough situations across the world. From personal battles to business hurdles, explore how individuals respond to pressure. Discover lessons of resilience and determination in today&apos;s episode!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
