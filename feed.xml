@@ -2462,5 +2462,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a7dc83696590b310073c54e</guid>
+        <title>Exciting Events and Surprising Twists מתקדמים</title>
+        <pubDate>Thu, 13 Aug 2026 13:35:50 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a0bdb1b22_episode-1786879065027-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4Njg3OTA1NiwiZXhwIjoxNzg5NDcxMDU2LCJqdGkiOiJhZmZmOTIwYS1jNDA2LTQwNjEtODk1Yy0yMmJjOTFhZWM2YmMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2EwYmRiMWIyMl9lcGlzb2RlLTE3ODY4NzkwNjUwMjctMS5tcDMifV1dfQ._9-7fnEr72t9i-mE8lZ9tgf9bLgsb286jBoEa4LJBNQ" type="audio/mpeg"/>
+        <description>In this episode, we talk about big changes in Tel Aviv&apos;s nightlife scene. Discover the Eurovision drama and some brand new pop-up fun. Join us for lively stories and interesting insights!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
