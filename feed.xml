@@ -2452,5 +2452,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a7dc4b15612dae2e24f71a3</guid>
+        <title>Exciting Changes in Tel Aviv! בינוני</title>
+        <pubDate>Thu, 13 Aug 2026 13:20:49 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/4c2d14122_episode-1786879015591-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4Njg3OTAwNywiZXhwIjoxNzg5NDcxMDA3LCJqdGkiOiJiYjQ4ODJkZS0wY2E4LTRkYzctYWEwYi1iMTAxNDY3NDQ3ZTgiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzRjMmQxNDEyMl9lcGlzb2RlLTE3ODY4NzkwMTU1OTEtMS5tcDMifV1dfQ.ZMJkK4JSF_mcwL7bGh9nlABTzo_GiR1y-mFsDy5hDOA" type="audio/mpeg"/>
+        <description>Discover the latest news from Tel Aviv&apos;s famous night scene. Learn about a Eurovision scheduling conflict that affects Israel. Meet Tsion Amir, a lawyer facing challenges because of his beliefs.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
