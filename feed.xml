@@ -2522,5 +2522,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a8d9b0a45835719bc5dfa02</guid>
+        <title>Intriguing Stories from Israel מתקדמים</title>
+        <pubDate>Tue, 25 Aug 2026 13:39:22 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/6cc8b1848_episode-1787731861421-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4NzczMTg1MywiZXhwIjoxNzkwMzIzODUzLCJqdGkiOiIwZGYxOGFmMi1mODA0LTRjZGQtOTdkZC1lZWQyYTliODc4MzQiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzZjYzhiMTg0OF9lcGlzb2RlLTE3ODc3MzE4NjE0MjEtMS5tcDMifV1dfQ.rzUl8brGCZb9RpBc41OfCxMIjtnxKaxzeJcfY4SjdU4" type="audio/mpeg"/>
+        <description>Join us as we explore recent events from Israel. Discover the legacy of a famous festival producer. Learn about a new book from former prisoners. Exciting news about a startup&apos;s big success and insights into the costs of military service.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
