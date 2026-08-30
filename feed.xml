@@ -2552,5 +2552,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a903d7a1346c36652f2d0d8</guid>
+        <title>Music, Money, and More! מתקדמים</title>
+        <pubDate>Thu, 27 Aug 2026 13:36:58 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/1ffe15dc4_episode-1788070614316-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4ODA3MDYwNiwiZXhwIjoxNzkwNjYyNjA2LCJqdGkiOiI1NGM5Y2M0Zi1iZjQxLTQ5MTEtOTQ0OC0xMDUyZDg2MjBiYzkiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzFmZmUxNWRjNF9lcGlzb2RlLTE3ODgwNzA2MTQzMTYtMS5tcDMifV1dfQ.Ab53GJc7d_wlD-yn3iVpJWD2Np65qm_-j3YDAEsb57s" type="audio/mpeg"/>
+        <description>Join us as we explore the world of music, from Jay-Z&apos;s big comeback to a canceled concert in New York. We also talk about the importance of financial education in schools, a new fashion campaign, and a fancy robot vacuum cleaner. Tune in for fun and learning!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
