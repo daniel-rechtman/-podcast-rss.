@@ -2582,5 +2582,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a96d4cfe85d32467f04053a</guid>
+        <title>Memories and Money Matters מתקדמים</title>
+        <pubDate>Tue, 01 Sep 2026 13:36:15 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c275db1e9_episode-1788327983974-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4ODMyNzk3NSwiZXhwIjoxNzkwOTE5OTc1LCJqdGkiOiJkODQ3MTc0Mi0xZGVjLTQzYjUtOTFiZS01NGRjMzlhOTZiMzgiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2MyNzVkYjFlOV9lcGlzb2RlLTE3ODgzMjc5ODM5NzQtMS5tcDMifV1dfQ.a_mmSh19IhSswHuRKpx_GgwgAmbkgWxEWW4pXBUNshQ" type="audio/mpeg"/>
+        <description>Join us as we explore stories of remembrance, financial decisions, and unexpected challenges. Discover a touching memorial event and learn about a bank&apos;s bold move. Plus, find out what&apos;s happening in the world of shopping and the environment.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
