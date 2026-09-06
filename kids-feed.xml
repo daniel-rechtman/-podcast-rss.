@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<title>I-FAL Kids – English for Kids | אנגלית לילדים</title>
+<link>https://pod-for-ifal-14a82af3.base44.app</link>
+<language>he</language>
+<description>פודקאסט אנגלית לילדים מבית I-FAL. סיפורים, משחקי מילים ושיחות קצרות באנגלית קלה וכיפית, מותאמים לקבוצות גיל 4-6, 7-9 ו-10-12.
+
+I-FAL Kids – English for Kids
+Fun, short English episodes for children: stories, songs, simple vocabulary and everyday phrases, made for ages 4-6, 7-9 and 10-12. Learn English through play, one episode at a time.</description>
+<itunes:summary>פודקאסט אנגלית לילדים מבית I-FAL – סיפורים, משחקי מילים ושיחות קצרות באנגלית קלה וכיפית לפי קבוצות גיל. Fun, short English episodes for kids ages 4-12.</itunes:summary>
+<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/kids-artwork.png"/>
+<itunes:category text="Kids &amp; Family">
+<itunes:category text="Education for Kids"/>
+</itunes:category>
+<itunes:category text="Education">
+<itunes:category text="Language Learning"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>יוני כהן</itunes:name>
+<itunes:email>daniel763@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:author>יוני כהן</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+</channel>
+</rss>
