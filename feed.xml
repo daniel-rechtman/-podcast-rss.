@@ -2682,5 +2682,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa22c02f83029379b046aa7</guid>
+        <title>Movies, Music, and More! מתקדמים</title>
+        <pubDate>Thu, 10 Sep 2026 04:03:14 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/9ec6ae803_episode-1789041651218-auto-1789012994364.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MTY0MywiZXhwIjoxNzkxNjMzNjQzLCJqdGkiOiIxZmE4ODI3MS1mMDNmLTRhODItOTlhMC1lNjEzM2ZkYTUzMDEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzllYzZhZTgwM19lcGlzb2RlLTE3ODkwNDE2NTEyMTgtYXV0by0xNzg5MDEyOTk0MzY0Lm1wMyJ9XV19.lunjrbGkrUiFTMw8NEivnPQ7aYCn2H6q7jRGVVWG1HE" type="audio/mpeg"/>
+        <description>In this episode, we explore the big winners at the Israeli film awards and look at the exciting new movies coming to the Haifa Film Festival. We also share some great news about the legendary Stevie Wonder returning to the stage for a world tour. Plus, find out about a popular burger restaurant reopening with a fresh new look!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
