@@ -2652,5 +2652,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a9f88e97d344fd51e75756c</guid>
+        <title>Culture, Cars, and Sweet Success מתקדמים</title>
+        <pubDate>Tue, 08 Sep 2026 04:02:49 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/7e68fe100_episode-1789041343206-auto-1788840169280.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MTMzNCwiZXhwIjoxNzkxNjMzMzM0LCJqdGkiOiJlYmQ4MWZjMy1hZGU4LTQwMGItYWIzNC1lOTg4MWE0NmIwOWMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzdlNjhmZTEwMF9lcGlzb2RlLTE3ODkwNDEzNDMyMDYtYXV0by0xNzg4ODQwMTY5MjgwLm1wMyJ9XV19.a0FnRhm1uypRSNQJsXqgsdXIE1MpbLiLYihd3DeSTe0" type="audio/mpeg"/>
+        <description>In this episode, we explore the power of storytelling in literature and remember the talented actor Ilan Dar. We also take a look at the success of iconic Israeli brands like Yad Mordechai and Colmobil. Finally, we discuss the latest news from the global tech and entertainment industries.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
