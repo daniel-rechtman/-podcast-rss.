@@ -2742,5 +2742,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa2b22651c5f3315b37737b</guid>
+        <title>Surprises and Standpoints מתקדמים</title>
+        <pubDate>Thu, 10 Sep 2026 13:35:34 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/559e485ab_episode-1789052682254-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA1MjY3NCwiZXhwIjoxNzkxNjQ0Njc0LCJqdGkiOiJiZTE2OWQzZC02NmY4LTRiMzItOGY5Ny1hYjZmYjdmY2I2MmIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzU1OWU0ODVhYl9lcGlzb2RlLTE3ODkwNTI2ODIyNTQtMS5tcDMifV1dfQ.858Vlsvp5KXtbXbpRN-m58bc9WSb9z8UTguwHIlpUtw" type="audio/mpeg"/>
+        <description>In this episode, we talk about surprising movie awards and a rapper standing up for equality. We also discuss a twist ending on a cooking show and a real estate market in trouble. Finally, we hear about workers protesting against unfair pay cuts.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
