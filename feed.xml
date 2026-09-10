@@ -2712,5 +2712,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa0daa06ab45c84f3341fcc</guid>
+        <title>John Malkovich and the TV Drama בינוני</title>
+        <pubDate>Wed, 09 Sep 2026 04:03:44 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/63f31ed04_episode-1789042008531-auto-1788926624629.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MjAwMCwiZXhwIjoxNzkxNjM0MDAwLCJqdGkiOiIxZmFhNmMwYi1mYjkzLTQxY2EtYjRkZC04OGM0MzBhMTU4OWEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzYzZjMxZWQwNF9lcGlzb2RlLTE3ODkwNDIwMDg1MzEtYXV0by0xNzg4OTI2NjI0NjI5Lm1wMyJ9XV19.Ww8Y6MdMf_StM9HZkWSTY36yc1RW830CAiNp5UMDmB8" type="audio/mpeg"/>
+        <description>In this episode, we talk about actor John Malkovich canceling his visit to Israel. We also explore the world of reality television and how it affects our daily lives. Join us as we discuss these interesting stories in simple English.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
