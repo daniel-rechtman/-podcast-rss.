@@ -2662,5 +2662,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa22c009ef4d56cd4973b0c</guid>
+        <title>IFAL: Cinema, Music, and Bites מתחילים</title>
+        <pubDate>Thu, 10 Sep 2026 04:03:12 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/c6717698f_episode-1789041596924-auto-1789012992762.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MTU4OCwiZXhwIjoxNzkxNjMzNTg4LCJqdGkiOiI1NDA2MGQyNy04M2Y5LTQ1YTUtODA0Yi0yYjdiODE1YmI4ODciLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2M2NzE3Njk4Zl9lcGlzb2RlLTE3ODkwNDE1OTY5MjQtYXV0by0xNzg5MDEyOTkyNzYyLm1wMyJ9XV19.Q5R0Xx2MiR9fC1bYwd4BsepGFTSWONjOLBZCn74QJrU" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we celebrate the big winners at the Ofir Film Awards and look ahead to the exciting Haifa Film Festival. We also share the news of Stevie Wonder&apos;s legendary global tour returning to the stage. Finally, we explore the updated look of a local favorite restaurant in Tel Aviv.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
