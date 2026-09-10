@@ -2672,5 +2672,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa22c01ea4800473f8e2fed</guid>
+        <title>IFAL: Culture and Music Highlights בינוני</title>
+        <pubDate>Thu, 10 Sep 2026 04:03:13 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/4ecc082e5_episode-1789041621309-auto-1789012993624.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MTYxMywiZXhwIjoxNzkxNjMzNjEzLCJqdGkiOiJlOWQ5NDQzNy02YTFhLTRlNjItOTg4Yi1hNzgwYzVhMWZhZjAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzRlY2MwODJlNV9lcGlzb2RlLTE3ODkwNDE2MjEzMDktYXV0by0xNzg5MDEyOTkzNjI0Lm1wMyJ9XV19.e3MR9-sjtMvXkcVJsPgzPhmmZE6tnCdq2qA7tXXhdAw" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we celebrate Israeli cinema with the winners of the Ophir Awards and look forward to the upcoming Haifa Film Festival. We also get excited about music legend Stevie Wonder&apos;s huge world tour celebrating his iconic album. Finally, we visit a newly renovated favorite restaurant in Ramat Hachayal.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
