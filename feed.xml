@@ -2642,5 +2642,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a9f88e84663004fdd49dfe8</guid>
+        <title>Culture, Cars, and Sweet Success מתחילים</title>
+        <pubDate>Tue, 08 Sep 2026 04:02:48 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/bfbed4940_episode-1789041258539-auto-1788840168425.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTA0MTI1MCwiZXhwIjoxNzkxNjMzMjUwLCJqdGkiOiJiNWEzYWFkZi0yYmVkLTQxNDEtOGU1NC1kYjBmMDlhZmIwMDMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2JmYmVkNDk0MF9lcGlzb2RlLTE3ODkwNDEyNTg1MzktYXV0by0xNzg4ODQwMTY4NDI1Lm1wMyJ9XV19.Ohy1NF81DIwbqBFvif2eJsH8muQv86GOAhz6-JCo5KU" type="audio/mpeg"/>
+        <description>In this episode, we explore the power of storytelling in literature and remember a beloved Israeli actor. We also look at business news in the AI and food industries. Finally, we discuss how a historic car company continues to innovate for its drivers today.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
