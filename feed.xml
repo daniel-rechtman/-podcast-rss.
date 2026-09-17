@@ -2752,5 +2752,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa37d6ba77ec20b9bf8f1d8</guid>
+        <title>IFAL: Israeli Culture and Local News מתחילים</title>
+        <pubDate>Fri, 11 Sep 2026 04:02:51 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/6e7ba0467_episode-1789624472029-auto-1789099371554.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTYyNDQ2MywiZXhwIjoxNzkyMjE2NDYzLCJqdGkiOiI0Nzk1ODMxNi04MGE2LTRmNGYtYTE5Ni01MGE2NDU2ZDc0MjciLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzZlN2JhMDQ2N19lcGlzb2RlLTE3ODk2MjQ0NzIwMjktYXV0by0xNzg5MDk5MzcxNTU0Lm1wMyJ9XV19.w_BdtvuRr1PXW1HvLWIJDhFN52P0yPVrFXwve1MfZwg" type="audio/mpeg"/>
+        <description>In this episode, we hear about the legendary Rivka Michaeli receiving a special award. We also explore the struggles in the Israeli real estate market and a surprise protest at a company event. Join us to learn new vocabulary while catching up on these interesting stories!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
