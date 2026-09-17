@@ -2812,5 +2812,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa8c3212cf806253b42bc73</guid>
+        <title>Business, Tech, and Cinema Trends מתחילים</title>
+        <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/de5612e17_episode-1789624921489-auto-1789444897368.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTYyNDkxMywiZXhwIjoxNzkyMjE2OTEzLCJqdGkiOiJlN2Q0ZjQ2NC0zOTliLTQ0NmQtYThlYS00MjVjN2YzMmUwMjUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2RlNTYxMmUxN19lcGlzb2RlLTE3ODk2MjQ5MjE0ODktYXV0by0xNzg5NDQ0ODk3MzY4Lm1wMyJ9XV19.drahdAw5OvwJ5eUPPghdTKE36if9FQHKs9L-c02qrsg" type="audio/mpeg"/>
+        <description>In this episode, we explore exciting news from the world of international film festivals. We also break down a new economic proposal about pension savings for young professionals. Finally, we discuss how big global companies are investing in Israeli defense technology.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
