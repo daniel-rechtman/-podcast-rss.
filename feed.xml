@@ -2802,5 +2802,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa771ea15917757aa5c0fc8</guid>
+        <title>Tech, Space, and Voice Stars מתקדמים</title>
+        <pubDate>Mon, 14 Sep 2026 04:02:50 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/d93b09646_episode-1789624705984-auto-1789358570624.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTYyNDY5NywiZXhwIjoxNzkyMjE2Njk3LCJqdGkiOiIzZjAyYTQ2Yi0yMTgxLTRkNTctOWRiZS1kYmI0MzFhZTVhYzIiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2Q5M2IwOTY0Nl9lcGlzb2RlLTE3ODk2MjQ3MDU5ODQtYXV0by0xNzg5MzU4NTcwNjI0Lm1wMyJ9XV19.HGktwMTd09qE-1kIhJC_oUn-p_rYWuRhVbHHKFawS2k" type="audio/mpeg"/>
+        <description>In this episode, we remember voice actor Mike McFarland and look at the future of AI in our shopping habits. We also explore Elon Musk&apos;s big plans for space travel and the challenges of the digital age. Join us to learn new words while staying updated on these exciting stories!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
