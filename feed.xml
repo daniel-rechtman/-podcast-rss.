@@ -2822,5 +2822,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa8c321c348e281d0627bd2</guid>
+        <title>Business, Tech, and Cinema News בינוני</title>
+        <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a0426a74c_episode-1789624925774-auto-1789444897615.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTYyNDkxNywiZXhwIjoxNzkyMjE2OTE3LCJqdGkiOiIwODgyYzk5NC1mNzY5LTRmMDUtODUxMi03ZjExNmE0OGQ1OTMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2EwNDI2YTc0Y19lcGlzb2RlLTE3ODk2MjQ5MjU3NzQtYXV0by0xNzg5NDQ0ODk3NjE1Lm1wMyJ9XV19.z6HFESn1yHm3WK4Wmwj9BnEUYcXsK7riIE8Ts-zo1Os" type="audio/mpeg"/>
+        <description>In this episode, we explore the success of a new Israeli movie at a film festival in Toronto. We also look at a big financial report about changing pension rules for young workers. Finally, we discuss a major tech deal where an American company buys an Israeli defense business.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
