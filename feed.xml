@@ -2762,5 +2762,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa37d6c939056ac4746dd8a</guid>
+        <title>IFAL: Israeli Cultural Icons and Trends בינוני</title>
+        <pubDate>Fri, 11 Sep 2026 04:02:52 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/7d6f812de_episode-1789624481967-auto-1789099371845.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTYyNDQ3MywiZXhwIjoxNzkyMjE2NDczLCJqdGkiOiJmZTUwOWRhZi1kYmM2LTQyZWUtODIyMC05OGQ0YjZlZGI2NTgiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzdkNmY4MTJkZV9lcGlzb2RlLTE3ODk2MjQ0ODE5NjctYXV0by0xNzg5MDk5MzcxODQ1Lm1wMyJ9XV19.R1ISBOb0nn4f82t5QpE8y9N6aHpiNHhhLT5qZT9ZVuI" type="audio/mpeg"/>
+        <description>In this episode, we celebrate the legendary actress Rivka Michaeli and her recent honors. We also discuss the latest trends in the Israeli real estate market. Finally, we look at a tense moment between bank employees and their CEO.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
