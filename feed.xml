@@ -2852,5 +2852,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aaf5aba52962db8edfac9a3</guid>
+        <title>IFAL Daily News: Life, Money, and Safety מתקדמים</title>
+        <pubDate>Sun, 20 Sep 2026 04:02:02 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/dc23254ae_episode-1789886244046-auto-1789876922044.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc4OTg4NjIzNSwiZXhwIjoxNzkyNDc4MjM1LCJqdGkiOiJlMWE2Y2Y0Yy1kNmRkLTQzNjAtYjgwOS05OTY2ZjhmMzAzZDEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2RjMjMyNTRhZV9lcGlzb2RlLTE3ODk4ODYyNDQwNDYtYXV0by0xNzg5ODc2OTIyMDQ0Lm1wMyJ9XV19.rEuaHQ4w9Xj-nFPfw-JS07WZykvZCMFNoUF1LxeqgBE" type="audio/mpeg"/>
+        <description>We remember the life of a beloved Israeli star who recently passed away. We also look at the future of the stock market and what experts are predicting for global finance. Finally, learn important safety tips to stay protected while riding your bike during the Yom Kippur holiday.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
