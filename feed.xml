@@ -2952,5 +2952,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab2842581c5f34b3b848cfc</guid>
+        <title>From Music to Tech: Surprising Twists מתקדמים</title>
+        <pubDate>Tue, 22 Sep 2026 13:35:33 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/b5067b27a_episode-1790144825260-1.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc5MDE0NDgxNiwiZXhwIjoxNzkyNzM2ODE2LCJqdGkiOiI0YmM4ZjQwYy04NWY4LTRiOTYtYTY3Mi0yYWY3ZGZhMzhjNzUiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2I1MDY3YjI3YV9lcGlzb2RlLTE3OTAxNDQ4MjUyNjAtMS5tcDMifV1dfQ.JO4gptRm_i9kCaexZAHNfKLfV6VCk2FWBlGq_F_5nPc" type="audio/mpeg"/>
+        <description>Join us as we explore surprising changes in music and tech! Discover the pop star embracing rap, learn about Boy George&apos;s Israeli concert, and find out how a tech post caught Elon Musk&apos;s eye. Plus, hear about Israel&apos;s defense tech investment and a huge company sale.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
