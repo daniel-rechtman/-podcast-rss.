@@ -2912,5 +2912,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab1fd97ebf30d73b5f3d3a5</guid>
+        <title>IFAL News Update: Business and Market Trends בינוני</title>
+        <pubDate>Tue, 22 Sep 2026 04:01:27 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/440c9801f_episode-1790144693868-auto-1790049687363.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc5MDE0NDY4NSwiZXhwIjoxNzkyNzM2Njg1LCJqdGkiOiJiYTFiMTBmNS0wNThhLTQ4NmMtOTBiZS00YzY2YTQyYThiYTMiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzQ0MGM5ODAxZl9lcGlzb2RlLTE3OTAxNDQ2OTM4NjgtYXV0by0xNzkwMDQ5Njg3MzYzLm1wMyJ9XV19.h9hSTYUxTIxfqY4fr3ib5wXUPjEmKRwyp7DysDJ1EpM" type="audio/mpeg"/>
+        <description>In this episode, we discuss the major $110 billion merger between Paramount and Warner Bros. We also look at the latest economic warnings from experts about potential changes in the stock market. Join us as we explore what these big financial moves mean for the world.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
