@@ -2892,5 +2892,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab0ac3231e29eb0fe57b048</guid>
+        <title>Success Stories and Global News מתקדמים</title>
+        <pubDate>Mon, 21 Sep 2026 04:01:54 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/90e80d5c1_episode-1790144627208-auto-1789963314570.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc5MDE0NDYxOSwiZXhwIjoxNzkyNzM2NjE5LCJqdGkiOiI5YWRjNGUxZC1mNGQzLTQ1YjAtOGVlYy1kNzZiYmY2NDk3MzAiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzLzkwZTgwZDVjMV9lcGlzb2RlLTE3OTAxNDQ2MjcyMDgtYXV0by0xNzg5OTYzMzE0NTcwLm1wMyJ9XV19.SXf5upWnrX1D6Z_m6kpeLGgliyXi6ffHWfILKvpaIIo" type="audio/mpeg"/>
+        <description>In this episode, we celebrate an Israeli sound designer who won an Emmy for his work with David Attenborough. We also discuss the challenges facing Channel 13 television in Israel today. Finally, we look at the high-stakes meetings between the US and China to stabilize the global economy.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
