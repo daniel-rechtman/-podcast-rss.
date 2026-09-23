@@ -2902,5 +2902,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab1fd9673972a0de70dd50a</guid>
+        <title>Market Moves and Media Deals מתחילים</title>
+        <pubDate>Tue, 22 Sep 2026 04:01:26 GMT</pubDate>
+        <enclosure url="https://media.base44.com/files/private/68514fa748ce1e5f14a82af3/a7d124e66_episode-1790144679927-auto-1790049686695.mp3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOjU4OGQ5ZTIzMjViYTQ5Mzk4ZDg0ZjhjNzM0ZGM3OWE5Iiwic3ViIjoidXJuOmFwcDo1ODhkOWUyMzI1YmE0OTM5OGQ4NGY4YzczNGRjNzlhOSIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTc5MDE0NDY3MSwiZXhwIjoxNzkyNzM2NjcxLCJqdGkiOiIwZmE5NTIxMy1jYzgzLTQ4YjctYjVjMS03NGZiNzBkM2NhNWEiLCJvYmoiOltbeyJwYXRoIjoiL3ByaXZhdGUvNjg1MTRmYTc0OGNlMWU1ZjE0YTgyYWYzL2E3ZDEyNGU2Nl9lcGlzb2RlLTE3OTAxNDQ2Nzk5MjctYXV0by0xNzkwMDQ5Njg2Njk1Lm1wMyJ9XV19.LiNheVNV-5aRSQEUtV2fCJXSVOSf6TESFntQdaW81qc" type="audio/mpeg"/>
+        <description>In this episode, we discuss the big 110-billion-dollar merger between Paramount and Warner Bros. We also look at the latest economic warnings about global stock markets and potential financial changes. Join us for a clear update on the business news you need to know today.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
