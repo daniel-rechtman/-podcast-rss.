@@ -53,5 +53,15 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a9eba3aa855e948c616ce31</guid>
+        <title>A Yummy Fruit Party (4-6)</title>
+        <pubDate>Mon, 07 Sep 2026 13:20:58 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5d1dce33b_episode-1790519049430-auto-1788787258168.mp3" type="audio/mpeg"/>
+        <description>Come join our fun fruit party with apple, banana, and orange. Let&apos;s learn the names of these yummy snacks together! 🍎</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
