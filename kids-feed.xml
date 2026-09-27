@@ -23,5 +23,15 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
 <itunes:author>יוני כהן</itunes:author>
 <itunes:explicit>no</itunes:explicit>
 <itunes:type>episodic</itunes:type>
+
+    <item>
+        <guid>6aa9404c86dfdf2affd5c7e5</guid>
+        <title>The Big Yellow Bus (4-6)</title>
+        <pubDate>Tue, 15 Sep 2026 12:55:40 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f6abf091a_episode-1790518861882-auto-1789476940518.mp3" type="audio/mpeg"/>
+        <description>Hop on the bright yellow bus for a fun ride to school. We will sing songs and meet new friends today! 🚌</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
