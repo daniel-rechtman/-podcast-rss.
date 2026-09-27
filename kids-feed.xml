@@ -63,5 +63,15 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6a9eb311b76966cbe189c755</guid>
+        <title>Time for Sleepy Stars (4-6)</title>
+        <pubDate>Mon, 07 Sep 2026 12:50:25 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9af3fa647_episode-1790519105526-auto-1788785424897.mp3" type="audio/mpeg"/>
+        <description>Put on your soft pajamas and look at the bright moon. We will count the twinkling stars together before bedtime. 🌙</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
