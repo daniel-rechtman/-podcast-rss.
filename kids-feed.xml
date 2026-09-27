@@ -43,5 +43,15 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6aa771e88fd215a73c3449e3</guid>
+        <title>Kid Inventors are Cool! (10-12)</title>
+        <pubDate>Mon, 14 Sep 2026 04:02:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9f7bbeca2_episode-1790518999365-auto-1789358568115.mp3" type="audio/mpeg"/>
+        <description>Did you know kids made these toys? Learn all about amazing things made by children like you! 🚀</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
