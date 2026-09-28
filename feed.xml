@@ -2962,5 +2962,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab52294975941adb3f16ca1</guid>
+        <title>Learning Numbers: Understanding NaN מתחילים</title>
+        <pubDate>Thu, 24 Sep 2026 13:16:04 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/27b73316d_episode-1790517261273-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we learn about numbers and the strange &apos;NaN&apos;. It&apos;s a special code in computers showing when a number isn&apos;t a real number. Join us to explore and understand this curious concept in a simple way!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
