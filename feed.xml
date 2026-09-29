@@ -3022,5 +3022,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab9e6d94439eea613cc5bfe</guid>
+        <title>Pop Stars, Tech Deals, and Music Returns מתחילים</title>
+        <pubDate>Mon, 28 Sep 2026 04:02:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e2cd61e4f_episode-1790673649393-auto-1790568153365.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about Olivia Rodrigo&apos;s amazing dress trick on stage. We also share exciting news about a legendary band making a musical comeback. Finally, hear about a new deal on the latest iPhone in stores near you.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
