@@ -2982,5 +2982,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab527260cebd5b2d6743559</guid>
+        <title>Stories from the Big Screen מתקדמים</title>
+        <pubDate>Thu, 24 Sep 2026 13:35:34 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b06a5f16a_episode-1790517240987-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore the world of cinema and beyond. We&apos;ll remember a great filmmaker who touched many hearts. Discover the exciting journey of films traveling the globe and their impact. Let&apos;s dive into the stories that captivate us all.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
