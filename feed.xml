@@ -3032,5 +3032,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab9e6d9464ae718e1fb9787</guid>
+        <title>Music, Tech, and Magic on IFAL בינוני</title>
+        <pubDate>Mon, 28 Sep 2026 04:02:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d81ea87fe_episode-1790673671806-auto-1790568153327.mp3" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we talk about Olivia Rodrigo&apos;s magical dress change during her new tour. We also look at the surprise comeback of the classic Israeli band DXM and the latest iPhone sale at Victory supermarkets. Join us for these fun stories and learn new English words along the way!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
