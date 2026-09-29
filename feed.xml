@@ -2972,5 +2972,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab52398c3c9b756cb0f8b55</guid>
+        <title>Movies, Money, and More בינוני</title>
+        <pubDate>Thu, 24 Sep 2026 13:20:24 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/96eb02ad2_episode-1790517251991-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories from the world of movies and business. Discover a film going global for free, and learn about creators managing their money. Tune in for engaging and simple English!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
