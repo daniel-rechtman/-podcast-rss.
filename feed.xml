@@ -3012,5 +3012,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab8954c7b2952e65480c75f</guid>
+        <title>A Fresh Look at Aging מתקדמים</title>
+        <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6acde17b_episode-1790516663500-auto-1790481740309.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore why we should change how we see growing older. We talk about finding new, active, and meaningful ways to live your life. Let&apos;s focus on adding more joy to our years instead of just counting them!</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
