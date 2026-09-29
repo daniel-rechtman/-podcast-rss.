@@ -3002,5 +3002,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab8954c9cc9cfcd477bae7c</guid>
+        <title>A New Chapter of Life בינוני</title>
+        <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cbe373953_episode-1790516689613-auto-1790481739998.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about changing how we see growing older. Instead of just focusing on age, we explore how to make these years active and full of purpose. Join us to learn how to add more life to your years.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
