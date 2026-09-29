@@ -2992,5 +2992,15 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
+
+    <item>
+        <guid>6ab8954c4b04e50d94f073dd</guid>
+        <title>The Golden Chapter מתחילים</title>
+        <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7dca7edf8_episode-1790516677696-auto-1790481740184.mp3" type="audio/mpeg"/>
+        <description>Today we explore a fresh way to look at aging with CEO Doron Arnon. He explains why we should focus on living a meaningful life at every age. Discover why life after sixty is about activity, purpose, and joy.</description>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
 </channel>
 </rss>
