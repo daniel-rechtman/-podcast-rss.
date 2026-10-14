@@ -40,6 +40,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <pubDate>Mon, 07 Sep 2026 12:50:25 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9af3fa647_episode-1790519105526-auto-1788785424897.mp3" type="audio/mpeg"/>
         <description>Put on your soft pajamas and look at the bright moon. We will count the twinkling stars together before bedtime. 🌙</description>
+        <itunes:subtitle>Count twinkling stars in English before bedtime (ages 4-6)</itunes:subtitle>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
@@ -50,10 +51,11 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <pubDate>Tue, 15 Sep 2026 12:55:40 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f6abf091a_episode-1790518861882-auto-1789476940518.mp3" type="audio/mpeg"/>
         <description>Hop on the bright yellow bus for a fun ride to school. We will sing songs and meet new friends today! 🚌</description>
+        <itunes:subtitle>A school-bus adventure teaching English for kids (ages 4-6)</itunes:subtitle>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 14 Oct 2026 09:10:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 09:11:07 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -61,6 +63,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <pubDate>Tue, 15 Sep 2026 04:01:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/54df14e75_episode-1790518923429-auto-1789444896170.mp3" type="audio/mpeg"/>
         <description>Come see the big pyramids and meet some funny cats! It is a magical trip back in time to learn cool things. 🐱</description>
+        <itunes:subtitle>Discover pyramids and ancient Egypt in easy English (ages 10-12)</itunes:subtitle>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
@@ -71,6 +74,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <pubDate>Mon, 14 Sep 2026 04:02:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9f7bbeca2_episode-1790518999365-auto-1789358568115.mp3" type="audio/mpeg"/>
         <description>Did you know kids made these toys? Learn all about amazing things made by children like you! 🚀</description>
+        <itunes:subtitle>Amazing inventions by kids, told in easy English (ages 10-12)</itunes:subtitle>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
