@@ -9,7 +9,7 @@
 I-FAL Kids – English for Kids
 Fun, short English episodes for children: stories, songs, simple vocabulary and everyday phrases, made for ages 4-6, 7-9 and 10-12. Learn English through play, one episode at a time.</description>
 <itunes:summary>פודקאסט אנגלית לילדים מבית I-FAL – סיפורים, משחקי מילים ושיחות קצרות באנגלית קלה וכיפית לפי קבוצות גיל. Fun, short English episodes for kids ages 4-12.</itunes:summary>
-<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/kids-artwork-3000.png"/>
+<itunes:image href="https://raw.githubusercontent.com/daniel-rechtman/-podcast-rss./main/kids-artwork-3000-v2.png"/>
 <itunes:category text="Kids &amp; Family">
 <itunes:category text="Education for Kids"/>
 </itunes:category>
@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 15 Oct 2026 12:50:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 13:23:35 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
