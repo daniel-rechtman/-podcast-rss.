@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 17 Oct 2026 19:15:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 19:28:35 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -85,6 +85,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:subtitle>Amazing inventions by kids, told in easy English</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/episode/47Zcsy3aVD2UrKL7nz4y41</platform:spotify>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ab8954e9b3b17ffd759b136</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Magic Funny Bag</title>
+        <pubDate>Sun, 27 Sep 2026 04:02:22 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2454b8e0f_episode-1790516652786-auto-1790481742394.mp3" type="audio/mpeg"/>
+        <description>Listen to a magic backpack make silly sounds today. It is going to be so much fun to hear! 🎒</description>
+        <itunes:subtitle>Listen to a magic backpack make silly sounds today.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
