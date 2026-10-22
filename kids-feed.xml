@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:48:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:48:11 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -755,6 +755,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come play with colorful ice cream flavors today. Let us learn all about tasty treats together! 🍦</description>
         <itunes:subtitle>Come play with colorful ice cream flavors today.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ac71605a5376e88f83a0ae7</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Magic Chocolate Surprise</title>
+        <pubDate>Thu, 08 Oct 2026 04:03:17 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c9be1b3f8_episode-1792676886314-auto-1791432197591.mp3" type="audio/mpeg"/>
+        <description>Come learn how yummy chocolate grows on big trees! It is a sweet adventure for you. 🍫</description>
+        <itunes:subtitle>Come learn how yummy chocolate grows on big trees!</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
