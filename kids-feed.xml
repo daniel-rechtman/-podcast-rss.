@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:29:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:29:11 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -335,6 +335,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Meet a fun robot who wants to dance. He learns many happy moves today. 🤖</description>
         <itunes:subtitle>Meet a fun robot who wants to dance.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad596af2554903110d5fc04</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Space Friends Party</title>
+        <pubDate>Mon, 19 Oct 2026 04:03:59 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c20cbcda4_episode-1792675749198-auto-1792382639737.mp3" type="audio/mpeg"/>
+        <description>Come fly to the stars with us! We will see how astronauts eat and sleep in space. 🚀</description>
+        <itunes:subtitle>Come fly to the stars with us!</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
