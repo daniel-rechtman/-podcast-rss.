@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:43:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:43:43 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -614,6 +614,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cf927b6b4_episode-1792676611337-auto-1792037031424.mp3" type="audio/mpeg"/>
         <description>Come learn how dogs smell and hear so many cool things. Dogs are truly amazing super friends! 🐶</description>
         <itunes:subtitle>Come learn how dogs smell and hear so many cool things.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acdad595033b17bf3933ebe</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Super Dog Senses!</title>
+        <pubDate>Tue, 13 Oct 2026 04:02:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b3d2234a8_episode-1792676621343-auto-1791864153522.mp3" type="audio/mpeg"/>
+        <description>Dogs can smell and hear amazing things. Let us learn all about our best furry friends today! 🐶</description>
+        <itunes:subtitle>Dogs can smell and hear amazing things.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
