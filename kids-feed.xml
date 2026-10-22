@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:48:23 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:49:32 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -797,6 +797,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Open a backpack that makes silly sounds. Come and laugh with us today! 🎒</description>
         <itunes:subtitle>Open a backpack that makes silly sounds.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acb0a221e93980ccfcf3665</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Big Dinosaur Stomp!</title>
+        <pubDate>Sun, 11 Oct 2026 04:01:38 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b7c356c94_episode-1792676970926-auto-1791691298348.mp3" type="audio/mpeg"/>
+        <description>Listen to the happy dinosaurs jump and play. Can you stomp your feet with them? 🦖</description>
+        <itunes:subtitle>Listen to the happy dinosaurs jump and play.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
