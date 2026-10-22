@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:43:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:43:29 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -587,6 +587,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Let&apos;s learn colors and yummy flavors together. Join us for a sweet ice cream party! 🍦</description>
         <itunes:subtitle>Let&apos;s learn colors and yummy flavors together.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad2f3a4f1a6551efa9c7f1c</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Octopus Friends</title>
+        <pubDate>Sat, 17 Oct 2026 04:03:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9881c319e_episode-1792676607590-auto-1792209828802.mp3" type="audio/mpeg"/>
+        <description>Meet our smart friends with eight arms under the sea. Let&apos;s learn how they play and hide in the blue water! 🐙</description>
+        <itunes:subtitle>Meet our smart friends with eight arms under the sea.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
