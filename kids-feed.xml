@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:36:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:36:09 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -433,6 +433,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come join our happy fruit dance with apple, banana, and orange. We will learn new words and have lots of fun! 🍎</description>
         <itunes:subtitle>Come join our happy fruit dance with apple, banana, and orange.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad050a771f9c9327548cad4</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Funny Pizza Party</title>
+        <pubDate>Thu, 15 Oct 2026 04:03:51 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/73a660b16_episode-1792676167149-auto-1792037030943.mp3" type="audio/mpeg"/>
+        <description>We are making a yummy pizza with a big surprise. Come and eat a slice with us! 🍕</description>
+        <itunes:subtitle>We are making a yummy pizza with a big surprise.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
