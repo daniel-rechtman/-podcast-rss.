@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:45:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:45:23 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -657,6 +657,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come play with happy yellow ducks in the tub. Let us splash and have fun together! 🛁</description>
         <itunes:subtitle>Come play with happy yellow ducks in the tub.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ac8679ebdaf7342d13d4993</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Big Sandcastle Fun!</title>
+        <pubDate>Fri, 09 Oct 2026 04:03:42 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c54e5b8a4_episode-1792676720177-auto-1791518622725.mp3" type="audio/mpeg"/>
+        <description>Let us build a giant sandcastle at the beach. We will add towers and a happy flag on top. 🏰</description>
+        <itunes:subtitle>Let us build a giant sandcastle at the beach.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
