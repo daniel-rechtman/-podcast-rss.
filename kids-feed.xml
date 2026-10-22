@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:38:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:43:02 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -559,6 +559,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Let us dive deep into the blue ocean to find tiny fish. We will say hello to new friends under the water! 🌊</description>
         <itunes:subtitle>Let us dive deep into the blue ocean to find tiny fish.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad1a2899b89339612e3e41d</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Where Is My Sock?</title>
+        <pubDate>Fri, 16 Oct 2026 04:05:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f3378f3d7_episode-1792676579747-auto-1792123528935.mp3" type="audio/mpeg"/>
+        <description>Oh no, one sock is gone! Let us look for it together in a fun house. 🧦</description>
+        <itunes:subtitle>Oh no, one sock is gone!</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
