@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 19 Oct 2026 19:28:41 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:18:15 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -167,6 +167,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>In this episode, we explore three exciting new exhibitions at the Israel Museum. We learn about how children lived thousands of years ago in the ancient world. You will also discover how simple materials changed our culture and how art connects to our history.</description>
         <itunes:subtitle>In this episode, we explore three exciting new exhibitions at the Israel Museum.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad98ac53991f4b20e5908d3</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Balloons Everywhere!</title>
+        <pubDate>Thu, 22 Oct 2026 04:02:13 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7349a3a9d_episode-1792675092417-auto-1792641733841.mp3" type="audio/mpeg"/>
+        <description>Come count all the colorful balloons at our party. It is so much fun to pop them one by one! 🎈</description>
+        <itunes:subtitle>Come count all the colorful balloons at our party.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
