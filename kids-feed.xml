@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:45:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:46:37 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -699,6 +699,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come and see the silliest sports in the whole world. We will jump and laugh together! ⚽</description>
         <itunes:subtitle>Come and see the silliest sports in the whole world.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ac5c48dd89441ac5c37a412</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Little Frog Jumps High</title>
+        <pubDate>Wed, 07 Oct 2026 04:03:25 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cb3b7540c_episode-1792676795185-auto-1791345805805.mp3" type="audio/mpeg"/>
+        <description>Meet a tiny frog who wants to jump to the clouds. Listen to his big bouncy adventure today! 🐸</description>
+        <itunes:subtitle>Meet a tiny frog who wants to jump to the clouds.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
