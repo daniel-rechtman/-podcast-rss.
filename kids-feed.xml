@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:36:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:36:14 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -461,6 +461,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Listen to a cute cat look for a yummy treat. We will learn new words together! 🐱</description>
         <itunes:subtitle>Listen to a cute cat look for a yummy treat.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acefedcdc6b244ca4492135</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Scared Dragon</title>
+        <pubDate>Wed, 14 Oct 2026 04:02:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3cdb3bec4_episode-1792676173018-auto-1791950556545.mp3" type="audio/mpeg"/>
+        <description>Meet a dragon who is afraid of tiny butterflies. It is time for a very silly and fun story! 🐉</description>
+        <itunes:subtitle>Meet a dragon who is afraid of tiny butterflies.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
