@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:36:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:37:54 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -489,6 +489,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Let us see if a big dinosaur can run faster than a happy zebra! We will learn about super fast animals and have lots of fun. 🦖</description>
         <itunes:subtitle>Let us see if a big dinosaur can run faster than a happy zebra!</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acc5c582b91c1b5b641743b</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Look! A Rainbow!</title>
+        <pubDate>Mon, 12 Oct 2026 04:04:40 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6f93e8a93_episode-1792676272245-auto-1791777879871.mp3" type="audio/mpeg"/>
+        <description>The rain stops and the sky has many bright colors. Let&apos;s find the beautiful rainbow together! 🌈</description>
+        <itunes:subtitle>The rain stops and the sky has many bright colors.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
