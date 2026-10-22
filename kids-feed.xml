@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:37:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:38:04 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -516,6 +516,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c9c7866e3_episode-1792676272112-auto-1791777878951.mp3" type="audio/mpeg"/>
         <description>Come help me feed the cute penguins today. They love to eat yummy fish and swim in the cold water. 🐧</description>
         <itunes:subtitle>Come help me feed the cute penguins today.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acdad56652cba5937f4474b</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Why Cats Purr</title>
+        <pubDate>Tue, 13 Oct 2026 04:02:30 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/497b072b3_episode-1792676282030-auto-1791864150047.mp3" type="audio/mpeg"/>
+        <description>Do you love fuzzy cats? We will learn why they make a happy sound today! 🐱</description>
+        <itunes:subtitle>Do you love fuzzy cats?</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
