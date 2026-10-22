@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:48:19 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:48:23 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -782,6 +782,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/756730d47_episode-1792676897681-auto-1791604928394.mp3" type="audio/mpeg"/>
         <description>Meet a robot who learns to dance today. Let us move our bodies and have fun! 🤖</description>
         <itunes:subtitle>Meet a robot who learns to dance today.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6acb0a246757ec5a3c843c07</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Funny Magic Bag</title>
+        <pubDate>Sun, 11 Oct 2026 04:01:40 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a3a13f1b8_episode-1792676901637-auto-1791691299904.mp3" type="audio/mpeg"/>
+        <description>Open a backpack that makes silly sounds. Come and laugh with us today! 🎒</description>
+        <itunes:subtitle>Open a backpack that makes silly sounds.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
