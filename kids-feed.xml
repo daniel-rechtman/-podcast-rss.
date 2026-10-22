@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:44:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:45:05 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -642,6 +642,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3a8305492_episode-1792676696695-auto-1791604926369.mp3" type="audio/mpeg"/>
         <description>Let us stack colorful blocks to the sky. It is so fun to see how high we can go! 🏗️</description>
         <itunes:subtitle>Let us stack colorful blocks to the sky.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ac8679e49137d7cdf84a169</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Fun Bath Time</title>
+        <pubDate>Fri, 09 Oct 2026 04:03:42 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a90b9d1ce_episode-1792676703464-auto-1791518622267.mp3" type="audio/mpeg"/>
+        <description>Come play with happy yellow ducks in the tub. Let us splash and have fun together! 🛁</description>
+        <itunes:subtitle>Come play with happy yellow ducks in the tub.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
