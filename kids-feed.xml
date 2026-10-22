@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:43:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:43:33 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -600,6 +600,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9881c319e_episode-1792676607590-auto-1792209828802.mp3" type="audio/mpeg"/>
         <description>Meet our smart friends with eight arms under the sea. Let&apos;s learn how they play and hide in the blue water! 🐙</description>
         <itunes:subtitle>Meet our smart friends with eight arms under the sea.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad050a7ee5a37c2095bab43</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Super Dog Senses!</title>
+        <pubDate>Thu, 15 Oct 2026 04:03:51 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cf927b6b4_episode-1792676611337-auto-1792037031424.mp3" type="audio/mpeg"/>
+        <description>Come learn how dogs smell and hear so many cool things. Dogs are truly amazing super friends! 🐶</description>
+        <itunes:subtitle>Come learn how dogs smell and hear so many cool things.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
