@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:49:32 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:49:48 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -810,6 +810,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b7c356c94_episode-1792676970926-auto-1791691298348.mp3" type="audio/mpeg"/>
         <description>Listen to the happy dinosaurs jump and play. Can you stomp your feet with them? 🦖</description>
         <itunes:subtitle>Listen to the happy dinosaurs jump and play.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad1a288bf5c4ee1c601a50d</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Hungry Kitty Wants Milk</title>
+        <pubDate>Fri, 16 Oct 2026 04:05:28 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ca57d6a8d_episode-1792676986685-auto-1792123528271.mp3" type="audio/mpeg"/>
+        <description>Listen to a cute cat looking for some yummy milk. Let us go on a fun snack adventure together! 🐱</description>
+        <itunes:subtitle>Listen to a cute cat looking for some yummy milk.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
