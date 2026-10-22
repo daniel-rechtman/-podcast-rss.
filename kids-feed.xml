@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:28:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:29:01 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -321,6 +321,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Let us eat yummy sandwiches and drink sweet juice in the park. It is a sunny day for a fun picnic! 🧺</description>
         <itunes:subtitle>Let us eat yummy sandwiches and drink sweet juice in the park.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad4451632f33fe70a230e40</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Rusty the Dancing Robot</title>
+        <pubDate>Sun, 18 Oct 2026 04:03:34 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a40613cd2_episode-1792675738976-auto-1792296214126.mp3" type="audio/mpeg"/>
+        <description>Meet a fun robot who wants to dance. He learns many happy moves today. 🤖</description>
+        <itunes:subtitle>Meet a fun robot who wants to dance.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
