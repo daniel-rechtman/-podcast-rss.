@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:29:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:34:20 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -349,6 +349,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come fly to the stars with us! We will see how astronauts eat and sleep in space. 🚀</description>
         <itunes:subtitle>Come fly to the stars with us!</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad44515ff0413c08a9591da</guid>
+        <title>לומדים אנגלית עם IFAL Kids | A Yummy Picnic Day</title>
+        <pubDate>Sun, 18 Oct 2026 04:03:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b22c487ac_episode-1792676058082-auto-1792296212911.mp3" type="audio/mpeg"/>
+        <description>Come join us for a fun picnic with yummy sandwiches. We will drink cool juice and play in the sun! 🧺</description>
+        <itunes:subtitle>Come join us for a fun picnic with yummy sandwiches.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
