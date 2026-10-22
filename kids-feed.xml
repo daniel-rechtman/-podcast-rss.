@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 22 Oct 2026 13:34:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:36:05 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -419,6 +419,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come fly to space with us today! We will learn how astronauts eat yummy food in the sky. 🚀</description>
         <itunes:subtitle>Come fly to space with us today!</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ad050a6942ccc96a4b5f136</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Yummy Fruit Party</title>
+        <pubDate>Thu, 15 Oct 2026 04:03:50 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f52818b78_episode-1792676163255-auto-1792037030611.mp3" type="audio/mpeg"/>
+        <description>Come join our happy fruit dance with apple, banana, and orange. We will learn new words and have lots of fun! 🍎</description>
+        <itunes:subtitle>Come join our happy fruit dance with apple, banana, and orange.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
