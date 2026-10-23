@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 23 Oct 2026 04:04:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:04:10 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -853,6 +853,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come join our fun fruit party with apple, banana, and orange. Let us learn the names of these yummy snacks together! 🍎</description>
         <itunes:subtitle>Come join our fun fruit party with apple, banana, and orange.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adadc72bb9542222faef147</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Super Dog Senses!</title>
+        <pubDate>Fri, 23 Oct 2026 04:02:58 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/781384014_episode-1792728248756-auto-1792728178567.mp3" type="audio/mpeg"/>
+        <description>Come learn how dogs smell and hear the world around them. It is time for a fun dog adventure! 🐶</description>
+        <itunes:subtitle>Come learn how dogs smell and hear the world around them.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
