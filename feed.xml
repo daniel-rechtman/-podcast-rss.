@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 23 Oct 2026 04:03:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:03:12 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3066,6 +3066,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the exciting return of the musical show Glee to our screens. We also look at a new cybersecurity startup that just raised millions of dollars. Finally, we learn about a high-tech factory in the Galilee that uses robots to stay safe.</description>
         <itunes:subtitle>In this episode, we explore the exciting return of the musical show Glee to our screens.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adadc713b1c315bc03887a1</guid>
+        <title>Tech, TV Trends, and Business News מתחילים</title>
+        <pubDate>Fri, 23 Oct 2026 04:02:57 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d15d6dc33_episode-1792728188903-auto-1792728177026.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the exciting return of the musical show Glee to our screens. We also dive into the world of cyber security startups raising big money and how new factories in the north are using smart automation. Finally, we look at current challenges in the housing market and how banks are changing credit rules.</description>
+        <itunes:subtitle>In this episode, we explore the exciting return of the musical show Glee to our screens.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
