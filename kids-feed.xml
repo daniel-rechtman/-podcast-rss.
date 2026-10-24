@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 24 Oct 2026 04:03:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 04:03:30 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -895,6 +895,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come help a cute little cat find some yummy milk. It is going to be a fun and happy day! 🐱</description>
         <itunes:subtitle>Come help a cute little cat find some yummy milk.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adc2dc9a272ad85dc294d61</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Life in Space!</title>
+        <pubDate>Sat, 24 Oct 2026 04:02:17 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e4ff393f4_episode-1792814609193-auto-1792814536824.mp3" type="audio/mpeg"/>
+        <description>Come see how astronauts eat and sleep in the stars. It is so much fun to float around in space! 🚀</description>
+        <itunes:subtitle>Come see how astronauts eat and sleep in the stars.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
