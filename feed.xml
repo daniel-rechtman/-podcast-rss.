@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 24 Oct 2026 04:02:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 04:02:25 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3094,6 +3094,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we say goodbye to a beloved local toy shop owner in Tel Aviv. We also join legendary director Tzedi Tzarfati on his unique cruise trip through Portugal. Finally, we share the heartwarming story of Miley Cyrus supporting a fan&apos;s brave fight against cancer.</description>
         <itunes:subtitle>In this episode, we say goodbye to a beloved local toy shop owner in Tel Aviv.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adc2dc59cde8bb5265c33e4</guid>
+        <title>Nostalgia and New Adventures מתחילים</title>
+        <pubDate>Sat, 24 Oct 2026 04:02:13 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1fdacd795_episode-1792814543834-auto-1792814532950.mp3" type="audio/mpeg"/>
+        <description>We say goodbye to a beloved local toy shop in Tel Aviv that holds many special memories. Then, we join legendary artist Tzvika Pik on a surprising and fun cruise in Portugal. Finally, we share an inspiring story about Miley Cyrus and her fan.</description>
+        <itunes:subtitle>We say goodbye to a beloved local toy shop in Tel Aviv that holds many special memories.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
