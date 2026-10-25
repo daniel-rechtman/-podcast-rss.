@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sun, 25 Oct 2026 05:03:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 05:03:53 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3150,6 +3150,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we say goodbye to a beloved neighborhood toy shop owner in Tel Aviv. We also join the energetic director Tzedi Tzarfati on a relaxing river cruise in Portugal. Finally, we hear the touching story of how Miley Cyrus made a special dream come true for a fan.</description>
         <itunes:subtitle>In this episode, we say goodbye to a beloved neighborhood toy shop owner in Tel Aviv.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6add8da87dde8f91173c1c3a</guid>
+        <title>Local Legends and Starry Moments מתחילים</title>
+        <pubDate>Sun, 25 Oct 2026 05:03:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2c69d9ddb_episode-1792904628936-auto-1792904616853.mp3" type="audio/mpeg"/>
+        <description>In this episode, we say goodbye to a beloved neighborhood toy store in Tel Aviv. We also hear stories from director Tzvika Tzafirati about his life and travels. Finally, we share a touching story about Miley Cyrus meeting a brave fan.</description>
+        <itunes:subtitle>In this episode, we say goodbye to a beloved neighborhood toy store in Tel Aviv.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
