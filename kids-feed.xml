@@ -61,7 +61,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sun, 25 Oct 2026 05:04:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 05:04:51 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -923,6 +923,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come to the beach with us today. We play in the sand with a big red bucket. 🏖️</description>
         <itunes:subtitle>Come to the beach with us today.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6add8dad313244906c9f6aec</guid>
+        <title>לומדים אנגלית עם IFAL Kids | The Scared Dragon</title>
+        <pubDate>Sun, 25 Oct 2026 05:03:41 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cc85a8b69_episode-1792904689631-auto-1792904621299.mp3" type="audio/mpeg"/>
+        <description>Meet a dragon who thinks butterflies are very big. Let us find out why he hides from them! 🐉</description>
+        <itunes:subtitle>Meet a dragon who thinks butterflies are very big.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
