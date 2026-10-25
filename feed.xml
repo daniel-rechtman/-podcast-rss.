@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 24 Oct 2026 04:02:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 05:03:47 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3121,6 +3121,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8b61237da_episode-1792814544142-auto-1792814534846.mp3" type="audio/mpeg"/>
         <description>In this episode, we say goodbye to an iconic toy store owner in Tel Aviv. We also join stage legend Tzadki Tzarfati on his unique cruise trip across Portugal. Finally, we share the heartwarming story of Miley Cyrus granting a special wish to a brave fan.</description>
         <itunes:subtitle>In this episode, we say goodbye to an iconic toy store owner in Tel Aviv.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6add8da71a3b0320bdc2067e</guid>
+        <title>Nostalgia and Heartwarming Moments מתקדמים</title>
+        <pubDate>Sun, 25 Oct 2026 05:03:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9a20eae8d_episode-1792904624651-auto-1792904615701.mp3" type="audio/mpeg"/>
+        <description>In this episode, we say goodbye to a beloved neighborhood toy shop that defined childhood for many. We also chat with legend Tzadi Tzafati about his surprising new adventures in Portugal. Finally, we share a touching story about Miley Cyrus showing kindness to an inspiring fan.</description>
+        <itunes:subtitle>In this episode, we say goodbye to a beloved neighborhood toy shop that defined childhood for many.</itunes:subtitle>
         <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
