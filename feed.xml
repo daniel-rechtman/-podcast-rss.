@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sun, 25 Oct 2026 05:03:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 05:03:47 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3164,6 +3164,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we say goodbye to a beloved neighborhood toy store in Tel Aviv. We also hear stories from director Tzvika Tzafirati about his life and travels. Finally, we share a touching story about Miley Cyrus meeting a brave fan.</description>
         <itunes:subtitle>In this episode, we say goodbye to a beloved neighborhood toy store in Tel Aviv.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adedf271cc907ce6e18795d</guid>
+        <title>Movie Drama and Shopping Deals בינוני</title>
+        <pubDate>Mon, 26 Oct 2026 05:03:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3ae6db95c_episode-1792991025361-auto-1792991015574.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a scary moment on a movie set in New York. We also check out the big sales happening during election day. Finally, we share an inspiring story about teenagers sharing their talents on stage.</description>
+        <itunes:subtitle>In this episode, we talk about a scary moment on a movie set in New York.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
