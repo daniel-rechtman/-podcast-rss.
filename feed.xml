@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 26 Oct 2026 05:03:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 05:03:49 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3178,6 +3178,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about a scary moment on a movie set in New York. We also check out the big sales happening during election day. Finally, we share an inspiring story about teenagers sharing their talents on stage.</description>
         <itunes:subtitle>In this episode, we talk about a scary moment on a movie set in New York.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adedf282aa4a0dec99b4c9e</guid>
+        <title>Movie Set Drama and Big Shopping Deals מתחילים</title>
+        <pubDate>Mon, 26 Oct 2026 05:03:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f53cc0b6e_episode-1792991027506-auto-1792991016330.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a surprising incident on a famous movie set in New York. We also explore the best sales and discounts you can find during the upcoming national holiday. Join us to learn new vocabulary while hearing about these interesting stories from around the world!</description>
+        <itunes:subtitle>In this episode, we talk about a surprising incident on a famous movie set in New York.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
