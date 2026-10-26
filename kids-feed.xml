@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sun, 25 Oct 2026 05:05:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 05:04:44 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -958,6 +958,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6adedf2964baba067e54310f</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Yummy Ice Cream Fun!</title>
+        <pubDate>Mon, 26 Oct 2026 05:03:37 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/947905bfb_episode-1792991081709-auto-1792991017421.mp3" type="audio/mpeg"/>
+        <description>Come play with colorful ice cream scoops today. Let us learn yummy flavors together! 🍦</description>
+        <itunes:subtitle>Come play with colorful ice cream scoops today.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
