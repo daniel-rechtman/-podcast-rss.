@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 26 Oct 2026 05:04:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:06:41 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -998,6 +998,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Meet heroes who can talk to socks and jump like frogs. Come listen to these funny friends! 🦸</description>
         <itunes:subtitle>Meet heroes who can talk to socks and jump like frogs.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae0311719886fd9c5efe16f</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Where Is Teddy?</title>
+        <pubDate>Tue, 27 Oct 2026 05:05:27 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6ab8e129f_episode-1793077599849-auto-1793077527137.mp3" type="audio/mpeg"/>
+        <description>Teddy Bear is lost in the house and needs a place to sleep. Help him find his cozy bed tonight! 🧸</description>
+        <itunes:subtitle>Teddy Bear is lost in the house and needs a place to sleep.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
