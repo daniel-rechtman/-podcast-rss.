@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 27 Oct 2026 05:07:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:07:08 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1026,6 +1026,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>We are playing a big football game today. Let&apos;s run fast and score a goal! ⚽</description>
         <itunes:subtitle>We are playing a big football game today.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae031193a1c1dbb9a7a42ea</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Making Fun Games!</title>
+        <pubDate>Tue, 27 Oct 2026 05:05:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5c0e6eeb6_episode-1793077623914-auto-1793077529818.mp3" type="audio/mpeg"/>
+        <description>Come see how we build cool video games together. We will learn how to make magic on your screen! 🎮</description>
+        <itunes:subtitle>Come see how we build cool video games together.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
