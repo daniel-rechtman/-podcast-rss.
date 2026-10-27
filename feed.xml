@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 27 Oct 2026 05:05:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:05:44 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3234,6 +3234,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about huge business deals in the technology world. We also look at big companies offering retirement plans to their employees. Finally, we explore some great TV show recommendations for your next binge-watching session.</description>
         <itunes:subtitle>In this episode, we talk about huge business deals in the technology world.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae031149f73b0609c359390</guid>
+        <title>Tech Giants and Big Moves מתחילים</title>
+        <pubDate>Tue, 27 Oct 2026 05:05:24 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/af33bf248_episode-1793077536138-auto-1793077524517.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore exciting business news including Intel&apos;s huge investment in quantum technology. We also discuss Microsoft&apos;s new voluntary retirement plan for thousands of its employees. Join us to learn how these major changes are shaping the future of the global tech industry.</description>
+        <itunes:subtitle>In this episode, we explore exciting business news including Intel&apos;s huge investment in quantum technology.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
