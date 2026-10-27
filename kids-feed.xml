@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 27 Oct 2026 05:06:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:07:05 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1012,6 +1012,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Teddy Bear is lost in the house and needs a place to sleep. Help him find his cozy bed tonight! 🧸</description>
         <itunes:subtitle>Teddy Bear is lost in the house and needs a place to sleep.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae031181e84ada64e8e7493</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Goal! Football Fun</title>
+        <pubDate>Tue, 27 Oct 2026 05:05:28 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/12664abbe_episode-1793077623612-auto-1793077528354.mp3" type="audio/mpeg"/>
+        <description>We are playing a big football game today. Let&apos;s run fast and score a goal! ⚽</description>
+        <itunes:subtitle>We are playing a big football game today.</itunes:subtitle>
+        <ageGroup>7-9</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
