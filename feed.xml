@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 26 Oct 2026 05:03:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:05:37 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3205,6 +3205,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c379198f3_episode-1792991026976-auto-1792991016737.mp3" type="audio/mpeg"/>
         <description>In this episode, we talk about a scary moment on a movie set in New York. We also look at the big discounts and special sales happening across the country for Election Day. Finally, we share an inspiring story about teenagers from Sderot who are finding their voice on stage.</description>
         <itunes:subtitle>In this episode, we talk about a scary moment on a movie set in New York.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae031162e95117478cacff1</guid>
+        <title>Tech Giants and New Opportunities מתקדמים</title>
+        <pubDate>Tue, 27 Oct 2026 05:05:26 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ff5765e33_episode-1793077535666-auto-1793077525830.mp3" type="audio/mpeg"/>
+        <description>In this episode, we discuss big changes in the tech world with Intel&apos;s latest massive acquisition. We also look at Microsoft&apos;s new voluntary retirement plan for its staff. Finally, we explore some great television recommendations to enjoy during your free time.</description>
+        <itunes:subtitle>In this episode, we discuss big changes in the tech world with Intel&apos;s latest massive acquisition.</itunes:subtitle>
         <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
