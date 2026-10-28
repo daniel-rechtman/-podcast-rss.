@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 27 Oct 2026 05:05:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:02:41 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3248,6 +3248,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore exciting business news including Intel&apos;s huge investment in quantum technology. We also discuss Microsoft&apos;s new voluntary retirement plan for thousands of its employees. Join us to learn how these major changes are shaping the future of the global tech industry.</description>
         <itunes:subtitle>In this episode, we explore exciting business news including Intel&apos;s huge investment in quantum technology.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae181e524e4eafca56f5cd7</guid>
+        <title>Fun Facts About the Israeli Parliament בינוני</title>
+        <pubDate>Wed, 28 Oct 2026 05:02:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7377e6f6f_episode-1793163758932-auto-1793163749821.mp3" type="audio/mpeg"/>
+        <description>Discover surprising stories from inside the Israeli Knesset. Learn about funny past moments of politicians and strange expenses from the building&apos;s budget. It is a light look at the odd facts behind the scenes of national history.</description>
+        <itunes:subtitle>Discover surprising stories from inside the Israeli Knesset.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
