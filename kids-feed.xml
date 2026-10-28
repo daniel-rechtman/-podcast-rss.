@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 28 Oct 2026 05:03:43 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:03:52 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1068,6 +1068,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come play a fun game with us in the garden. We will look for hidden treasure together! 🔍</description>
         <itunes:subtitle>Come play a fun game with us in the garden.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae181ec105d659e3bc30604</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Making My Video Game!</title>
+        <pubDate>Wed, 28 Oct 2026 05:02:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/31dc5c222_episode-1793163830373-auto-1793163756329.mp3" type="audio/mpeg"/>
+        <description>Come learn how we build fun games together. Let us make a happy world today! 🎮</description>
+        <itunes:subtitle>Come learn how we build fun games together.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
