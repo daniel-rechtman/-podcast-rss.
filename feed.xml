@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 29 Oct 2026 05:03:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:03:14 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3304,6 +3304,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In today&apos;s episode, we remember the inspiring career of Shimrit Ron, a leader in Israeli theater. We also explore how the public sector is starting to use artificial intelligence in daily work. Finally, we look at the surprising record-breaking spending habits of the Israeli public during their recent day off.</description>
         <itunes:subtitle>In today&apos;s episode, we remember the inspiring career of Shimrit Ron, a leader in Israeli theater.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae2d386d0b3fe30c160bbbd</guid>
+        <title>IFAL Daily News Digest מתחילים</title>
+        <pubDate>Thu, 29 Oct 2026 05:03:02 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/826f4f7a2_episode-1793250189162-auto-1793250182014.mp3" type="audio/mpeg"/>
+        <description>In this episode, we remember Shimrit Ron, a dedicated leader in the Israeli theater community. We also look at how government offices are now using AI tools like Copilot to improve daily work. Finally, we explore the personal history of a family from Yemen and their journey through time.</description>
+        <itunes:subtitle>In this episode, we remember Shimrit Ron, a dedicated leader in the Israeli theater community.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
