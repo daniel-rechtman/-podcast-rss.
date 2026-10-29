@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 28 Oct 2026 05:02:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:03:10 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3290,6 +3290,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover surprising stories from inside the Israeli Knesset. Learn about funny past moments of famous politicians and unusual costs like catching pigeons in the building. It is a light and interesting look at the place where laws are made.</description>
         <itunes:subtitle>Discover surprising stories from inside the Israeli Knesset.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae2d386237dd61c5748eda8</guid>
+        <title>IFAL Daily Brief: Culture, Tech, and Economy מתקדמים</title>
+        <pubDate>Thu, 29 Oct 2026 05:03:02 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f9c8601e7_episode-1793250188417-auto-1793250182269.mp3" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we remember the inspiring career of Shimrit Ron, a leader in Israeli theater. We also explore how the public sector is starting to use artificial intelligence in daily work. Finally, we look at the surprising record-breaking spending habits of the Israeli public during their recent day off.</description>
+        <itunes:subtitle>In today&apos;s episode, we remember the inspiring career of Shimrit Ron, a leader in Israeli theater.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
