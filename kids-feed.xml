@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 29 Oct 2026 05:05:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:05:28 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1124,6 +1124,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come see the big sand pyramids with us today. We will meet some cute cats too! 🐱</description>
         <itunes:subtitle>Come see the big sand pyramids with us today.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae42549b5e493ceeb131594</guid>
+        <title>לומדים אנגלית עם IFAL Kids | A Yummy Picnic Day!</title>
+        <pubDate>Fri, 30 Oct 2026 05:04:09 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1aa2a78a7_episode-1793336726049-auto-1793336649446.mp3" type="audio/mpeg"/>
+        <description>Come join us for a fun picnic under the trees. We have tasty sandwiches and sweet juice to share! 🍎</description>
+        <itunes:subtitle>Come join us for a fun picnic under the trees.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
