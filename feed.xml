@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 29 Oct 2026 05:03:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:04:15 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3332,6 +3332,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In today&apos;s episode, we remember Shimrit Ron, a pioneer in Israeli theater. We also explore how AI is becoming a standard tool in modern workplaces. Finally, we look at the surprising ways the public spends money on election holidays.</description>
         <itunes:subtitle>In today&apos;s episode, we remember Shimrit Ron, a pioneer in Israeli theater.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae425460eeb3891d3dae35b</guid>
+        <title>IFAL Daily News Digest מתחילים</title>
+        <pubDate>Fri, 30 Oct 2026 05:04:06 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/36574f236_episode-1793336652992-auto-1793336645846.mp3" type="audio/mpeg"/>
+        <description>In this episode, we remember the cultural contribution of Shimrit Ron to Israeli theater. We also look at a big business deal for a popular coffee chain and explore Australia&apos;s new interest in Israeli defense technology. Finally, we hear a fascinating historical story about family life in Yemen during the 1930s.</description>
+        <itunes:subtitle>In this episode, we remember the cultural contribution of Shimrit Ron to Israeli theater.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
