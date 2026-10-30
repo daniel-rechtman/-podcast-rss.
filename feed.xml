@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 30 Oct 2026 05:04:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:04:18 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3346,6 +3346,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we remember the cultural contribution of Shimrit Ron to Israeli theater. We also look at a big business deal for a popular coffee chain and explore Australia&apos;s new interest in Israeli defense technology. Finally, we hear a fascinating historical story about family life in Yemen during the 1930s.</description>
         <itunes:subtitle>In this episode, we remember the cultural contribution of Shimrit Ron to Israeli theater.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae42547aeefcec33e13378c</guid>
+        <title>Business, Culture, and Tech Updates מתקדמים</title>
+        <pubDate>Fri, 30 Oct 2026 05:04:07 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0462256d1_episode-1793336653885-auto-1793336647202.mp3" type="audio/mpeg"/>
+        <description>In this episode, we remember the inspiring career of theatre leader Shimrit Ron. We also look at the growth of a popular coffee chain and explore Australia&apos;s interest in Israeli defense technology. Join us for these interesting stories from the world of business and arts!</description>
+        <itunes:subtitle>In this episode, we remember the inspiring career of theatre leader Shimrit Ron.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
