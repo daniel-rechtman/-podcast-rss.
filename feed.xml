@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 30 Oct 2026 05:04:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:03:18 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3373,6 +3373,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e39b0bf36_episode-1793336653825-auto-1793336647138.mp3" type="audio/mpeg"/>
         <description>In this episode, we explore the world of Israeli theater through a touching tribute to Shimrit Ron. We also look at big business news, including a major investment in a cafe chain and global demand for Israeli defense technology. Join us as we discuss how these fascinating stories shape our modern world.</description>
         <itunes:subtitle>In this episode, we explore the world of Israeli theater through a touching tribute to Shimrit Ron.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae5768ee9316cd2b2221ce0</guid>
+        <title>Culture and Tech Updates בינוני</title>
+        <pubDate>Sat, 31 Oct 2026 05:03:10 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9333625e7_episode-1793422996642-auto-1793422990345.mp3" type="audio/mpeg"/>
+        <description>In this episode, we honor the legacy of Shimrit Ron, a leader in Israeli theater. We also look at the recent business challenges facing Intel after a factory accident. Finally, we discuss how changing gas taxes will affect the price of fuel at the pump.</description>
+        <itunes:subtitle>In this episode, we honor the legacy of Shimrit Ron, a leader in Israeli theater.</itunes:subtitle>
         <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
