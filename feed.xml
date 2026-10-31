@@ -3056,7 +3056,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 31 Oct 2026 05:03:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:03:26 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3402,6 +3402,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we remember the important work of Shimrit Ron for Israeli theater. We also look at Intel&apos;s recent financial news following a factory incident. Join us to learn new vocabulary while exploring these interesting real-world topics.</description>
         <itunes:subtitle>In this episode, we remember the important work of Shimrit Ron for Israeli theater.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae5768f43a7851586d8d035</guid>
+        <title>Inspiring Stories and Business Updates מתקדמים</title>
+        <pubDate>Sat, 31 Oct 2026 05:03:11 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/22dd179e8_episode-1793422997530-auto-1793422991059.mp3" type="audio/mpeg"/>
+        <description>In this episode, we remember the life and work of theater leader Shimrit Ron. We also discuss Intel&apos;s recent factory accident and its impact on the tech market. Finally, we look at the history of a Yemeni family and how they lived long ago.</description>
+        <itunes:subtitle>In this episode, we remember the life and work of theater leader Shimrit Ron.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
