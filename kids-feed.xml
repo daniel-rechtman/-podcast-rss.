@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Sat, 31 Oct 2026 05:04:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:04:35 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1194,6 +1194,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Meet heroes with funny powers. They use magic to make us laugh! 🦸</description>
         <itunes:subtitle>Meet heroes with funny powers.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae5769431edfe64f000ea78</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Jungle Party Time</title>
+        <pubDate>Sat, 31 Oct 2026 05:03:16 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7e607584e_episode-1793423073445-auto-1793422995990.mp3" type="audio/mpeg"/>
+        <description>Come hear the loud monkeys and bright birds in the big jungle. Let us listen to all the fun sounds together! 🐒</description>
+        <itunes:subtitle>Come hear the loud monkeys and bright birds in the big jungle.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
