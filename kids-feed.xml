@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 30 Oct 2026 05:05:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:04:15 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1166,6 +1166,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Listen to cool things made by smart kids just like you. You will love these fun and happy ideas! 🚀</description>
         <itunes:subtitle>Listen to cool things made by smart kids just like you.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae57693c016ff547281ac12</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Party Balloon Fun!</title>
+        <pubDate>Sat, 31 Oct 2026 05:03:15 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3ced9bfd4_episode-1793423053350-auto-1793422995053.mp3" type="audio/mpeg"/>
+        <description>Let us count the bright balloons at the big birthday party. Join the fun and say the numbers with us! 🎈</description>
+        <itunes:subtitle>Let us count the bright balloons at the big birthday party.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
