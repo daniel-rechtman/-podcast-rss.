@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:35 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2128,6 +2128,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about director Michael Mann&apos;s recent accident at the shooting range. We also explore the big music battle between U2 and Oasis, and look at why shopping in November might get more expensive for everyone. Finally, we discuss new business openings and changes to the lottery prices in Israel.</description>
         <itunes:subtitle>In this episode, we talk about director Michael Mann&apos;s recent accident at the shooting range.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae6c8549c75a7662655c0f4</guid>
+        <title>Culture, Trade, and Tech Wins בינוני</title>
+        <pubDate>Sun, 01 Nov 2026 05:04:20 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1f2265ee3_episode-1794217833721-auto-1793509460790.mp3" type="audio/mpeg"/>
+        <description>In this episode, we celebrate the life and work of Shimrit Ron, a leader in Israeli theater. We also explore the fascinating history of a family in Yemen and look at how Israel&apos;s aerospace industry won a huge deal. Join us for these inspiring stories of art, family, and global success.</description>
+        <itunes:subtitle>In this episode, we celebrate the life and work of Shimrit Ron, a leader in Israeli theater.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
