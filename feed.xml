@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:39 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2156,6 +2156,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we remember the amazing Shimrit Ron for her work in Israeli theater. We also share a touching story about a family&apos;s history in Yemen. Finally, we look at how the Israel Aerospace Industries won a big international deal.</description>
         <itunes:subtitle>In this episode, we remember the amazing Shimrit Ron for her work in Israeli theater.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae8194e6c25cc3bcd2d10c3</guid>
+        <title>IFAL News Update: From Pop Stars to Shopping בינוני</title>
+        <pubDate>Mon, 02 Nov 2026 05:02:06 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9121ea571_episode-1794217834167-auto-1793595726371.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about music icons Oasis and U2 competing for fans and the latest drama in Israeli pop culture. We also look at why many Israelis are planning to spend less during the big November sales. Finally, we explore the new changes coming to Israel&apos;s national lottery and store openings in Netivot.</description>
+        <itunes:subtitle>In this episode, we talk about music icons Oasis and U2 competing for fans and the latest drama in Israeli pop culture.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
