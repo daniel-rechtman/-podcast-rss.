@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:12 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2044,6 +2044,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we revisit the classic 90210 debate about Kelly&apos;s choice between Brandon and Dylan. We also look at a funny story about an artist who snuck his own painting into a famous museum. Finally, we discuss how AI is changing our daily work habits and what it means for everyone.</description>
         <itunes:subtitle>In this episode, we revisit the classic 90210 debate about Kelly&apos;s choice between Brandon and Dylan.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aeabc54dfc8f210ce45563e</guid>
+        <title>From 90210 to AI at Work מתקדמים</title>
+        <pubDate>Wed, 04 Nov 2026 05:02:12 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e8d9b0bb7_episode-1794217810955-auto-1793768532715.mp3" type="audio/mpeg"/>
+        <description>In this episode, we discuss the classic 90210 love triangle and why it still keeps fans talking. We also explore a fun story about an artist who snuck his own painting into a famous museum. Finally, we look at how using AI at work might be creating more tasks for your colleagues.</description>
+        <itunes:subtitle>In this episode, we discuss the classic 90210 love triangle and why it still keeps fans talking.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
