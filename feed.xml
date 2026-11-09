@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:26 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2085,6 +2085,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ba75a888e_episode-1794217813169-auto-1793682128247.mp3" type="audio/mpeg"/>
         <description>In this episode, we talk about a major television festival coming to Jerusalem. We also discuss how a new website is making shopping discounts easier for everyone to access. Finally, we cover a quick update on a local shopping mall that had to close due to a power outage.</description>
         <itunes:subtitle>In this episode, we talk about a major television festival coming to Jerusalem.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae8194f9b39af788fed5e86</guid>
+        <title>Entertainment News and Shopping Trends מתחילים</title>
+        <pubDate>Mon, 02 Nov 2026 05:02:07 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/44578ca88_episode-1794217823397-auto-1793595727827.mp3" type="audio/mpeg"/>
+        <description>In this episode, we discuss director Michael Mann&apos;s recent accident at a shooting range and the musical battle between bands U2 and Oasis. We also look at how rising living costs are changing shopping habits in Israel this November. Join us to learn new vocabulary while exploring these interesting stories.</description>
+        <itunes:subtitle>In this episode, we discuss director Michael Mann&apos;s recent accident at a shooting range and the musical battle between bands U2 and Oasis.</itunes:subtitle>
         <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
