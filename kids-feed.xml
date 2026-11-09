@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:51:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:52:16 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1222,6 +1222,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come fly with us into the sunny garden. Let&apos;s look for colorful butterflies together! 🦋</description>
         <itunes:subtitle>Come fly with us into the sunny garden.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aeabc5b05ef3458abc2e528</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Kids Can Invent!</title>
+        <pubDate>Wed, 04 Nov 2026 05:02:19 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/58d26068a_episode-1794217935239-auto-1793768539274.mp3" type="audio/mpeg"/>
+        <description>Did you know children made cool things like earmuffs and popsicles? Come hear how these awesome kids changed the world! 🚀</description>
+        <itunes:subtitle>Did you know children made cool things like earmuffs and popsicles?</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
