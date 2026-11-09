@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:33 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2113,6 +2113,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/493ee0724_episode-1794217822034-auto-1793682128058.mp3" type="audio/mpeg"/>
         <description>In this episode, we talk about the Jerusalem Sessions TV festival and how to save money with new shopping coupons. We also look at a cyber warning for food stores and why a big mall had to close for a day. Join us to learn new vocabulary and hear what is happening in Israel this week!</description>
         <itunes:subtitle>In this episode, we talk about the Jerusalem Sessions TV festival and how to save money with new shopping coupons.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae8194edb86dd22c7511cde</guid>
+        <title>Entertainment, Music, and Your Wallet מתקדמים</title>
+        <pubDate>Mon, 02 Nov 2026 05:02:06 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5cd31f191_episode-1794217821499-auto-1793595726756.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about director Michael Mann&apos;s recent accident at the shooting range. We also explore the big music battle between U2 and Oasis, and look at why shopping in November might get more expensive for everyone. Finally, we discuss new business openings and changes to the lottery prices in Israel.</description>
+        <itunes:subtitle>In this episode, we talk about director Michael Mann&apos;s recent accident at the shooting range.</itunes:subtitle>
         <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
