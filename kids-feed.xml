@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:52:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:53:37 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1250,6 +1250,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Let us jump high on the red planet today. We will eat space snacks and play with alien friends! 🚀</description>
         <itunes:subtitle>Let us jump high on the red planet today.</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aeabc5a4d94014d5be9ddb5</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Look! A Magic Rainbow</title>
+        <pubDate>Wed, 04 Nov 2026 05:02:18 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4e9b54922_episode-1794218016365-auto-1793768538604.mp3" type="audio/mpeg"/>
+        <description>The sun is out and the rain is gone. Let us find all the colors in the sky together! 🌈</description>
+        <itunes:subtitle>The sun is out and the rain is gone.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
