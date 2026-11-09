@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:18 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2072,6 +2072,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the new Jerusalem TV festival and how a smart website is changing the way we shop in Israel. We also look at a national cybersecurity alert for food retailers. Join us to learn new words while staying updated with the latest news!</description>
         <itunes:subtitle>In this episode, we explore the new Jerusalem TV festival and how a smart website is changing the way we shop in Israel.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae96ad07dd9003b851361a9</guid>
+        <title>IFAL Update: Tech, Deals, and TV News מתחילים</title>
+        <pubDate>Tue, 03 Nov 2026 05:02:08 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ba75a888e_episode-1794217813169-auto-1793682128247.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a major television festival coming to Jerusalem. We also discuss how a new website is making shopping discounts easier for everyone to access. Finally, we cover a quick update on a local shopping mall that had to close due to a power outage.</description>
+        <itunes:subtitle>In this episode, we talk about a major television festival coming to Jerusalem.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
