@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:49:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:04 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2002,6 +2002,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about a fun new spy movie that is full of laughs. We explore why this film is special and why it feels like a classic Hollywood comedy. Join us to discover why this movie is a great choice for your next movie night!</description>
         <itunes:subtitle>In this episode, we talk about a fun new spy movie that is full of laughs.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aec0e7d2d37a757e2cb4b64</guid>
+        <title>IFAL Daily Mix: Music, Tech, and Kindness מתקדמים</title>
+        <pubDate>Thu, 05 Nov 2026 05:05:01 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2f4a80858_episode-1794217802171-auto-1793855100294.mp3" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we talk about new music from your favorite artists and review the impressive Liberty 5 Pro headphones. We also share a heartwarming story about a fashion company winning an award for inclusive hiring. Join us for a fun and uplifting look at these great positive stories!</description>
+        <itunes:subtitle>In today&apos;s episode, we talk about new music from your favorite artists and review the impressive Liberty 5 Pro headphones.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
