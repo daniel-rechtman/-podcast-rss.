@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:53:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:53:53 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1278,6 +1278,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come join our silly robot on a big rocket ship. We fly to the moon and see many stars! 🚀</description>
         <itunes:subtitle>Come join our silly robot on a big rocket ship.</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae96ad3529eab26279f4415</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Super Amazing Records!</title>
+        <pubDate>Tue, 03 Nov 2026 05:02:11 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/13bb1ac68_episode-1794218031931-auto-1793682131615.mp3" type="audio/mpeg"/>
+        <description>Come and hear about the fastest and tallest things in the world. It is going to be so much fun to learn these facts! 🌟</description>
+        <itunes:subtitle>Come and hear about the fastest and tallest things in the world.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
