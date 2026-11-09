@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:58:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:59:58 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1390,6 +1390,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come see how we make chocolate, chips, and ice cream! It is so much fun to learn about your favorite snacks. 🍫</description>
         <itunes:subtitle>Come see how we make chocolate, chips, and ice cream!</itunes:subtitle>
         <ageGroup>10-12</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ae6c857539aa720edd4a801</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Balloon Birthday Party</title>
+        <pubDate>Sun, 01 Nov 2026 05:04:23 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/23607af26_episode-1794218396415-auto-1793509463294.mp3" type="audio/mpeg"/>
+        <description>Let us count the bright balloons together at the party. It is so much fun to pop and play with colors! 🎈</description>
+        <itunes:subtitle>Let us count the bright balloons together at the party.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
