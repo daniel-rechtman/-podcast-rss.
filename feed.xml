@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:50:05 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2016,6 +2016,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In today&apos;s episode, we talk about new music from your favorite artists and review the impressive Liberty 5 Pro headphones. We also share a heartwarming story about a fashion company winning an award for inclusive hiring. Join us for a fun and uplifting look at these great positive stories!</description>
         <itunes:subtitle>In today&apos;s episode, we talk about new music from your favorite artists and review the impressive Liberty 5 Pro headphones.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aeabc562c4cb103f60720a4</guid>
+        <title>Culture, Tech, and Tunes מתחילים</title>
+        <pubDate>Wed, 04 Nov 2026 05:02:14 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cc984ae72_episode-1794217802866-auto-1793768534127.mp3" type="audio/mpeg"/>
+        <description>We explore the classic 90210 love triangle debate between Brandon and Dylan. We also discuss how AI at work is changing our daily tasks and productivity. Finally, we travel to Eilat to hear about the upcoming Piano Festival and its star-studded music lineup.</description>
+        <itunes:subtitle>We explore the classic 90210 love triangle debate between Brandon and Dylan.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
