@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 04 Nov 2026 08:07:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:49:39 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -1987,6 +1987,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ac93cc762_episode-1793509466697-auto-1793509459891.mp3" type="audio/mpeg"/>
         <description>In this episode, we remember the inspiring life of Shimrit Ron, a leader in Israeli theater. We also explore the fascinating history of a family from Yemen in the mid-twentieth century. Finally, we look at a successful new deal between the Israeli Aerospace Industries and India.</description>
         <itunes:subtitle>In this episode, we remember the inspiring life of Shimrit Ron, a leader in Israeli theater.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6af00277f283a75bf38f70a3</guid>
+        <title>The Hollywood Comedy You Need to See מתחילים</title>
+        <pubDate>Sun, 08 Nov 2026 05:02:47 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/48053f5c2_episode-1794217778030-auto-1794114167153.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a fun new spy movie that is full of laughs. We explore why this film is special and why it feels like a classic Hollywood comedy. Join us to discover why this movie is a great choice for your next movie night!</description>
+        <itunes:subtitle>In this episode, we talk about a fun new spy movie that is full of laughs.</itunes:subtitle>
         <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
