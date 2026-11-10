@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:38:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:40:33 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3892,6 +3892,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a book that began as a self-published gem and sold a million copies. Discover how tech is simplifying pensions, and learn about a massive tech acquisition. Plus, find out how laid-off employees became the hottest hires in tech!</description>
         <itunes:subtitle>Join us as we explore a book that began as a self-published gem and sold a million copies.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a05cc2c34b8f1dd948d540d</guid>
+        <title>Wild Rides and New Chapters בינוני</title>
+        <pubDate>Thu, 14 May 2026 13:20:44 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/412278aa5_a1853a184_episode-1779078121998-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a singer taking driving risks, a bestselling self-published novel, and a surprising tech exit. We also cover a woman&apos;s life sentence for a crime that inspired her children&apos;s book. Join us for these gripping stories!</description>
+        <itunes:subtitle>In this episode, we talk about a singer taking driving risks, a bestselling self-published novel, and a surprising tech exit.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
