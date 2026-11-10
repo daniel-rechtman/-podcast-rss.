@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:46:44 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4214,6 +4214,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to learn English in a fun and easy way! We will explore new words and simple grammar tips. Let&apos;s make learning English an enjoyable journey together.</description>
         <itunes:subtitle>Join us to learn English in a fun and easy way!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69d5082a02f25696f43c0f74</guid>
+        <title>Hot Topics and World Stories מתקדמים</title>
+        <pubDate>Tue, 07 Apr 2026 13:35:38 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ffd03efdd_f666c18c1_episode-1775712942483-1.mp3" type="audio/mpeg"/>
+        <description>Join us for an exciting episode where we discuss a celebrity standing up against hate. We&apos;ll explore the return of a popular TV show and hear a heartfelt tribute to a beloved teacher. Get insights into the impact of AI on our minds and celebrate a missile defense milestone. Lastly, learn about a big business deal in Greece.</description>
+        <itunes:subtitle>Join us for an exciting episode where we discuss a celebrity standing up against hate.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
