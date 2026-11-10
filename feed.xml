@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:45 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3472,6 +3472,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore why too much power can be tricky for young stars. Discover the buzz around Israeli cinema breaking records. Plus, learn about exciting changes in finance and fresh brand news.</description>
         <itunes:subtitle>Join us as we explore why too much power can be tricky for young stars.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a33f0936687004411778794</guid>
+        <title>Pixar&apos;s New Adventure בינוני</title>
+        <pubDate>Thu, 18 Jun 2026 13:20:19 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b95eff815_c40cb74de_episode-1782021300145-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore Pixar&apos;s latest film that takes a trip down memory lane. Is going back to basics the magic formula for success? Discover why the film may not be as exciting as expected.</description>
+        <itunes:subtitle>Join us as we explore Pixar&apos;s latest film that takes a trip down memory lane.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
