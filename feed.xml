@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:36 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3752,6 +3752,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun chat on different subjects! We explore interesting ideas and share easy tips. Perfect for English learners who love discovering new things.</description>
         <itunes:subtitle>Join us for a fun chat on different subjects!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a15a1a03ea1b473213d344c</guid>
+        <title>Pop Stars Unite! מתקדמים</title>
+        <pubDate>Tue, 26 May 2026 13:35:28 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d3c72f044_1772bb90f_episode-1779857933155-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting news in music and movies. Discover how pop stars came together for a special meeting and learn about challenges in film representation. Plus, find out about the latest in tools and technology!</description>
+        <itunes:subtitle>Join us as we explore exciting news in music and movies.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
