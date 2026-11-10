@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:13:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:13:08 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2436,6 +2436,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about the latest AI trends in shopping and the future of online retail. We also explore Elon Musk&apos;s big plans for space travel and missions to Mars. Finally, we look at how to stay safe online after a recent data security issue.</description>
         <itunes:subtitle>In this episode, we talk about the latest AI trends in shopping and the future of online retail.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa37d6d066bf9fe6e56b359</guid>
+        <title>IFAL: From Stage Lights to Big Wins מתקדמים</title>
+        <pubDate>Fri, 11 Sep 2026 04:02:53 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ae0e1616c_4d6482067_episode-1789624486272-auto-1789099373442.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about the incredible life of actress Rivka Michaeli. We also explore the newest winners of Israeli literature prizes for young readers. Join us for a fun and inspiring look at the world of culture and art!</description>
+        <itunes:subtitle>In this episode, we talk about the incredible life of actress Rivka Michaeli.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
