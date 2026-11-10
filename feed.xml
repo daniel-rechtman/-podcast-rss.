@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:22:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:22:05 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2968,6 +2968,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Tune in as we discuss hot topics from Israel! From a controversial comment and rock music&apos;s comeback to an airline flight challenge, we&apos;ve got engaging stories for you. Listen in for updates and insights on these current events!</description>
         <itunes:subtitle>Tune in as we discuss hot topics from Israel!</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a748a26e0f8ef0335338c35</guid>
+        <title>Hot Topics and Cool Tunes בינוני</title>
+        <pubDate>Thu, 06 Aug 2026 13:20:38 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3a592baad_b7f6d6630_episode-1786431476076-1.mp3" type="audio/mpeg"/>
+        <description>Join us this week as we discuss hot news stories and heartwarming moments. Discover the latest in Israeli rock music and learn about travel with airline points. Enjoy easy English to improve your language skills!</description>
+        <itunes:subtitle>Join us this week as we discuss hot news stories and heartwarming moments.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
