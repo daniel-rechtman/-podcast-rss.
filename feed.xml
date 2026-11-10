@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:25:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:25:59 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3080,6 +3080,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore fun ways to learn English. Discover tips for improving your language skills. Join us and enjoy the journey of learning!</description>
         <itunes:subtitle>In this episode, we explore fun ways to learn English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a62189a0990f1e7cb8f4e5f</guid>
+        <title>News and Fun מתקדמים</title>
+        <pubDate>Thu, 23 Jul 2026 13:35:22 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4e680871a_f7657ab3a_episode-1785737797702-1.mp3" type="audio/mpeg"/>
+        <description>Join us in today&apos;s episode as we explore a funny moment from the World Cup and meet actors from a new Israeli movie. We also discuss a unique meeting in prison and learn from restaurant servers in Spain. Don&apos;t miss out on exciting brand news too!</description>
+        <itunes:subtitle>Join us in today&apos;s episode as we explore a funny moment from the World Cup and meet actors from a new Israeli movie.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
