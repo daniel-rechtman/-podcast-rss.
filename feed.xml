@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:22:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:22:22 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3024,6 +3024,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a thrilling mystery novel and hear about the latest music releases. Discover hidden secrets and enjoy new tunes. Perfect for book and music lovers alike!</description>
         <itunes:subtitle>Join us as we explore a thrilling mystery novel and hear about the latest music releases.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a6b4e96ea26161af8d16853</guid>
+        <title>Unlock English with IFAL! מתחילים</title>
+        <pubDate>Thu, 30 Jul 2026 13:16:06 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2026ac1d4_3a7d6bdf9_episode-1785738966142-1.mp3" type="audio/mpeg"/>
+        <description>Join us for fun English learning with IFAL. In this episode, we uncover tips to improve your language skills. Perfect for beginners and those who want to refresh their English!</description>
+        <itunes:subtitle>Join us for fun English learning with IFAL.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
