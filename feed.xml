@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:37:03 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3850,6 +3850,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a new song about hope and healing. Discover the inspiring stories behind a brave documentary and how dogs help keep us safe. We also share fun facts about drinking water habits in Israel!</description>
         <itunes:subtitle>Join us as we explore a new song about hope and healing.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a0c63a1ef6390601555037c</guid>
+        <title>New Doc Wins, Chefs Change Show, and Canine Heroes בינוני</title>
+        <pubDate>Tue, 19 May 2026 13:20:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/42972f15b_fc4fd43ec_episode-1779259436734-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a new documentary about soldiers in Gaza. Discover why a famous chef switches TV shows. Learn about new laws for retired service dogs. It&apos;s an episode full of stories and surprises!</description>
+        <itunes:subtitle>Join us as we explore a new documentary about soldiers in Gaza.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
