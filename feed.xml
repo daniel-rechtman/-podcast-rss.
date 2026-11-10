@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:32:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:32:22 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3598,6 +3598,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we dive into the latest in music and fame. Discover new songs by beloved artists and explore how one man&apos;s riches are on track to make history. Perfect for keeping up with pop culture!</description>
         <itunes:subtitle>Join us as we dive into the latest in music and fame.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a281327a638150a76648068</guid>
+        <title>Music and Money: New Songs and Big Dreams בינוני</title>
+        <pubDate>Tue, 09 Jun 2026 13:20:39 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/15c28b5c3_1cbf580a5_episode-1781073579925-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting new songs from talented artists. Shiri Maimon and Ofer Nissim release a Pride anthem, while Nes &amp; Stilla return with &apos;Who Like Me?&apos;. Plus, hear about Elon Musk&apos;s journey to becoming the first trillionaire. Discover the big world of music and success with us!</description>
+        <itunes:subtitle>Join us as we explore exciting new songs from talented artists.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
