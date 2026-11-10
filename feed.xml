@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:26 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2660,6 +2660,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore three exciting new exhibitions at the Israel Museum. We learn about how children lived thousands of years ago and how art has changed over time. Join us to discover the fascinating history behind everyday materials and culture.</description>
         <itunes:subtitle>In this episode, we explore three exciting new exhibitions at the Israel Museum.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a9977bf9932d25220413942</guid>
+        <title>Fun Highlights and New Ventures מתקדמים</title>
+        <pubDate>Thu, 03 Sep 2026 13:35:59 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/95e094c5d_388ddc3d8_episode-1788685618912-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore dance competitions and a surprise music album release. Discover how investing and competition can lower prices. Enjoy stories about brand celebrations and creative living spaces!</description>
+        <itunes:subtitle>Join us as we explore dance competitions and a surprise music album release.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
