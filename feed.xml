@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:11:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:09 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2212,6 +2212,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we dive into exciting music news, including new songs and unexpected collaborations. We also talk about popular shows and their magic touch. Get ready for fun stories and a splash of entertainment gossip!</description>
         <itunes:subtitle>Join us as we dive into exciting music news, including new songs and unexpected collaborations.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ab27f9365f5366b62c51241</guid>
+        <title>Let&apos;s Understand NaN! מתחילים</title>
+        <pubDate>Tue, 22 Sep 2026 13:16:03 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/968edd139_a94b8fb44_episode-1790144799499-1.mp3" type="audio/mpeg"/>
+        <description>Ever wondered what NaN means? In this episode, we talk about the special term &apos;NaN&apos; used in computing. Join us to learn why it stands for &apos;Not a Number&apos; and when it&apos;s used.</description>
+        <itunes:subtitle>Ever wondered what NaN means?</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
