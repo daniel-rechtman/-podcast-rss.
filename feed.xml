@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:40:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:40:53 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3948,6 +3948,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us in this episode as we explore inspiring stories and unexpected events. Discover the journey of a tech genius and his million-dollar success. Learn about a lucky lottery winner and intriguing book collections. Perfect for English learners eager to expand their language and knowledge!</description>
         <itunes:subtitle>Join us in this episode as we explore inspiring stories and unexpected events.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69fc909692dcc072c3e3d01d</guid>
+        <title>Welcome to IFAL: English Fun for All! מתחילים</title>
+        <pubDate>Thu, 07 May 2026 13:16:06 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/23b964577_7121b9eab_episode-1778387126868-1.mp3" type="audio/mpeg"/>
+        <description>Join us in this exciting episode of IFAL! We explore interesting topics to help you improve your English. Listen, learn, and enjoy with us today!</description>
+        <itunes:subtitle>Join us in this exciting episode of IFAL!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
