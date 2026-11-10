@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:36 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2870,6 +2870,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we dive into simple English tips for learners. We&apos;ll explore basic grammar and useful expressions. Perfect for boosting your language skills!</description>
         <itunes:subtitle>Join us as we dive into simple English tips for learners.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a7dc83696590b310073c54e</guid>
+        <title>Exciting Events and Surprising Twists מתקדמים</title>
+        <pubDate>Thu, 13 Aug 2026 13:35:50 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/248c6c44c_a0bdb1b22_episode-1786879065027-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about big changes in Tel Aviv&apos;s nightlife scene. Discover the Eurovision drama and some brand new pop-up fun. Join us for lively stories and interesting insights!</description>
+        <itunes:subtitle>In this episode, we talk about big changes in Tel Aviv&apos;s nightlife scene.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
