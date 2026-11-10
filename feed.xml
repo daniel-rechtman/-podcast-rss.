@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:32:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:32:09 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3556,6 +3556,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore exciting stories from the world of books, movies, and music. Discover Spielberg&apos;s latest work and the top World Cup songs in Israel. We also look at events supporting special causes. Tune in for a fun and informative episode!</description>
         <itunes:subtitle>Join us as we explore exciting stories from the world of books, movies, and music.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a2ab62639ea904fd0e985d8</guid>
+        <title>A World of Stories and Surprises בינוני</title>
+        <pubDate>Thu, 11 Jun 2026 13:20:38 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e177398c6_9dbbde9d8_episode-1781416718733-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore fascinating stories from around the world! From Spielberg&apos;s new movie to the most popular World Cup songs in Israel, there&apos;s so much to discover. Plus, hear about a heartwarming poker event and business trends during the World Cup.</description>
+        <itunes:subtitle>Join us as we explore fascinating stories from around the world!</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
