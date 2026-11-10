@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:20:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:04 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2786,6 +2786,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Let&apos;s discover what NaN means in mathematics. Learn why it&apos;s important and how it helps us when working with numbers. Join us for fun math tips!</description>
         <itunes:subtitle>Let&apos;s discover what NaN means in mathematics.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a8d9b0a45835719bc5dfa02</guid>
+        <title>Intriguing Stories from Israel מתקדמים</title>
+        <pubDate>Tue, 25 Aug 2026 13:39:22 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/83bde61ac_6cc8b1848_episode-1787731861421-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore recent events from Israel. Discover the legacy of a famous festival producer. Learn about a new book from former prisoners. Exciting news about a startup&apos;s big success and insights into the costs of military service.</description>
+        <itunes:subtitle>Join us as we explore recent events from Israel.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
