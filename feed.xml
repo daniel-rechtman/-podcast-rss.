@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:22 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3402,6 +3402,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, discover some exciting TV shows to watch in June 2026. We also explore unique career opportunities that can make a real difference in people&apos;s lives. Plus, learn why it&apos;s important to keep up with new skills in today&apos;s job market.</description>
         <itunes:subtitle>In this episode, discover some exciting TV shows to watch in June 2026.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a3d2a103214918527664d1a</guid>
+        <title>All About NaN: Not a Number! מתחילים</title>
+        <pubDate>Thu, 25 Jun 2026 13:16:00 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a7e4db020_5de003615_episode-1782628960375-1.mp3" type="audio/mpeg"/>
+        <description>Let&apos;s learn about NaN, which means &apos;Not a Number.&apos; Discover why it&apos;s important in computing. We’ll explore how NaN helps us understand errors in math and coding.</description>
+        <itunes:subtitle>Let&apos;s learn about NaN, which means &apos;Not a Number.&apos; Discover why it&apos;s important in computing.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
