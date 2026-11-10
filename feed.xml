@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:41 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3458,6 +3458,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to discover easy tips for learning English. We share fun, simple ways to practice and improve. Perfect for beginners!</description>
         <itunes:subtitle>Join us to discover easy tips for learning English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a33f424cfec4e3b88a651eb</guid>
+        <title>Power, Films, and Fresh Starts מתקדמים</title>
+        <pubDate>Thu, 18 Jun 2026 13:35:32 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/782dca0b0_64c90fad0_episode-1782017757522-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore why too much power can be tricky for young stars. Discover the buzz around Israeli cinema breaking records. Plus, learn about exciting changes in finance and fresh brand news.</description>
+        <itunes:subtitle>Join us as we explore why too much power can be tricky for young stars.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
