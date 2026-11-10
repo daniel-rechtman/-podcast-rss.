@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:18 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4326,6 +4326,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, discover new music and shows. Learn about a fresh album release and must-watch Netflix series. Also, hear about a new TV show on a famous investigation. Tune in for more updates!</description>
         <itunes:subtitle>In this episode, discover new music and shows.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69cbc9065df4f45f897f6f6e</guid>
+        <title>Mastering Numbers in English מתחילים</title>
+        <pubDate>Tue, 31 Mar 2026 13:15:50 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/23eebda13_ed5581808_episode-1775023578815-1.mp3" type="audio/mpeg"/>
+        <description>Join us to learn about numbers in English. Understand how to use them in everyday conversations. Improve your number skills with fun examples!</description>
+        <itunes:subtitle>Join us to learn about numbers in English.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
