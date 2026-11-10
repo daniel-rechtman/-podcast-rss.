@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:46 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3220,6 +3220,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we chat about some surprising events and interesting news. Discover how a cookie caused a company trouble and learn about a big summer movie everyone is excited about. Join us for these stories and more!</description>
         <itunes:subtitle>In this episode, we chat about some surprising events and interesting news.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a4fa021d0f9c4413f38d5f5</guid>
+        <title>News and Music: A Mix of Surprises! בינוני</title>
+        <pubDate>Thu, 09 Jul 2026 13:20:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/208faef1c_74094f09b_episode-1785739759613-1.mp3" type="audio/mpeg"/>
+        <description>Discover the movie of the summer, a surprise from Ford, and a heartfelt farewell to Bonnie Tyler in today&apos;s episode. We also dive into healthcare challenges and educational concerns. It&apos;s a fun and informative mix just for you!</description>
+        <itunes:subtitle>Discover the movie of the summer, a surprise from Ford, and a heartfelt farewell to Bonnie Tyler in today&apos;s episode.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
