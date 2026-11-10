@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:47 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3794,6 +3794,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we unlock the mystery of numbers with the concept of NaN. Understand what it means and when it appears. Get ready to discover how this affects calculations in programming.</description>
         <itunes:subtitle>In this episode, we unlock the mystery of numbers with the concept of NaN.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a0f0a20b0963369671d0e0e</guid>
+        <title>Cannes, Books, and Big Events! מתקדמים</title>
+        <pubDate>Thu, 21 May 2026 13:35:28 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/823ecd75c_1c11edb72_episode-1779596065813-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore the Cannes Film Festival with its intense movies. Hear from a historian about writing in today&apos;s world. Learn why some big events change dates, and find out about expensive weddings. Have fun and learn English with us!</description>
+        <itunes:subtitle>Join us as we explore the Cannes Film Festival with its intense movies.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
