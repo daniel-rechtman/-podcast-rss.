@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:46:56 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4256,6 +4256,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun episode of English learning! We share interesting and simple stories to help you improve your language skills. Listen, learn, and enjoy with us!</description>
         <itunes:subtitle>Join us for a fun episode of English learning!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69ce70a12b9193c9075a5084</guid>
+        <title>Remembering Music Legends מתקדמים</title>
+        <pubDate>Thu, 02 Apr 2026 13:35:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7a251fedd_902b35084_episode-1775375227576-1.mp3" type="audio/mpeg"/>
+        <description>Join us to celebrate the lives of two famous music figures. Discover their stories and the impact they had on music in Israel. Let&apos;s honor their work and lasting legacy.</description>
+        <itunes:subtitle>Join us to celebrate the lives of two famous music figures.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
