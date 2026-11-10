@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:25:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:25:54 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3066,6 +3066,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore exciting festivals and the latest TV shows. Discover great music at Smilanski Festival and get ready for top TV series in August. Dive into the world of entertainment and culture with us!</description>
         <itunes:subtitle>Join us as we explore exciting festivals and the latest TV shows.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a68ab9f638d8323fcc1eda4</guid>
+        <title>The Joy of Learning English מתחילים</title>
+        <pubDate>Tue, 28 Jul 2026 13:16:15 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6bdf6159_3327aefbb_episode-1785737832958-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore fun ways to learn English. Discover tips for improving your language skills. Join us and enjoy the journey of learning!</description>
+        <itunes:subtitle>In this episode, we explore fun ways to learn English.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
