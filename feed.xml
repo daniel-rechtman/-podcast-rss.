@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:11 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2800,6 +2800,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore recent events from Israel. Discover the legacy of a famous festival producer. Learn about a new book from former prisoners. Exciting news about a startup&apos;s big success and insights into the costs of military service.</description>
         <itunes:subtitle>Join us as we explore recent events from Israel.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a8d96a042121b37aae83510</guid>
+        <title>Chasing Dreams and Navigating Realities בינוני</title>
+        <pubDate>Tue, 25 Aug 2026 13:20:32 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ba3c0ee29_908a0310f_episode-1787731837192-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore the inspiring life of a festival producer, discuss a reality show&apos;s dramatic finale, and uncover hidden costs in childcare. We&apos;ll touch on airport expansions and a court case stopping a controversial auction. Easy to follow and perfect for learners!</description>
+        <itunes:subtitle>Join us as we explore the inspiring life of a festival producer, discuss a reality show&apos;s dramatic finale, and uncover hidden costs in childcare.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
