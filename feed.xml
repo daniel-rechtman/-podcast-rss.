@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:11 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2604,6 +2604,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about why actor John Malkovich cancelled his show in Israel. We also look at the world of reality television and how it affects the viewers at home. Finally, we discuss why some big companies are worried about their future budgets.</description>
         <itunes:subtitle>In this episode, we talk about why actor John Malkovich cancelled his show in Israel.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a9f88e97d344fd51e75756c</guid>
+        <title>Culture, Cars, and Sweet Success מתקדמים</title>
+        <pubDate>Tue, 08 Sep 2026 04:02:49 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5ac5980df_7e68fe100_episode-1789041343206-auto-1788840169280.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the power of storytelling in literature and remember the talented actor Ilan Dar. We also take a look at the success of iconic Israeli brands like Yad Mordechai and Colmobil. Finally, we discuss the latest news from the global tech and entertainment industries.</description>
+        <itunes:subtitle>In this episode, we explore the power of storytelling in literature and remember the talented actor Ilan Dar.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
