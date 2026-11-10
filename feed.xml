@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:47 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4410,6 +4410,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore exciting stories. A famous singer is stuck in Australia. A big TV drama wins the ratings game. Plus, an Australian family&apos;s life changes forever after a truck accident. Don&apos;t miss these interesting tales!</description>
         <itunes:subtitle>Join us as we explore exciting stories.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b96214f5ce2153c651e2c1</guid>
+        <title>Understanding NaN in English מתחילים</title>
+        <pubDate>Tue, 17 Mar 2026 14:15:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/837dd6d30_11438cb94_episode-1774157533291-1.mp3" type="audio/mpeg"/>
+        <description>Discover the meaning of &apos;NaN&apos; in English. Learn why it is important and where you might see it. Join us as we make this concept simple and fun!</description>
+        <itunes:subtitle>Discover the meaning of &apos;NaN&apos; in English.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
