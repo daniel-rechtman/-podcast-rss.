@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:42:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:42:09 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4144,6 +4144,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the groundbreaking use of AI in movies. Discover how technology revived Val Kilmer&apos;s role after his passing. It&apos;s a captivating peek into the future of filmmaking!</description>
         <itunes:subtitle>Join us as we explore the groundbreaking use of AI in movies.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69e0e21d4f493c16fc7f461b</guid>
+        <title>Lights, Music, and Surprises בינוני</title>
+        <pubDate>Thu, 16 Apr 2026 13:20:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/44af53871_96d862059_episode-1776571566098-1.mp3" type="audio/mpeg"/>
+        <description>Discover how AI brings actors to life on screen. Enjoy a cultural night with music and more at the National Library. Learn smart tips on investing in S&amp;P 500. This episode offers a bit of magic, music, and money talk!</description>
+        <itunes:subtitle>Discover how AI brings actors to life on screen.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
