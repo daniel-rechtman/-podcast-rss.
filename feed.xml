@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:24 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2268,6 +2268,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we discuss the big 110-billion-dollar merger between Paramount and Warner Bros. We also look at the latest economic warnings about global stock markets and potential financial changes. Join us for a clear update on the business news you need to know today.</description>
         <itunes:subtitle>In this episode, we discuss the big 110-billion-dollar merger between Paramount and Warner Bros.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ab0ac3231e29eb0fe57b048</guid>
+        <title>Success Stories and Global News מתקדמים</title>
+        <pubDate>Mon, 21 Sep 2026 04:01:54 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/38d505f34_90e80d5c1_episode-1790144627208-auto-1789963314570.mp3" type="audio/mpeg"/>
+        <description>In this episode, we celebrate an Israeli sound designer who won an Emmy for his work with David Attenborough. We also discuss the challenges facing Channel 13 television in Israel today. Finally, we look at the high-stakes meetings between the US and China to stabilize the global economy.</description>
+        <itunes:subtitle>In this episode, we celebrate an Israeli sound designer who won an Emmy for his work with David Attenborough.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
