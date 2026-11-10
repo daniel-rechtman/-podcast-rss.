@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:37 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4382,6 +4382,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we talk about exciting travel stories. Learn new words to describe places. Discover tips on how to enjoy your adventures.</description>
         <itunes:subtitle>Join us as we talk about exciting travel stories.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b966bef7440b1fc0587490</guid>
+        <title>Surprising Twists from Around the World מתקדמים</title>
+        <pubDate>Tue, 17 Mar 2026 14:35:42 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0cd3ec919_a27ae07cb_episode-1774157674877-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore unexpected stories from the global stage. Discover how one man got stuck in Australia and how TV shows compete for big ratings. Learn about unique workplace bonuses and secret schools defying the odds. Get ready for an interesting journey!</description>
+        <itunes:subtitle>Join us as we explore unexpected stories from the global stage.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
