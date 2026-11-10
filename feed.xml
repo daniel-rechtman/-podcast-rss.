@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:46:52 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4242,6 +4242,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for an exciting episode with celebrity drama, new series reviews, and touching tributes. Discover how technology and defense systems shape our future. Super friendly and easy to follow!</description>
         <itunes:subtitle>Join us for an exciting episode with celebrity drama, new series reviews, and touching tributes.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69d50377dfcd03f843e6e171</guid>
+        <title>Learn English with Fun Stories! מתחילים</title>
+        <pubDate>Tue, 07 Apr 2026 13:15:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a72530e01_b65cac28b_episode-1775712855300-1.mp3" type="audio/mpeg"/>
+        <description>Join us for a fun episode of English learning! We share interesting and simple stories to help you improve your language skills. Listen, learn, and enjoy with us!</description>
+        <itunes:subtitle>Join us for a fun episode of English learning!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
