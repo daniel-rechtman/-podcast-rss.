@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:32:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:32:05 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3542,6 +3542,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to learn English in a fun way! Discover easy tips to improve your speaking and listening skills. Let&apos;s explore language together and have fun while learning!</description>
         <itunes:subtitle>Join us to learn English in a fun way!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a2ab9abc1ebcdded5429543</guid>
+        <title>Pop Culture and Much More! מתקדמים</title>
+        <pubDate>Thu, 11 Jun 2026 13:35:39 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/de8075a49_c44aefa20_episode-1781416793414-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories from the world of books, movies, and music. Discover Spielberg&apos;s latest work and the top World Cup songs in Israel. We also look at events supporting special causes. Tune in for a fun and informative episode!</description>
+        <itunes:subtitle>Join us as we explore exciting stories from the world of books, movies, and music.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
