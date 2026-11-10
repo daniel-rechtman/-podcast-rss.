@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:13:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:13:16 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2464,6 +2464,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we celebrate the legendary actress Rivka Michaeli and her recent honors. We also discuss the latest trends in the Israeli real estate market. Finally, we look at a tense moment between bank employees and their CEO.</description>
         <itunes:subtitle>In this episode, we celebrate the legendary actress Rivka Michaeli and her recent honors.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa37d6ba77ec20b9bf8f1d8</guid>
+        <title>IFAL: Israeli Culture and Local News מתחילים</title>
+        <pubDate>Fri, 11 Sep 2026 04:02:51 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/67afe45fe_6e7ba0467_episode-1789624472029-auto-1789099371554.mp3" type="audio/mpeg"/>
+        <description>In this episode, we hear about the legendary Rivka Michaeli receiving a special award. We also explore the struggles in the Israeli real estate market and a surprise protest at a company event. Join us to learn new vocabulary while catching up on these interesting stories!</description>
+        <itunes:subtitle>In this episode, we hear about the legendary Rivka Michaeli receiving a special award.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
