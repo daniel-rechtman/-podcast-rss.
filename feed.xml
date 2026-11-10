@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:09 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3990,6 +3990,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the identity reveal of a famous masked singer. Hear about an Israeli film that won big in Italy, and a unique security event in London. Discover compensation tips for financial losses and the story behind a company&apos;s payout to workers.</description>
         <itunes:subtitle>In this episode, we explore the identity reveal of a famous masked singer.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69f9ed8ae2f40c1da2af0701</guid>
+        <title>Unlocking Learning Power מתחילים</title>
+        <pubDate>Tue, 05 May 2026 13:15:54 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/51782d122_8b3863d23_episode-1778045532251-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the joy of learning something new. Discover how small changes can help you learn a language quicker. Join us for tips to boost your English skills step-by-step.</description>
+        <itunes:subtitle>In this episode, we explore the joy of learning something new.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
