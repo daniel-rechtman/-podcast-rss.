@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:19 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4018,6 +4018,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a Hollywood animator&apos;s journey and a shorter film from Nolan. Discover the drama behind Rebel Wilson&apos;s film and the mystery of rising milk prices. Plus, learn about the fresh AI-driven shopping experience in Israel!</description>
         <itunes:subtitle>Join us as we explore a Hollywood animator&apos;s journey and a shorter film from Nolan.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69f35722218852fc75adf672</guid>
+        <title>Hollywood Dreams and AI בינוני</title>
+        <pubDate>Thu, 30 Apr 2026 13:20:34 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d1354b61f_1b2bd4c67_episode-1777782381101-1.mp3" type="audio/mpeg"/>
+        <description>Discover how one man&apos;s journey took him from losing his films to Hollywood success. Learn about the role of AI in the movie industry today. Join us for stories of creativity, challenges, and inspiration in the world of film.</description>
+        <itunes:subtitle>Discover how one man&apos;s journey took him from losing his films to Hollywood success.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
