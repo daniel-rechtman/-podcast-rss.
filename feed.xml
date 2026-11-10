@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:57 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3514,6 +3514,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore stories of change and connection. From a festival spreading awareness about mental health, to a movie about friendship, and a financial success story. It&apos;s all about people coming together and making a difference!</description>
         <itunes:subtitle>Join us as we explore stories of change and connection.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a314d9f5cbea53deeff3b4e</guid>
+        <title>Exciting Times in Entertainment! בינוני</title>
+        <pubDate>Tue, 16 Jun 2026 13:20:31 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e9f0da3d9_62ff4f1e9_episode-1781675676006-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a festival breaking mental health stigma, a final movie from the &apos;Jackass&apos; crew, and a new song for the 2026 Maccabiah Games. We will also talk about changes in Israeli residency and a big business deal with Western Union. Lots of fun and interesting topics to learn from!</description>
+        <itunes:subtitle>Join us as we explore a festival breaking mental health stigma, a final movie from the &apos;Jackass&apos; crew, and a new song for the 2026 Maccabiah Games.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
