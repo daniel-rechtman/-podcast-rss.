@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:55 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4102,6 +4102,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for fascinating tales of memorable TV dramas and missing costumes. Discover why an actor doesn&apos;t talk to a co-star, and follow Madonna&apos;s search for her lost stage outfit. Expect humor, surprises, and a little bit of drama.</description>
         <itunes:subtitle>Join us for fascinating tales of memorable TV dramas and missing costumes.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69e779abb57488d5da4f0fa6</guid>
+        <title>Lost and Found: Stars and Stories בינוני</title>
+        <pubDate>Tue, 21 Apr 2026 13:20:43 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0cd859349_f51ee57b9_episode-1776917960959-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we talk about interesting stories from the entertainment world. Discover a misunderstanding on the &apos;Lost&apos; set, Madonna&apos;s missing iconic outfit, and special Independence Day updates from Israel. Tune in for fun and easy English listening!</description>
+        <itunes:subtitle>Join us as we talk about interesting stories from the entertainment world.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
