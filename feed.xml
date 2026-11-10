@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:51 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4424,6 +4424,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover the meaning of &apos;NaN&apos; in English. Learn why it is important and where you might see it. Join us as we make this concept simple and fun!</description>
         <itunes:subtitle>Discover the meaning of &apos;NaN&apos; in English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b2cf418123563ef6ef7b80</guid>
+        <title>Hollywood Sparkles and Surprises מתקדמים</title>
+        <pubDate>Thu, 12 Mar 2026 14:35:45 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/45140deb0_bb2c89658_episode-1773561721732-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we chat about this year&apos;s Oscar buzz, including expected winners and surprises. Get a sneak peek into 2026 TV shows and learn about Billie Eilish&apos;s new acting role. We also explain changes in compensation laws in Israel.</description>
+        <itunes:subtitle>Join us as we chat about this year&apos;s Oscar buzz, including expected winners and surprises.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
