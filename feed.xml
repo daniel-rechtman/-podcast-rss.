@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:53 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3500,6 +3500,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Let&apos;s explore the fascinating world of numbers together! We will talk about what happens when numbers behave strangely. Don&apos;t worry, it&apos;s easier and more exciting than it sounds!</description>
         <itunes:subtitle>Let&apos;s explore the fascinating world of numbers together!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a31512369ad9e27804d51b3</guid>
+        <title>Stories of Change and Connection מתקדמים</title>
+        <pubDate>Tue, 16 Jun 2026 13:35:31 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/aaa81c566_7877fa855_episode-1781675704569-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore stories of change and connection. From a festival spreading awareness about mental health, to a movie about friendship, and a financial success story. It&apos;s all about people coming together and making a difference!</description>
+        <itunes:subtitle>Join us as we explore stories of change and connection.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
