@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:33 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2674,6 +2674,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore dance competitions and a surprise music album release. Discover how investing and competition can lower prices. Enjoy stories about brand celebrations and creative living spaces!</description>
         <itunes:subtitle>Join us as we explore dance competitions and a surprise music album release.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a997419eb44a4b832c81001</guid>
+        <title>Music, Dance, and Tasty Traditions בינוני</title>
+        <pubDate>Thu, 03 Sep 2026 13:20:25 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/579c6509e_0a33211ce_episode-1788685594753-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore the exciting return of an artist, Bar Refaeli, after 15 years. Dive into the world of a heated dance finale and why cheese prices are going down. Plus, see what&apos;s new with brands and stay updated on investment news!</description>
+        <itunes:subtitle>Join us as we explore the exciting return of an artist, Bar Refaeli, after 15 years.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
