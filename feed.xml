@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:15:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:15:40 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2520,6 +2520,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Dive into five exciting stories. Learn about various topics while practicing your English. Join us for a fun and educational episode!</description>
         <itunes:subtitle>Dive into five exciting stories.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa22c02f83029379b046aa7</guid>
+        <title>Movies, Music, and More! מתקדמים</title>
+        <pubDate>Thu, 10 Sep 2026 04:03:14 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5474ed225_9ec6ae803_episode-1789041651218-auto-1789012994364.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the big winners at the Israeli film awards and look at the exciting new movies coming to the Haifa Film Festival. We also share some great news about the legendary Stevie Wonder returning to the stage for a world tour. Plus, find out about a popular burger restaurant reopening with a fresh new look!</description>
+        <itunes:subtitle>In this episode, we explore the big winners at the Israeli film awards and look at the exciting new movies coming to the Haifa Film Festival.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
