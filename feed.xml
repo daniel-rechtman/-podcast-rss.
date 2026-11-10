@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:46:48 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4228,6 +4228,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for an exciting episode where we discuss a celebrity standing up against hate. We&apos;ll explore the return of a popular TV show and hear a heartfelt tribute to a beloved teacher. Get insights into the impact of AI on our minds and celebrate a missile defense milestone. Lastly, learn about a big business deal in Greece.</description>
         <itunes:subtitle>Join us for an exciting episode where we discuss a celebrity standing up against hate.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69d504af2b729531c1bc4a3f</guid>
+        <title>Stars, Stories, and Surprises בינוני</title>
+        <pubDate>Tue, 07 Apr 2026 13:20:47 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/711b74844_35ee06105_episode-1775712894793-1.mp3" type="audio/mpeg"/>
+        <description>Join us for an exciting episode with celebrity drama, new series reviews, and touching tributes. Discover how technology and defense systems shape our future. Super friendly and easy to follow!</description>
+        <itunes:subtitle>Join us for an exciting episode with celebrity drama, new series reviews, and touching tributes.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
