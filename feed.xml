@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:10 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4298,6 +4298,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to learn about NaN, a symbol in computer language. It&apos;s short for &apos;Not-a-Number.&apos; Discover why NaN is important in programming and when it shows up!</description>
         <itunes:subtitle>Join us to learn about NaN, a symbol in computer language.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69cbcda8b24333be4f9d129b</guid>
+        <title>Songs, Shows, and Surprises מתקדמים</title>
+        <pubDate>Tue, 31 Mar 2026 13:35:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/35630857a_09964bcd6_episode-1775023637510-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a brand new music album, discover the top Netflix series to watch, and learn about exciting real estate trends in Athens. We&apos;ll also dive into the world of drones and take a look at changes in car insurance prices. Tune in for a fun and informative episode!</description>
+        <itunes:subtitle>Join us as we explore a brand new music album, discover the top Netflix series to watch, and learn about exciting real estate trends in Athens.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
