@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:27 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3724,6 +3724,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore captivating stories from TV, movies, and business. Discover the magic behind Kylie Minogue&apos;s new series, a thrilling horror film success, and teen entrepreneurs building billion-dollar companies. Perfect for learners looking to enjoy English through fascinating tales!</description>
         <itunes:subtitle>Join us as we explore captivating stories from TV, movies, and business.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a1841162dc53ad39b4152fb</guid>
+        <title>Stories of Success בינוני</title>
+        <pubDate>Thu, 28 May 2026 13:20:22 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/28c0db7e8_1033b47d6_episode-1780201926520-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, discover amazing success stories. From Kylie Minogue&apos;s charming docuseries to a new horror movie hit. Learn how young entrepreneurs are building billion-dollar companies and explore new fashion store openings. Join us for exciting tales of achievements!</description>
+        <itunes:subtitle>In this episode, discover amazing success stories.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
