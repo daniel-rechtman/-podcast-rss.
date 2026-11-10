@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:46 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2351,6 +2351,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f6ab1ccdf_dc23254ae_episode-1789886244046-auto-1789876922044.mp3" type="audio/mpeg"/>
         <description>We remember the life of a beloved Israeli star who recently passed away. We also look at the future of the stock market and what experts are predicting for global finance. Finally, learn important safety tips to stay protected while riding your bike during the Yom Kippur holiday.</description>
         <itunes:subtitle>We remember the life of a beloved Israeli star who recently passed away.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa8c323e8e9e7da6b381d8f</guid>
+        <title>Israeli Cinema and Economic Updates מתקדמים</title>
+        <pubDate>Tue, 15 Sep 2026 04:01:39 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a89c3c627_9ea17f252_episode-1789624944384-auto-1789444899374.mp3" type="audio/mpeg"/>
+        <description>In this episode, we celebrate Israeli director Avi Nesher and his successful new film premiere in Toronto. We also look at a suggested change to pension plans for young workers in Israel. Finally, we discuss a big business deal in the security technology industry.</description>
+        <itunes:subtitle>In this episode, we celebrate Israeli director Avi Nesher and his successful new film premiere in Toronto.</itunes:subtitle>
         <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
