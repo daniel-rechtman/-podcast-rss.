@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:24 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4032,6 +4032,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover how one man&apos;s journey took him from losing his films to Hollywood success. Learn about the role of AI in the movie industry today. Join us for stories of creativity, challenges, and inspiration in the world of film.</description>
         <itunes:subtitle>Discover how one man&apos;s journey took him from losing his films to Hollywood success.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69f3560c57a16e8a22a217b8</guid>
+        <title>Exploring the World of Numbers מתחילים</title>
+        <pubDate>Thu, 30 Apr 2026 13:15:56 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7ac40ad28_13b63f9b4_episode-1777782351799-1.mp3" type="audio/mpeg"/>
+        <description>Join us to learn about numbers and math in everyday life. Discover interesting facts about how numbers shape our world. It&apos;s fun and easy to understand!</description>
+        <itunes:subtitle>Join us to learn about numbers and math in everyday life.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
