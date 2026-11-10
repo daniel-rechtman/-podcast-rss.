@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 09 Nov 2026 09:50:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 05:03:12 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2169,6 +2169,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9121ea571_episode-1794217834167-auto-1793595726371.mp3" type="audio/mpeg"/>
         <description>In this episode, we talk about music icons Oasis and U2 competing for fans and the latest drama in Israeli pop culture. We also look at why many Israelis are planning to spend less during the big November sales. Finally, we explore the new changes coming to Israel&apos;s national lottery and store openings in Netivot.</description>
         <itunes:subtitle>In this episode, we talk about music icons Oasis and U2 competing for fans and the latest drama in Israeli pop culture.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6af2a58582139ab6f5693692</guid>
+        <title>IFAL Weekly: Stars, Tech, and Books בינוני</title>
+        <pubDate>Tue, 10 Nov 2026 05:03:01 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/bc776b23a_episode-1794286989767-auto-1794286981276.mp3" type="audio/mpeg"/>
+        <description>This week we discuss Celine Dion rocking out at a Metallica concert in Las Vegas. We also look at how a new AI startup is changing the world of book publishing. Finally, we explore the power of human relationships with content creator Roni Shinkman.</description>
+        <itunes:subtitle>This week we discuss Celine Dion rocking out at a Metallica concert in Las Vegas.</itunes:subtitle>
         <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
