@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:46:33 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4186,6 +4186,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the world of theater with a new leadership change at a famous theater. Discover Eurovision excitement as a singer prepares for the big stage. Plus, learn how a famous singer changed his song to be more kind. Join us for these engaging stories!</description>
         <itunes:subtitle>In this episode, we explore the world of theater with a new leadership change at a famous theater.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69d7a7ade3100c7ec91db016</guid>
+        <title>New Faces &amp; Big Stages בינוני</title>
+        <pubDate>Thu, 09 Apr 2026 13:20:45 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4ca56d0a8_43fc4ddbd_episode-1776055106469-1.mp3" type="audio/mpeg"/>
+        <description>Get to know Noa Shechter, the new theater manager. Meet Noam Betan, ready to shine at Eurovision. Discover why sing lyrics are changing on stage and explore how recent events affect our spending habits.</description>
+        <itunes:subtitle>Get to know Noa Shechter, the new theater manager.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
