@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:40:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:40:43 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3920,6 +3920,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore NaN, an interesting concept in math and computing. Discover what it means, why it happens, and where it&apos;s used. Perfect for learners curious about numbers and technology!</description>
         <itunes:subtitle>Join us as we explore NaN, an interesting concept in math and computing.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69fc95271d796e417756caac</guid>
+        <title>Surprising Success Stories מתקדמים</title>
+        <pubDate>Thu, 07 May 2026 13:35:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/768f5251c_033fd328b_episode-1778387189618-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, hear about a young boy who loved technology and became a millionaire. Discover a mysterious lottery win and its impact. These stories show us anything can happen if we believe in ourselves or get a little lucky!</description>
+        <itunes:subtitle>In this episode, hear about a young boy who loved technology and became a millionaire.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
