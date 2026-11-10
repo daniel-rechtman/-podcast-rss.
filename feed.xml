@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:58 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2758,6 +2758,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the world of music, from Jay-Z&apos;s big comeback to a canceled concert in New York. We also talk about the importance of financial education in schools, a new fashion campaign, and a fancy robot vacuum cleaner. Tune in for fun and learning!</description>
         <itunes:subtitle>Join us as we explore the world of music, from Jay-Z&apos;s big comeback to a canceled concert in New York.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a90399e322ca3ffc454e6a0</guid>
+        <title>Music, Money &amp; Robots בינוני</title>
+        <pubDate>Thu, 27 Aug 2026 13:20:30 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cd2dc662b_bb43839f2_episode-1788070585366-1.mp3" type="audio/mpeg"/>
+        <description>Discover why a famous band had their concert canceled and hear about Jay-Z&apos;s big return! We also talk about why learning financial skills is important. Plus, we introduce a smart robot cleaner that makes life easier. Join us and explore these fun topics!</description>
+        <itunes:subtitle>Discover why a famous band had their concert canceled and hear about Jay-Z&apos;s big return!</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
