@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:49 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3486,6 +3486,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore Pixar&apos;s latest film that takes a trip down memory lane. Is going back to basics the magic formula for success? Discover why the film may not be as exciting as expected.</description>
         <itunes:subtitle>Join us as we explore Pixar&apos;s latest film that takes a trip down memory lane.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a33ef9b53862be8888dca2f</guid>
+        <title>Fun with Numbers! מתחילים</title>
+        <pubDate>Thu, 18 Jun 2026 13:16:11 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0253acd5f_753f0dfe5_episode-1782017696477-1.mp3" type="audio/mpeg"/>
+        <description>Let&apos;s explore the fascinating world of numbers together! We will talk about what happens when numbers behave strangely. Don&apos;t worry, it&apos;s easier and more exciting than it sounds!</description>
+        <itunes:subtitle>Let&apos;s explore the fascinating world of numbers together!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
