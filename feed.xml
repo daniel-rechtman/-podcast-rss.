@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:05 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3976,6 +3976,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we meet a singer who bravely reveals his identity. We also celebrate the success of an Israeli film winning awards in Italy. Lastly, discover how a legal decision affects foreign shopping. Join us for exciting stories!</description>
         <itunes:subtitle>In this episode, we meet a singer who bravely reveals his identity.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69f9ee9d90df293d0dc4334a</guid>
+        <title>Mysteries Unveiled בינוני</title>
+        <pubDate>Tue, 05 May 2026 13:20:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4bfcfec2f_503a7ea76_episode-1778045572510-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the identity reveal of a famous masked singer. Hear about an Israeli film that won big in Italy, and a unique security event in London. Discover compensation tips for financial losses and the story behind a company&apos;s payout to workers.</description>
+        <itunes:subtitle>In this episode, we explore the identity reveal of a famous masked singer.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
