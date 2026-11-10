@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:55 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3248,6 +3248,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a playful episode about learning English. We’ll share tips to make language practice enjoyable. Tune in and bring some fun to your English journey!</description>
         <itunes:subtitle>Join us for a playful episode about learning English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a4d00b4f49ce3d49e7eff75</guid>
+        <title>TV Buzz and Big Deals מתקדמים</title>
+        <pubDate>Tue, 07 Jul 2026 13:35:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/38f2a22ef_556f88a10_episode-1783491671672-1.mp3" type="audio/mpeg"/>
+        <description>Discover exciting new TV shows coming in July 2026. Listen to Madonna’s rare interview with Graham Norton. Find out about Amazon’s big plans and a new footwear brand in Israel!</description>
+        <itunes:subtitle>Discover exciting new TV shows coming in July 2026.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
