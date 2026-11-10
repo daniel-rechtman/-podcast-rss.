@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:38 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3192,6 +3192,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about a funny new Netflix show and the reality of writing books. We also share stories about a famous actor, a hacker, and Meta&apos;s AI troubles. Join us for these exciting tales!</description>
         <itunes:subtitle>In this episode, we talk about a funny new Netflix show and the reality of writing books.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a58d9a3b60609595c95fb05</guid>
+        <title>Learn English with Fun Chats מתחילים</title>
+        <pubDate>Thu, 16 Jul 2026 13:16:19 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/410db35e4_c3a12e67e_episode-1784456672769-1.mp3" type="audio/mpeg"/>
+        <description>Join us for an exciting episode where we explore simple English conversations. Practice listening and speaking with real-life examples. Perfect for improving your English skills in a fun way!</description>
+        <itunes:subtitle>Join us for an exciting episode where we explore simple English conversations.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
