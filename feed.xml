@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:07 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2590,6 +2590,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about actor John Malkovich canceling his upcoming show in Israel. We also look at the new season of the emotional reality show Baby Boom. Finally, we explore the challenges facing the Israeli defense industry.</description>
         <itunes:subtitle>In this episode, we talk about actor John Malkovich canceling his upcoming show in Israel.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa0da9f70b8dee7b734c93e</guid>
+        <title>John Malkovich, Reality TV, and Big Business News מתחילים</title>
+        <pubDate>Wed, 09 Sep 2026 04:03:43 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0e5d250bf_d5414440a_episode-1789041939842-auto-1788926623433.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about why actor John Malkovich cancelled his show in Israel. We also look at the world of reality television and how it affects the viewers at home. Finally, we discuss why some big companies are worried about their future budgets.</description>
+        <itunes:subtitle>In this episode, we talk about why actor John Malkovich cancelled his show in Israel.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
