@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:15:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:15:37 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2506,6 +2506,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore a filmmaker&apos;s journey to success and a rapper&apos;s powerful message about equality. We&apos;ll also discuss a surprising finale in a cooking show and a unique protest at a workplace. Join us for these intriguing stories!</description>
         <itunes:subtitle>In this episode, we explore a filmmaker&apos;s journey to success and a rapper&apos;s powerful message about equality.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa2ad8373b7e7ecaa5afb1d</guid>
+        <title>5 Amazing Article Summaries! מתחילים</title>
+        <pubDate>Thu, 10 Sep 2026 13:15:47 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0358b75f9_c9ff16ef5_episode-1789052585437-1.mp3" type="audio/mpeg"/>
+        <description>Dive into five exciting stories. Learn about various topics while practicing your English. Join us for a fun and educational episode!</description>
+        <itunes:subtitle>Dive into five exciting stories.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
