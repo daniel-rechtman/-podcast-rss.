@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:39 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3766,6 +3766,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore exciting news in music and movies. Discover how pop stars came together for a special meeting and learn about challenges in film representation. Plus, find out about the latest in tools and technology!</description>
         <itunes:subtitle>Join us as we explore exciting news in music and movies.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a159e1a995759edd77edae8</guid>
+        <title>Pop Power Showdown! בינוני</title>
+        <pubDate>Tue, 26 May 2026 13:20:26 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1628fbd6b_fc7956810_episode-1779857900628-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about some exciting news from the world of pop music! Discover how Paul McCartney brought together famous singers in a surprise meeting. We also explore a new study on women in film and the latest happenings in K-pop. Join us for fun and friendly conversations!</description>
+        <itunes:subtitle>In this episode, we talk about some exciting news from the world of pop music!</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
