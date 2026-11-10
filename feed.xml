@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:15:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:15:50 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2548,6 +2548,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In today&apos;s episode, we celebrate Israeli cinema with the winners of the Ophir Awards and look forward to the upcoming Haifa Film Festival. We also get excited about music legend Stevie Wonder&apos;s huge world tour celebrating his iconic album. Finally, we visit a newly renovated favorite restaurant in Ramat Hachayal.</description>
         <itunes:subtitle>In today&apos;s episode, we celebrate Israeli cinema with the winners of the Ophir Awards and look forward to the upcoming Haifa Film Festival.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa22c009ef4d56cd4973b0c</guid>
+        <title>IFAL: Cinema, Music, and Bites מתחילים</title>
+        <pubDate>Thu, 10 Sep 2026 04:03:12 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b06e54ef5_c6717698f_episode-1789041596924-auto-1789012992762.mp3" type="audio/mpeg"/>
+        <description>In today&apos;s episode, we celebrate the big winners at the Ofir Film Awards and look ahead to the exciting Haifa Film Festival. We also share the news of Stevie Wonder&apos;s legendary global tour returning to the stage. Finally, we explore the updated look of a local favorite restaurant in Tel Aviv.</description>
+        <itunes:subtitle>In today&apos;s episode, we celebrate the big winners at the Ofir Film Awards and look ahead to the exciting Haifa Film Festival.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
