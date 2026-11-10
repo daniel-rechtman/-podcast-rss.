@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:16 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2814,6 +2814,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the inspiring life of a festival producer, discuss a reality show&apos;s dramatic finale, and uncover hidden costs in childcare. We&apos;ll touch on airport expansions and a court case stopping a controversial auction. Easy to follow and perfect for learners!</description>
         <itunes:subtitle>Join us as we explore the inspiring life of a festival producer, discuss a reality show&apos;s dramatic finale, and uncover hidden costs in childcare.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a8d95a03a1c4e75a0e8c200</guid>
+        <title>Cracking the NaN Code! מתחילים</title>
+        <pubDate>Tue, 25 Aug 2026 13:16:16 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9991bb2c2_734a91613_episode-1787731797181-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we demystify the mysterious &apos;NaN&apos; in programming. Learn what it stands for and how it affects your code. Perfect for learners diving into tech talk!</description>
+        <itunes:subtitle>Join us as we demystify the mysterious &apos;NaN&apos; in programming.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
