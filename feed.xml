@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:15 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2618,6 +2618,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the power of storytelling in literature and remember the talented actor Ilan Dar. We also take a look at the success of iconic Israeli brands like Yad Mordechai and Colmobil. Finally, we discuss the latest news from the global tech and entertainment industries.</description>
         <itunes:subtitle>In this episode, we explore the power of storytelling in literature and remember the talented actor Ilan Dar.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a9f88e84663004fdd49dfe8</guid>
+        <title>Culture, Cars, and Sweet Success מתחילים</title>
+        <pubDate>Tue, 08 Sep 2026 04:02:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e307e95ee_bfbed4940_episode-1789041258539-auto-1788840168425.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the power of storytelling in literature and remember a beloved Israeli actor. We also look at business news in the AI and food industries. Finally, we discuss how a historic car company continues to innovate for its drivers today.</description>
+        <itunes:subtitle>In this episode, we explore the power of storytelling in literature and remember a beloved Israeli actor.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
