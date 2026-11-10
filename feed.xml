@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:35:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:35:56 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3640,6 +3640,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for fun tales and exciting news! We&apos;ll learn about young filmmakers making a big splash, a mystery involving a lost princess, and AI in the office. Plus, we&apos;ll explore changes in jobs and the wild rides of Bitcoin. Tune in for a mix of history, technology, and more!</description>
         <itunes:subtitle>Join us for fun tales and exciting news!</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a217bae074adbb5bf192886</guid>
+        <title>Movies, AI, and Money בינוני</title>
+        <pubDate>Thu, 04 Jun 2026 13:20:46 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8cbeece10_f5d49f594_episode-1780805936201-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore two blockbuster movies made by young filmmakers shaking up Hollywood. Learn about how artificial intelligence is changing business in Israel. We also discuss recent changes in job markets and what it means for salaries.</description>
+        <itunes:subtitle>Join us as we explore two blockbuster movies made by young filmmakers shaking up Hollywood.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
