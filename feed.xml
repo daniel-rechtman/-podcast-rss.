@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:57 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2940,6 +2940,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a controversial TV star&apos;s response to criticism, the launch of a new reality show season, and a touching tale of hope and music. We&apos;ll also discuss financial scandal in the south and Cyprus&apos; military hopes. Dive into these engaging stories with us!</description>
         <itunes:subtitle>Join us as we explore a controversial TV star&apos;s response to criticism, the launch of a new reality show season, and a touching tale of hope and music.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a7b20a784c2a9eb2baf0818</guid>
+        <title>Learn English with Fun! מתחילים</title>
+        <pubDate>Tue, 11 Aug 2026 13:16:23 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4b7f0ea14_25b820b04_episode-1786534746914-1.mp3" type="audio/mpeg"/>
+        <description>Join us for a fun English lesson! We explore easy and useful phrases. Improve your language skills while having a good time. Perfect for beginners!</description>
+        <itunes:subtitle>Join us for a fun English lesson!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
