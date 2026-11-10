@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:46:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:01 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4270,6 +4270,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to celebrate the lives of two famous music figures. Discover their stories and the impact they had on music in Israel. Let&apos;s honor their work and lasting legacy.</description>
         <itunes:subtitle>Join us to celebrate the lives of two famous music figures.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69ce6d0ebe50024f6c37a659</guid>
+        <title>Drama, Deals, and Discoveries בינוני</title>
+        <pubDate>Thu, 02 Apr 2026 13:20:14 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ca13c9fe8_222621b58_episode-1775375202337-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we dive into the latest TV shows you can&apos;t miss this April. Explore a bold rescue plan for workers and a high-stakes business deal in Romania. Plus, discover why Dubai&apos;s tax haven isn&apos;t as peaceful as it seems. Get ready for an exciting episode!</description>
+        <itunes:subtitle>Join us as we dive into the latest TV shows you can&apos;t miss this April.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
