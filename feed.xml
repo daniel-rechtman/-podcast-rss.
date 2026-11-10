@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:40 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2884,6 +2884,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about big changes in Tel Aviv&apos;s nightlife scene. Discover the Eurovision drama and some brand new pop-up fun. Join us for lively stories and interesting insights!</description>
         <itunes:subtitle>In this episode, we talk about big changes in Tel Aviv&apos;s nightlife scene.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a7dc4b15612dae2e24f71a3</guid>
+        <title>Exciting Changes in Tel Aviv! בינוני</title>
+        <pubDate>Thu, 13 Aug 2026 13:20:49 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/824df3354_4c2d14122_episode-1786879015591-1.mp3" type="audio/mpeg"/>
+        <description>Discover the latest news from Tel Aviv&apos;s famous night scene. Learn about a Eurovision scheduling conflict that affects Israel. Meet Tsion Amir, a lawyer facing challenges because of his beliefs.</description>
+        <itunes:subtitle>Discover the latest news from Tel Aviv&apos;s famous night scene.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
