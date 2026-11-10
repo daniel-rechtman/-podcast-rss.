@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:22 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4340,6 +4340,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to learn about numbers in English. Understand how to use them in everyday conversations. Improve your number skills with fun examples!</description>
         <itunes:subtitle>Join us to learn about numbers in English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69c2a1374e72379d1bc0b22b</guid>
+        <title>TV Shows and Comedy Drama מתקדמים</title>
+        <pubDate>Tue, 24 Mar 2026 14:35:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e0a7f8ba4_59da65c68_episode-1774515673569-1.mp3" type="audio/mpeg"/>
+        <description>Discover exciting new TV series coming in March 2026. Explore the surprising story of a comedian&apos;s tough crowd. Learn about the new UEFA platform for live football games. Join us to find out more in this fun and engaging episode!</description>
+        <itunes:subtitle>Discover exciting new TV series coming in March 2026.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
