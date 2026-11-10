@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:28 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2282,6 +2282,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we celebrate an Israeli sound designer who won an Emmy for his work with David Attenborough. We also discuss the challenges facing Channel 13 television in Israel today. Finally, we look at the high-stakes meetings between the US and China to stabilize the global economy.</description>
         <itunes:subtitle>In this episode, we celebrate an Israeli sound designer who won an Emmy for his work with David Attenborough.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ab0ac314b96e51fad76934c</guid>
+        <title>From Global Tech to Emmy Wins בינוני</title>
+        <pubDate>Mon, 21 Sep 2026 04:01:53 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b2aa5c5d2_2238e96ff_episode-1790144617991-auto-1789963313793.mp3" type="audio/mpeg"/>
+        <description>In this episode, we meet a talented sound engineer who won an Emmy for working with David Attenborough. We also discuss how new owners are trying to save a struggling television network. Join us as we explore these interesting stories from the worlds of media and entertainment.</description>
+        <itunes:subtitle>In this episode, we meet a talented sound engineer who won an Emmy for working with David Attenborough.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
