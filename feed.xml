@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:32:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:32:13 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3570,6 +3570,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore fascinating stories from around the world! From Spielberg&apos;s new movie to the most popular World Cup songs in Israel, there&apos;s so much to discover. Plus, hear about a heartwarming poker event and business trends during the World Cup.</description>
         <itunes:subtitle>Join us as we explore fascinating stories from around the world!</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a2ab515fbdf3c3a9f8b2793</guid>
+        <title>Unlock the Mystery of NaN! מתחילים</title>
+        <pubDate>Thu, 11 Jun 2026 13:16:05 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/32616564b_385bd4153_episode-1781416686724-1.mp3" type="audio/mpeg"/>
+        <description>Let&apos;s explore the intriguing world of &apos;NaN&apos;. What does it mean? Where do we find it in English? Join us for a fun and easy lesson on how &apos;NaN&apos; makes English exciting!</description>
+        <itunes:subtitle>Let&apos;s explore the intriguing world of &apos;NaN&apos;.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
