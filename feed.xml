@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:28:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:30:59 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3332,6 +3332,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun English lesson! We&apos;ll explore simple phrases and easy grammar tips. Perfect for learners who want to improve their skills with a smile.</description>
         <itunes:subtitle>Join us for a fun English lesson!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a43c621ee282bebd67f2db7</guid>
+        <title>Life, Music, and Unseen Battles מתקדמים</title>
+        <pubDate>Tue, 30 Jun 2026 13:35:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/99cb881ca_fe64ff0b2_episode-1782884133098-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore touching stories from around the world. Discover powerful moments in art, music, and daily life. Learn about unique struggles and triumphs people face every day.</description>
+        <itunes:subtitle>Join us as we explore touching stories from around the world.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
