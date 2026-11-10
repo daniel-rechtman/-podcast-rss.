@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:13 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4004,6 +4004,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the joy of learning something new. Discover how small changes can help you learn a language quicker. Join us for tips to boost your English skills step-by-step.</description>
         <itunes:subtitle>In this episode, we explore the joy of learning something new.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69f35aa53b378208b4de6c17</guid>
+        <title>Hollywood Dreams and Surprising Headlines מתקדמים</title>
+        <pubDate>Thu, 30 Apr 2026 13:35:33 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/77ff298f0_9fb055b8a_episode-1777782410318-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a Hollywood animator&apos;s journey and a shorter film from Nolan. Discover the drama behind Rebel Wilson&apos;s film and the mystery of rising milk prices. Plus, learn about the fresh AI-driven shopping experience in Israel!</description>
+        <itunes:subtitle>Join us as we explore a Hollywood animator&apos;s journey and a shorter film from Nolan.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
