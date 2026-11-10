@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:53 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2926,6 +2926,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for captivating stories of people facing tough situations across the world. From personal battles to business hurdles, explore how individuals respond to pressure. Discover lessons of resilience and determination in today&apos;s episode!</description>
         <itunes:subtitle>Join us for captivating stories of people facing tough situations across the world.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a7b21a2e6b2e84652f86d5e</guid>
+        <title>Stories from the Headlines בינוני</title>
+        <pubDate>Tue, 11 Aug 2026 13:20:34 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b59d5ba7e_ad92570dc_episode-1786534865914-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a controversial TV star&apos;s response to criticism, the launch of a new reality show season, and a touching tale of hope and music. We&apos;ll also discuss financial scandal in the south and Cyprus&apos; military hopes. Dive into these engaging stories with us!</description>
+        <itunes:subtitle>Join us as we explore a controversial TV star&apos;s response to criticism, the launch of a new reality show season, and a touching tale of hope and music.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
