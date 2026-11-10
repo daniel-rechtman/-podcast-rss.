@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:42 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4060,6 +4060,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover which artists and songs have rocked Spotify for 20 years! Hear about exciting TV shows coming soon. Stay with us for fun and easy listening.</description>
         <itunes:subtitle>Discover which artists and songs have rocked Spotify for 20 years!</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69ea1ca2b2562e5f19899eef</guid>
+        <title>Music, Movies and More! בינוני</title>
+        <pubDate>Thu, 23 Apr 2026 13:20:34 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5b7320d65_f28434ab5_episode-1777176763769-1.mp3" type="audio/mpeg"/>
+        <description>Join us to explore a thrilling new TV series and Spotify&apos;s big music hits. We also dive into the latest TV recommendations and discuss global financial events. Get ready for an exciting episode!</description>
+        <itunes:subtitle>Join us to explore a thrilling new TV series and Spotify&apos;s big music hits.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
