@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:49 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2912,6 +2912,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to explore five exciting articles and improve your English! We simplify and summarize each topic to help you learn better. Listen in for a fun and easy language adventure!</description>
         <itunes:subtitle>Join us to explore five exciting articles and improve your English!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a7b2524778c627e8efa8eb2</guid>
+        <title>Stories of Challenge and Change מתקדמים</title>
+        <pubDate>Tue, 11 Aug 2026 13:35:32 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7e754eafe_29359c96c_episode-1786534965983-1.mp3" type="audio/mpeg"/>
+        <description>Join us for captivating stories of people facing tough situations across the world. From personal battles to business hurdles, explore how individuals respond to pressure. Discover lessons of resilience and determination in today&apos;s episode!</description>
+        <itunes:subtitle>Join us for captivating stories of people facing tough situations across the world.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
