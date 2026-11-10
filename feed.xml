@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:27:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:27:07 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3290,6 +3290,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the exciting world of numbers! Learn about &apos;NaN,&apos; a special number in math and computing. Discover why it&apos;s important and how it is used in our daily lives.</description>
         <itunes:subtitle>Join us as we explore the exciting world of numbers!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a4669214df04ffcb0a9ed2c</guid>
+        <title>TV Comeback and Critic Glare מתקדמים</title>
+        <pubDate>Thu, 02 Jul 2026 13:35:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/81a564157_fa4f94322_episode-1783228114562-1.mp3" type="audio/mpeg"/>
+        <description>Learn about the surprise returns of popular TV shows like Friends on Netflix. We also discuss Gal Gadot&apos;s tough reviews on her new film. It&apos;s all about entertainment and reactions this episode!</description>
+        <itunes:subtitle>Learn about the surprise returns of popular TV shows like Friends on Netflix.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
