@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:59 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3262,6 +3262,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover exciting new TV shows coming in July 2026. Listen to Madonna’s rare interview with Graham Norton. Find out about Amazon’s big plans and a new footwear brand in Israel!</description>
         <itunes:subtitle>Discover exciting new TV shows coming in July 2026.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a4cfd29db56f8f1a04e0911</guid>
+        <title>Exciting World of TV and Music בינוני</title>
+        <pubDate>Tue, 07 Jul 2026 13:20:41 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3fea42ece_407ce757a_episode-1783491646757-1.mp3" type="audio/mpeg"/>
+        <description>Let&apos;s explore the best TV shows to watch in July 2026. We also have a rare chat with Madonna about her life and music. Join us for a fun and engaging episode!</description>
+        <itunes:subtitle>Let&apos;s explore the best TV shows to watch in July 2026.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
