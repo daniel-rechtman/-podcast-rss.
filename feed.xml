@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:40:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:40:48 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3934,6 +3934,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, hear about a young boy who loved technology and became a millionaire. Discover a mysterious lottery win and its impact. These stories show us anything can happen if we believe in ourselves or get a little lucky!</description>
         <itunes:subtitle>In this episode, hear about a young boy who loved technology and became a millionaire.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69fc919fd6157d0080bde395</guid>
+        <title>Stories of Success and Surprises בינוני</title>
+        <pubDate>Thu, 07 May 2026 13:20:31 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/51628d396_b8397ef74_episode-1778387154243-1.mp3" type="audio/mpeg"/>
+        <description>Join us in this episode as we explore inspiring stories and unexpected events. Discover the journey of a tech genius and his million-dollar success. Learn about a lucky lottery winner and intriguing book collections. Perfect for English learners eager to expand their language and knowledge!</description>
+        <itunes:subtitle>Join us in this episode as we explore inspiring stories and unexpected events.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
