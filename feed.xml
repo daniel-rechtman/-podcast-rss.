@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:18:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:20:58 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2772,6 +2772,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover why a famous band had their concert canceled and hear about Jay-Z&apos;s big return! We also talk about why learning financial skills is important. Plus, we introduce a smart robot cleaner that makes life easier. Join us and explore these fun topics!</description>
         <itunes:subtitle>Discover why a famous band had their concert canceled and hear about Jay-Z&apos;s big return!</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a90388539e51ccc7d0e911f</guid>
+        <title>Understanding NaN in Math מתחילים</title>
+        <pubDate>Thu, 27 Aug 2026 13:15:49 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5644f6d0a_a3b865940_episode-1788070553747-1.mp3" type="audio/mpeg"/>
+        <description>Let&apos;s discover what NaN means in mathematics. Learn why it&apos;s important and how it helps us when working with numbers. Join us for fun math tips!</description>
+        <itunes:subtitle>Let&apos;s discover what NaN means in mathematics.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
