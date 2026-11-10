@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:37:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:37:14 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3878,6 +3878,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun English lesson! We explore simple words and phrases. Perfect for beginner learners!</description>
         <itunes:subtitle>Join us for a fun English lesson!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a05cf9f1fc9ad07ba94d2f9</guid>
+        <title>From Books to Bids מתקדמים</title>
+        <pubDate>Thu, 14 May 2026 13:35:27 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/bf70ea467_50d88f016_episode-1779078153550-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a book that began as a self-published gem and sold a million copies. Discover how tech is simplifying pensions, and learn about a massive tech acquisition. Plus, find out how laid-off employees became the hottest hires in tech!</description>
+        <itunes:subtitle>Join us as we explore a book that began as a self-published gem and sold a million copies.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
