@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:42 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4396,6 +4396,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore unexpected stories from the global stage. Discover how one man got stuck in Australia and how TV shows compete for big ratings. Learn about unique workplace bonuses and secret schools defying the odds. Get ready for an interesting journey!</description>
         <itunes:subtitle>Join us as we explore unexpected stories from the global stage.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b9633e873c804cf08c5cf0</guid>
+        <title>Amazing Stories Around the World בינוני</title>
+        <pubDate>Tue, 17 Mar 2026 14:20:46 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0b4ccb179_00d865c22_episode-1774157589495-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories. A famous singer is stuck in Australia. A big TV drama wins the ratings game. Plus, an Australian family&apos;s life changes forever after a truck accident. Don&apos;t miss these interesting tales!</description>
+        <itunes:subtitle>Join us as we explore exciting stories.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
