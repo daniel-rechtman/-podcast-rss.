@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:47 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4074,6 +4074,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to explore a thrilling new TV series and Spotify&apos;s big music hits. We also dive into the latest TV recommendations and discuss global financial events. Get ready for an exciting episode!</description>
         <itunes:subtitle>Join us to explore a thrilling new TV series and Spotify&apos;s big music hits.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69ea1b8576872607be732e8a</guid>
+        <title>Discover the World of Numbers מתחילים</title>
+        <pubDate>Thu, 23 Apr 2026 13:15:49 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c3c8baed6_cc05a2838_episode-1777176734613-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore curious number patterns. Learn how numbers shape our daily lives. Perfect for curious minds!</description>
+        <itunes:subtitle>Join us as we explore curious number patterns.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
