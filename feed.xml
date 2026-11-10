@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:13:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:13:12 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2450,6 +2450,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we talk about the incredible life of actress Rivka Michaeli. We also explore the newest winners of Israeli literature prizes for young readers. Join us for a fun and inspiring look at the world of culture and art!</description>
         <itunes:subtitle>In this episode, we talk about the incredible life of actress Rivka Michaeli.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa37d6c939056ac4746dd8a</guid>
+        <title>IFAL: Israeli Cultural Icons and Trends בינוני</title>
+        <pubDate>Fri, 11 Sep 2026 04:02:52 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1db8be932_7d6f812de_episode-1789624481967-auto-1789099371845.mp3" type="audio/mpeg"/>
+        <description>In this episode, we celebrate the legendary actress Rivka Michaeli and her recent honors. We also discuss the latest trends in the Israeli real estate market. Finally, we look at a tense moment between bank employees and their CEO.</description>
+        <itunes:subtitle>In this episode, we celebrate the legendary actress Rivka Michaeli and her recent honors.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
