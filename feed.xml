@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:35 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2310,6 +2310,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we meet a talented sound designer who won a prestigious Emmy award. We also discuss the challenges facing a major TV channel as it tries to reinvent itself. Finally, we remember the legendary journalist Gideon Kutz and his long career reporting from Europe.</description>
         <itunes:subtitle>In this episode, we meet a talented sound designer who won a prestigious Emmy award.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aaf5abbe0e394c65d38a433</guid>
+        <title>IFAL Weekly Update בינוני</title>
+        <pubDate>Sun, 20 Sep 2026 04:02:03 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/136787f5e_413b46b26_episode-1789886270126-auto-1789876923360.mp3" type="audio/mpeg"/>
+        <description>In this episode, we remember the life of a beloved Israeli TV star who recently passed away. We also discuss how to stay safe while cycling during the quiet streets of Yom Kippur. Finally, learn about global financial trends and what they might mean for your money.</description>
+        <itunes:subtitle>In this episode, we remember the life of a beloved Israeli TV star who recently passed away.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
