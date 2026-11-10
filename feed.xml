@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:15 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3122,6 +3122,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun chat about learning English. We&apos;ll share easy tips and tricks to help you speak better. Let&apos;s make learning English exciting and simple!</description>
         <itunes:subtitle>Join us for a fun chat about learning English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a5f75a29cc813d841d6f109</guid>
+        <title>Exciting Series and Events Ahead! מתקדמים</title>
+        <pubDate>Tue, 21 Jul 2026 13:35:30 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e442a8d36_46ee15819_episode-1784806944606-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a new drama series with talented writers and actors. Discover an upcoming music festival mixing tech and traditional sounds. Plus, catch a sneak peek of the hottest TV shows in July 2026!</description>
+        <itunes:subtitle>Join us as we explore a new drama series with talented writers and actors.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
