@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:57 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3836,6 +3836,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore why learning English is important today. We will share tips and encouragement for beginners. Let&apos;s make learning fun together!</description>
         <itunes:subtitle>Join us as we explore why learning English is important today.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a0c6728d2301cf4dd70603a</guid>
+        <title>Songs, Dogs, and Docu-dramas מתקדמים</title>
+        <pubDate>Tue, 19 May 2026 13:35:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7c9c7ff72_b7b268eaa_episode-1779259466983-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore a new song about hope and healing. Discover the inspiring stories behind a brave documentary and how dogs help keep us safe. We also share fun facts about drinking water habits in Israel!</description>
+        <itunes:subtitle>Join us as we explore a new song about hope and healing.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
