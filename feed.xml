@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:41:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:41:35 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4046,6 +4046,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to learn about numbers and math in everyday life. Discover interesting facts about how numbers shape our world. It&apos;s fun and easy to understand!</description>
         <itunes:subtitle>Join us to learn about numbers and math in everyday life.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69ea202d13c8bebc97cfa37a</guid>
+        <title>A World of Music and TV מתקדמים</title>
+        <pubDate>Thu, 23 Apr 2026 13:35:41 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1825f63e7_f049ad7ec_episode-1777176808123-1.mp3" type="audio/mpeg"/>
+        <description>Discover which artists and songs have rocked Spotify for 20 years! Hear about exciting TV shows coming soon. Stay with us for fun and easy listening.</description>
+        <itunes:subtitle>Discover which artists and songs have rocked Spotify for 20 years!</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
