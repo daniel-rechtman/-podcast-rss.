@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:49 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2366,6 +2366,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we celebrate Israeli director Avi Nesher and his successful new film premiere in Toronto. We also look at a suggested change to pension plans for young workers in Israel. Finally, we discuss a big business deal in the security technology industry.</description>
         <itunes:subtitle>In this episode, we celebrate Israeli director Avi Nesher and his successful new film premiere in Toronto.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa8c321c348e281d0627bd2</guid>
+        <title>Business, Tech, and Cinema News בינוני</title>
+        <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e525d8238_a0426a74c_episode-1789624925774-auto-1789444897615.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the success of a new Israeli movie at a film festival in Toronto. We also look at a big financial report about changing pension rules for young workers. Finally, we discuss a major tech deal where an American company buys an Israeli defense business.</description>
+        <itunes:subtitle>In this episode, we explore the success of a new Israeli movie at a film festival in Toronto.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
