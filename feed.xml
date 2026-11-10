@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:50 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3808,6 +3808,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the Cannes Film Festival with its intense movies. Hear from a historian about writing in today&apos;s world. Learn why some big events change dates, and find out about expensive weddings. Have fun and learn English with us!</description>
         <itunes:subtitle>Join us as we explore the Cannes Film Festival with its intense movies.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a0f069eae6cd666ed3bf36f</guid>
+        <title>A Festival of Stories בינוני</title>
+        <pubDate>Thu, 21 May 2026 13:20:30 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a0748cc93_cf887cb3f_episode-1779596038135-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore Cannes&apos; heavy dramas and a historian&apos;s view on anti-intellectual leaders. Discover why a rock show changes its date and hear Elon Musk&apos;s views on Israel. We also reveal the expensive truth behind weddings.</description>
+        <itunes:subtitle>Join us as we explore Cannes&apos; heavy dramas and a historian&apos;s view on anti-intellectual leaders.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
