@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:22 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2646,6 +2646,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the new novel by David Grossman and say goodbye to the legendary actor Ilan Dar. We also take a look at the success of Israeli brands like Yad Mordechai and the history of Colmobil. Finally, we discuss why a big AI deal did not happen and why being kind online matters.</description>
         <itunes:subtitle>In this episode, we explore the new novel by David Grossman and say goodbye to the legendary actor Ilan Dar.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a9e65d28b7229a29cb915fb</guid>
+        <title>Art and History in Jerusalem מתחילים</title>
+        <pubDate>Mon, 07 Sep 2026 07:20:50 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/66f891884_a76dddfd4_episode-1789041103005-auto-1788765650485.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore three exciting new exhibitions at the Israel Museum. We learn about how children lived thousands of years ago and how art has changed over time. Join us to discover the fascinating history behind everyday materials and culture.</description>
+        <itunes:subtitle>In this episode, we explore three exciting new exhibitions at the Israel Museum.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
