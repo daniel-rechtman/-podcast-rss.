@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:16:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:16:46 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2716,6 +2716,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore stories of remembrance, financial decisions, and unexpected challenges. Discover a touching memorial event and learn about a bank&apos;s bold move. Plus, find out what&apos;s happening in the world of shopping and the environment.</description>
         <itunes:subtitle>Join us as we explore stories of remembrance, financial decisions, and unexpected challenges.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a96d11f98acb58afc7e48f4</guid>
+        <title>Money Talks and Shopping Sprees בינוני</title>
+        <pubDate>Tue, 01 Sep 2026 13:20:31 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0c28c9f37_4ef244f71_episode-1788327939519-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we chat about interesting financial updates, like a third interest rate cut and exciting shopping events. Learn about Israel&apos;s economy and discover new deals in malls. Perfect for English learners curious about news and trends!</description>
+        <itunes:subtitle>Join us as we chat about interesting financial updates, like a third interest rate cut and exciting shopping events.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
