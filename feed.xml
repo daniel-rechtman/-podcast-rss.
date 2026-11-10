@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:26:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:26:30 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3164,6 +3164,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a fun English lesson! We&apos;ll talk about easy ways to learn new words, practice speaking, and improve your listening skills. Perfect for beginners and anyone who loves English.</description>
         <itunes:subtitle>Join us for a fun English lesson!</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a58de290bc8e87daff829ec</guid>
+        <title>Stories of Comebacks and Surprises מתקדמים</title>
+        <pubDate>Thu, 16 Jul 2026 13:35:37 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0d82365b9_46e70d961_episode-1784456795253-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore exciting stories of Will Ferrell&apos;s new series, writing challenges, and uncovering truths. Hear about the unexpected events in the tech world and intriguing business meetings on rooftops. Learn English with stories full of fun and surprises!</description>
+        <itunes:subtitle>Join us as we explore exciting stories of Will Ferrell&apos;s new series, writing challenges, and uncovering truths.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
