@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:12:52 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2380,6 +2380,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the success of a new Israeli movie at a film festival in Toronto. We also look at a big financial report about changing pension rules for young workers. Finally, we discuss a major tech deal where an American company buys an Israeli defense business.</description>
         <itunes:subtitle>In this episode, we explore the success of a new Israeli movie at a film festival in Toronto.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa8c3212cf806253b42bc73</guid>
+        <title>Business, Tech, and Cinema Trends מתחילים</title>
+        <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d38d40c63_de5612e17_episode-1789624921489-auto-1789444897368.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore exciting news from the world of international film festivals. We also break down a new economic proposal about pension savings for young professionals. Finally, we discuss how big global companies are investing in Israeli defense technology.</description>
+        <itunes:subtitle>In this episode, we explore exciting news from the world of international film festivals.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
