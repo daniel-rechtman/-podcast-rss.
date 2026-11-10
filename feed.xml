@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:21:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:21:32 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2856,6 +2856,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Discover a new musical about Israeli singer Shoshana Damari! Learn how AI is changing jobs as Netflix&apos;s founder shares his thoughts. Also, explore exciting concerts featuring big names in music. Join us for these inspiring stories!</description>
         <itunes:subtitle>Discover a new musical about Israeli singer Shoshana Damari!</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a845b284e257e898d5543c5</guid>
+        <title>Unlocking Easy English מתחילים</title>
+        <pubDate>Tue, 18 Aug 2026 13:16:24 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4a592dcb8_389cfd1cf_episode-1787143491017-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we dive into simple English tips for learners. We&apos;ll explore basic grammar and useful expressions. Perfect for boosting your language skills!</description>
+        <itunes:subtitle>Join us as we dive into simple English tips for learners.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
