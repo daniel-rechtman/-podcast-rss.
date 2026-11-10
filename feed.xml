@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:11:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:11:38 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2198,6 +2198,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore surprising changes in music and tech! Discover the pop star embracing rap, learn about Boy George&apos;s Israeli concert, and find out how a tech post caught Elon Musk&apos;s eye. Plus, hear about Israel&apos;s defense tech investment and a huge company sale.</description>
         <itunes:subtitle>Join us as we explore surprising changes in music and tech!</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6ab280958c14feef125345c4</guid>
+        <title>Famous Faces and Fresh Tunes בינוני</title>
+        <pubDate>Tue, 22 Sep 2026 13:20:21 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e897792ea_181747814_episode-1790144814696-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we dive into exciting music news, including new songs and unexpected collaborations. We also talk about popular shows and their magic touch. Get ready for fun stories and a splash of entertainment gossip!</description>
+        <itunes:subtitle>Join us as we dive into exciting music news, including new songs and unexpected collaborations.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
