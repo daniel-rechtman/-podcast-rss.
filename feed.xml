@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:47:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:47:55 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4438,6 +4438,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we chat about this year&apos;s Oscar buzz, including expected winners and surprises. Get a sneak peek into 2026 TV shows and learn about Billie Eilish&apos;s new acting role. We also explain changes in compensation laws in Israel.</description>
         <itunes:subtitle>Join us as we chat about this year&apos;s Oscar buzz, including expected winners and surprises.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b2cbb62662c8107f6e9747</guid>
+        <title>Lights, Camera, Action! בינוני</title>
+        <pubDate>Thu, 12 Mar 2026 14:20:38 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c73dc4b54_100d27697_episode-1773561649892-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore the buzz around the Oscars and guess who might make a bold speech. Learn about exciting new TV shows coming in March. Also, hear about Billie Eilish&apos;s move from music to acting. Let&apos;s dive into the world of entertainment together!</description>
+        <itunes:subtitle>In this episode, we explore the buzz around the Oscars and guess who might make a bold speech.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
