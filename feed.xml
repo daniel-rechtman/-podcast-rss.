@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:18 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3388,6 +3388,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us for a journey through new TV shows, career tips, and AI wonders. Discover top series to watch, learn how to make a career change, and explore AI impacts on the job market. Fun and informative for everyone!</description>
         <itunes:subtitle>Join us for a journey through new TV shows, career tips, and AI wonders.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a3d2b29db352eb4522e7c3e</guid>
+        <title>Exciting Shows and Career Paths בינוני</title>
+        <pubDate>Thu, 25 Jun 2026 13:20:41 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/60aa20046_0047b35e4_episode-1782628998067-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, discover some exciting TV shows to watch in June 2026. We also explore unique career opportunities that can make a real difference in people&apos;s lives. Plus, learn why it&apos;s important to keep up with new skills in today&apos;s job market.</description>
+        <itunes:subtitle>In this episode, discover some exciting TV shows to watch in June 2026.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
