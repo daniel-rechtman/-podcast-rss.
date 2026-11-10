@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:33:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:35:48 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3612,6 +3612,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore exciting new songs from talented artists. Shiri Maimon and Ofer Nissim release a Pride anthem, while Nes &amp; Stilla return with &apos;Who Like Me?&apos;. Plus, hear about Elon Musk&apos;s journey to becoming the first trillionaire. Discover the big world of music and success with us!</description>
         <itunes:subtitle>Join us as we explore exciting new songs from talented artists.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a28120b80ab93fe5a78ff1e</guid>
+        <title>Learning with Fun מתחילים</title>
+        <pubDate>Tue, 09 Jun 2026 13:15:55 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/09af4e980_a21e069e5_episode-1781073547499-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we make learning English enjoyable. We share easy tips and fun activities to help you improve. Join us for a cheerful and helpful lesson!</description>
+        <itunes:subtitle>In this episode, we make learning English enjoyable.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
