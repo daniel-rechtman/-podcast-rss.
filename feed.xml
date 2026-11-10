@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:12:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:13:05 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -2422,6 +2422,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we remember the famous voice actor Mike McFarland and his amazing career. We also explore the future of shopping where AI assistants make choices for us. Finally, we look at Elon Musk&apos;s big plans for space travel to the moon and Mars.</description>
         <itunes:subtitle>In this episode, we remember the famous voice actor Mike McFarland and his amazing career.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6aa771e8660a05c0fdb7904b</guid>
+        <title>Tech, Space, and Tomorrow מתחילים</title>
+        <pubDate>Mon, 14 Sep 2026 04:02:48 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c82735692_69e1ccd2e_episode-1789624698449-auto-1789358568363.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about the latest AI trends in shopping and the future of online retail. We also explore Elon Musk&apos;s big plans for space travel and missions to Mars. Finally, we look at how to stay safe online after a recent data security issue.</description>
+        <itunes:subtitle>In this episode, we talk about the latest AI trends in shopping and the future of online retail.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
