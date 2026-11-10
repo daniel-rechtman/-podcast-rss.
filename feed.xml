@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:37:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:37:07 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3864,6 +3864,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore a new documentary about soldiers in Gaza. Discover why a famous chef switches TV shows. Learn about new laws for retired service dogs. It&apos;s an episode full of stories and surprises!</description>
         <itunes:subtitle>Join us as we explore a new documentary about soldiers in Gaza.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a0c6287879bf8887c4322b4</guid>
+        <title>Exploring Language Fun מתחילים</title>
+        <pubDate>Tue, 19 May 2026 13:15:51 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2a5c0bc9b_07b44b63d_episode-1779259399810-1.mp3" type="audio/mpeg"/>
+        <description>Join us for a fun English lesson! We explore simple words and phrases. Perfect for beginner learners!</description>
+        <itunes:subtitle>Join us for a fun English lesson!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
