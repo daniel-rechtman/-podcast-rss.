@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:36:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:36:23 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3710,6 +3710,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the curious world of &apos;NaN&apos;. Learn what &apos;NaN&apos; means and where you might find it. Perfect for curious minds who love solving mysteries!</description>
         <itunes:subtitle>Join us as we explore the curious world of &apos;NaN&apos;.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a1844a7c17949cc2c0f6d73</guid>
+        <title>Diving into Dreams מתקדמים</title>
+        <pubDate>Thu, 28 May 2026 13:35:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e573af041_071805f96_episode-1780201955312-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore captivating stories from TV, movies, and business. Discover the magic behind Kylie Minogue&apos;s new series, a thrilling horror film success, and teen entrepreneurs building billion-dollar companies. Perfect for learners looking to enjoy English through fascinating tales!</description>
+        <itunes:subtitle>Join us as we explore captivating stories from TV, movies, and business.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
