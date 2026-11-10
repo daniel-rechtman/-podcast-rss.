@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:31:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:31:33 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -3430,6 +3430,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the latest happenings, from a special event marking a major milestone to mysterious film shoots in Wales. We&apos;ll also touch on personal challenges and family dramas making headlines. Tune in to learn in a fun and friendly way!</description>
         <itunes:subtitle>Join us as we explore the latest happenings, from a special event marking a major milestone to mysterious film shoots in Wales.</itunes:subtitle>
         <ageGroup>3</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6a3a882fc1bdeabd595b9586</guid>
+        <title>Mystery Filming Uncovered! בינוני</title>
+        <pubDate>Tue, 23 Jun 2026 13:20:47 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0499b7fe5_aa7a0e7a4_episode-1782284057849-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we unveil the secret behind Quentin Tarantino&apos;s filming in Wales. Discover how he is acting in a new movie with Kylie Minogue. It&apos;s exciting to see Tarantino in front of the camera!</description>
+        <itunes:subtitle>Join us as we unveil the secret behind Quentin Tarantino&apos;s filming in Wales.</itunes:subtitle>
+        <ageGroup>2</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
