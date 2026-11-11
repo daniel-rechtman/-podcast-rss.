@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:35:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:35:11 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4634,6 +4634,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore NaN, a term that means &apos;not a number.&apos; Learn how it&apos;s used in programming and math. Join us for a simple and fun explanation!</description>
         <itunes:subtitle>In this episode, we explore NaN, a term that means &apos;not a number.&apos; Learn how it&apos;s used in programming and math.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69971fb973e622368d9ac805</guid>
+        <title>Stories of Change מתקדמים</title>
+        <pubDate>Thu, 19 Feb 2026 14:35:37 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3d7038afc_17493f8f1_episode-1771745413889-1.mp3" type="audio/mpeg"/>
+        <description>Join us to explore tales of new beginnings and unexpected turns. From emotional farewells to career shifts, each story shows how change can reshape our lives. Listen as we talk about music, life decisions, and industry drama shaping our world.</description>
+        <itunes:subtitle>Join us to explore tales of new beginnings and unexpected turns.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
