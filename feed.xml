@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:34:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:34:39 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4550,6 +4550,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we dive into global topics. We&apos;ll explore culture, technology, and surprising facts you might not know. Listen in and learn English with real-world stories!</description>
         <itunes:subtitle>Join us as we dive into global topics.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69a05a347a9bf9eacbe7a676</guid>
+        <title>Stage Magic and Surprises מתקדמים</title>
+        <pubDate>Thu, 26 Feb 2026 14:35:32 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/15abf1548_afc3e6728_episode-1772346091817-1.mp3" type="audio/mpeg"/>
+        <description>Join us for a tour of a thrilling new theater show and a groovy Purim party. Discover the magic behind TV series successes and unexpected sports investments. Plus, learn about surprising worker policies in tech companies.</description>
+        <itunes:subtitle>Join us for a tour of a thrilling new theater show and a groovy Purim party.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
