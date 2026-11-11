@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:34:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:34:28 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4508,6 +4508,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us to explore what &apos;NaN&apos; means in English. We&apos;ll learn why it&apos;s important in computer language. This episode makes tech terms easy and fun!</description>
         <itunes:subtitle>Join us to explore what &apos;NaN&apos; means in English.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69a6f1c1285cb407f3483403</guid>
+        <title>Helping Hands and Tough Times מתקדמים</title>
+        <pubDate>Tue, 03 Mar 2026 14:35:45 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/52c49cd7d_196989bde_episode-1772606450899-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we explore stories of support and struggle. Discover how a company aids restaurants during tough times. Learn why freezing a mortgage may not be the best idea. Stay tuned for stories of courage and a glimpse into financial challenges.</description>
+        <itunes:subtitle>In this episode, we explore stories of support and struggle.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
