@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:35:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:35:23 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4675,6 +4675,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6253bf18_1a0f8b8f0_episode-1771525302393-1.mp3" type="audio/mpeg"/>
         <description>Learn what NaN means in tech and math! It&apos;s a special value that you might see when something goes wrong with numbers. Join us to understand why NaN is important and how it is used!</description>
         <itunes:subtitle>Learn what NaN means in tech and math!</itunes:subtitle>
+        <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69947807b85ad7eb07c38ea8</guid>
+        <title>Unlock English Fluency מתחילים</title>
+        <pubDate>Tue, 17 Feb 2026 14:15:35 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/62b198e84_5c7d6414b_episode-1771745769408-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore new ways to speak English like a local. Learn through fun stories and easy tips. Perfect for improving your English skills today!</description>
+        <itunes:subtitle>Join us as we explore new ways to speak English like a local.</itunes:subtitle>
         <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
