@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:34:43 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:34:46 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4578,6 +4578,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we dive into exciting events! Discover a thrilling theater show, a festive Purim celebration, and an amazing TV series season. Plus, explore big money moves in sports and tech. Learn about choices and their costs!</description>
         <itunes:subtitle>Join us as we dive into exciting events!</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69a0557ebd181ab095bbfe0d</guid>
+        <title>Unlocking the Mystery of NaN מתחילים</title>
+        <pubDate>Thu, 26 Feb 2026 14:15:26 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f95e61504_ed1f4bca0_episode-1772346031050-1.mp3" type="audio/mpeg"/>
+        <description>Join us as we explore the world of NaN, a unique number in math and programming. Learn what it means and where we find it. Discover why understanding NaN is useful in everyday life.</description>
+        <itunes:subtitle>Join us as we explore the world of NaN, a unique number in math and programming.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
