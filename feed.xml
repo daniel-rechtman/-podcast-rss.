@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 13:34:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:34:50 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4592,6 +4592,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>Join us as we explore the world of NaN, a unique number in math and programming. Learn what it means and where we find it. Discover why understanding NaN is useful in everyday life.</description>
         <itunes:subtitle>Join us as we explore the world of NaN, a unique number in math and programming.</itunes:subtitle>
         <ageGroup>1</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>699db7383d6710bd5f97e8bf</guid>
+        <title>Music, Money, and More מתקדמים</title>
+        <pubDate>Tue, 24 Feb 2026 14:35:36 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5c5fc9ca0_8b0e7cb2e_episode-1772006849220-1.mp3" type="audio/mpeg"/>
+        <description>In this episode, we talk about a new music album and a fight over Eurovision song credits. We also discuss a tax change in Israel and a legal case revealing secret deals. Join us as we explore these exciting stories!</description>
+        <itunes:subtitle>In this episode, we talk about a new music album and a fight over Eurovision song credits.</itunes:subtitle>
+        <ageGroup>3</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
