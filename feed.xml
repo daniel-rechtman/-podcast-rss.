@@ -1614,7 +1614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 10 Nov 2026 15:48:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:34:11 GMT</lastBuildDate>
 
     <item>
         <guid>6adadc6e020ed05539c15894</guid>
@@ -4452,6 +4452,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the buzz around the Oscars and guess who might make a bold speech. Learn about exciting new TV shows coming in March. Also, hear about Billie Eilish&apos;s move from music to acting. Let&apos;s dive into the world of entertainment together!</description>
         <itunes:subtitle>In this episode, we explore the buzz around the Oscars and guess who might make a bold speech.</itunes:subtitle>
         <ageGroup>2</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>69b2ca9a0b10c2deff08a883</guid>
+        <title>Language Discovery with IFAL! מתחילים</title>
+        <pubDate>Thu, 12 Mar 2026 14:15:54 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/68eb97742_452061064_episode-1773561411857-1.mp3" type="audio/mpeg"/>
+        <description>Join us in this episode of IFAL to explore exciting language tips. We talk about simple tricks to improve your English skills. Let&apos;s have fun learning together!</description>
+        <itunes:subtitle>Join us in this episode of IFAL to explore exciting language tips.</itunes:subtitle>
+        <ageGroup>1</ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
