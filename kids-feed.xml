@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 11 Nov 2026 05:04:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:06:02 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1432,6 +1432,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come help me feed the cute penguins! We will have so much fun by the water. 🐧</description>
         <itunes:subtitle>Come help me feed the cute penguins!</itunes:subtitle>
         <ageGroup>7-9</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6af69a6cc69d8af6e013d8f8</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Deep Sea Fun</title>
+        <pubDate>Fri, 13 Nov 2026 05:04:44 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cbee78659_episode-1794546360984-auto-1794546283563.mp3" type="audio/mpeg"/>
+        <description>Come dive deep into the blue ocean with us. We will say hello to funny fish and secret friends. 🌊</description>
+        <itunes:subtitle>Come dive deep into the blue ocean with us.</itunes:subtitle>
+        <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
