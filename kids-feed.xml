@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Fri, 13 Nov 2026 05:06:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 05:03:12 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1448,6 +1448,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <ageGroup>10-12</ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast></platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid>6afa8e819a7927625d904f40</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Red Bucket Fun</title>
+        <pubDate>Mon, 16 Nov 2026 05:02:57 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/03634a67d_episode-1794805390837-auto-1794805377671.mp3" type="audio/mpeg"/>
+        <description>Come to the beach with me today. We will play in the water with a red bucket. 🏖️</description>
+        <itunes:subtitle>Come to the beach with me today.</itunes:subtitle>
+        <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
