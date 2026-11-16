@@ -1,4 +1,5 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:platform="https://base44.app/ns/podapprove" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>English Learning Podcast – Learn English Through Real News | I-FAL</title>
 <link>https://drive.google.com/drive/folders/1zMek07pqVvKnl6wIMB-K9h0Ebo406n3q</link>
@@ -28,9 +29,9 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:email>yoni@i-fal.com</itunes:email>
 </itunes:owner>
 <itunes:author>יוני כהן</itunes:author>
-<itunes:explicit>no</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 <item>
-<guid>episode-202601280853</guid>
+<guid isPermaLink="false">episode-202601280853</guid>
 <title>Exploring Exciting Adventures in Learning מתחילים</title>
 <pubDate>Wed, 28 Jan 2026 08:53:53 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7b5120a8e_legacy-1dIf8DCIq-SDpnIQKrR1990MBRpzd4ZL-.mp3" type="audio/mpeg" length="5788778"/>
@@ -120,7 +121,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509071329</guid>
+<guid isPermaLink="false">episode-202509071329</guid>
 <title>Exciting TV Series in September בינוני</title>
 <pubDate>Sun, 07 Sep 2025 13:29:50 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a14e93e39_legacy-1nHgO_jXThNPTfKhBRO1XTugvWSz58Nlf.mp3" type="audio/mpeg" length="5176051"/>
@@ -129,7 +130,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509141108</guid>
+<guid isPermaLink="false">episode-202509141108</guid>
 <title>Unlock Language Fun! מתחילים</title>
 <pubDate>Sun, 14 Sep 2025 11:08:36 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4e6b779a4_legacy-1RyD8KbckWiM_sgJWnYzxlzycJmgIea5M.mp3" type="audio/mpeg" length="4678680"/>
@@ -156,7 +157,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509141125-v2</guid>
+<guid isPermaLink="false">episode-202509141125-v2</guid>
 <title>Unlocking the Mystery of NaN מתחילים</title>
 <pubDate>Sun, 14 Sep 2025 11:25:30 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1a413d6d6_legacy-1Ezgz-s0q2kdvjT9eQhBp7dWnP_FB0KFZ.mp3" type="audio/mpeg" length="4267826"/>
@@ -165,7 +166,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509141130</guid>
+<guid isPermaLink="false">episode-202509141130</guid>
 <title>Crypto and Future Trends בינוני</title>
 <pubDate>Sun, 14 Sep 2025 11:30:56 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7c8cc6687_legacy-1rkgT7rxhqMslRTNdbvtmwNix_4RijqYN.mp3" type="audio/mpeg" length="3961880"/>
@@ -174,7 +175,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509141136</guid>
+<guid isPermaLink="false">episode-202509141136</guid>
 <title>Cool Crypto and More! מתקדמים</title>
 <pubDate>Sun, 14 Sep 2025 11:36:28 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/726ad436f_legacy-1EjCItx0bN_EYInSKmkT3fAeC_p5Kce4x.mp3" type="audio/mpeg" length="3836074"/>
@@ -183,7 +184,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509170939</guid>
+<guid isPermaLink="false">episode-202509170939</guid>
 <title>Let's Explore English Learning Together מתחילים</title>
 <pubDate>Wed, 17 Sep 2025 09:39:36 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/25f8e7e46_legacy-1E99L7cTt_7V0bfpzaqTtKy8OdJzMOojc.mp3" type="audio/mpeg" length="4531558"/>
@@ -202,7 +203,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509210754</guid>
+<guid isPermaLink="false">episode-202509210754</guid>
 <title>Explore Fun English with IFAL! מתחילים</title>
 <pubDate>Sun, 21 Sep 2025 07:54:08 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7aa29e5df_legacy-1Kp60AysAZG6CR2IC6CvGFgh7z3qsP3X4.mp3" type="audio/mpeg" length="4050069"/>
@@ -211,7 +212,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509210801</guid>
+<guid isPermaLink="false">episode-202509210801</guid>
 <title>Eurovision Excitement בינוני</title>
 <pubDate>Sun, 21 Sep 2025 08:01:18 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d260c85be_legacy-1pmJB-nwmsMt-67QGHP_t23rG1ZJAu254.mp3" type="audio/mpeg" length="5052753"/>
@@ -220,7 +221,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509210807</guid>
+<guid isPermaLink="false">episode-202509210807</guid>
 <title>A Taste of Music and Surprises מתקדמים</title>
 <pubDate>Sun, 21 Sep 2025 08:07:05 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c8ed822f0_legacy-116pYf1UFQWkZafXCWVZcusSLWC_Wgszw.mp3" type="audio/mpeg" length="5400913"/>
@@ -229,7 +230,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509281025</guid>
+<guid isPermaLink="false">episode-202509281025</guid>
 <title>Unlocking English in Fun Ways מתחילים</title>
 <pubDate>Sun, 28 Sep 2025 10:25:08 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b0b1d5e2f_legacy-161GUVecGXDBOnI3F1OZZ9zc95CidUl6F.mp3" type="audio/mpeg" length="4746389"/>
@@ -238,7 +239,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509281032</guid>
+<guid isPermaLink="false">episode-202509281032</guid>
 <title>Amazing Stories from Around the World בינוני</title>
 <pubDate>Sun, 28 Sep 2025 10:32:01 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/73f1a304b_legacy-1TaHT8qqpsRERy_SXIAJdbpZiTCDWpXaF.mp3" type="audio/mpeg" length="5323173"/>
@@ -247,7 +248,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202509281037</guid>
+<guid isPermaLink="false">episode-202509281037</guid>
 <title>From Scandals to Success מתקדמים</title>
 <pubDate>Sun, 28 Sep 2025 10:37:48 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7e4fd2c03_legacy-1snDk1HoN_gzievhbjwPbAfronuw4d64s.mp3" type="audio/mpeg" length="5336965"/>
@@ -265,7 +266,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510120751</guid>
+<guid isPermaLink="false">episode-202510120751</guid>
 <title>Exciting TV Shows in 2025 בינוני</title>
 <pubDate>Sun, 12 Oct 2025 07:51:46 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3e6fd57eb_legacy-1wFFwJtaIlcUgKZP93JRayGR5ir4LPqMU.mp3" type="audio/mpeg" length="4985880"/>
@@ -274,7 +275,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510120757</guid>
+<guid isPermaLink="false">episode-202510120757</guid>
 <title>Exciting TV Shows and Big Plans מתקדמים</title>
 <pubDate>Sun, 12 Oct 2025 07:57:23 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/532f48a74_legacy-1uaWTxI5SnOsJ5efhbKUuISElyxCoIy4E.mp3" type="audio/mpeg" length="5144704"/>
@@ -283,7 +284,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510120803</guid>
+<guid isPermaLink="false">episode-202510120803</guid>
 <title>Unlock the Secrets of English! מתחילים</title>
 <pubDate>Sun, 12 Oct 2025 08:03:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/18046baab_legacy-19lunueTlgQe7Fw6fsCLvab-NZGe7CQzg.mp3" type="audio/mpeg" length="5300185"/>
@@ -292,7 +293,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510120808</guid>
+<guid isPermaLink="false">episode-202510120808</guid>
 <title>Stories of Strength and Art בינוני</title>
 <pubDate>Sun, 12 Oct 2025 08:08:44 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f54e3ebe7_legacy-1KsUvBhMJk5p8gxO5Le2ocwCBZt_YvDRd.mp3" type="audio/mpeg" length="5047320"/>
@@ -301,7 +302,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510120814</guid>
+<guid isPermaLink="false">episode-202510120814</guid>
 <title>Stories of Inspiration and Hope מתקדמים</title>
 <pubDate>Sun, 12 Oct 2025 08:14:25 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ae9189e0d_legacy-1D6odhm0kc8S__FiErsT47tu9oQE1p0mt.mp3" type="audio/mpeg" length="4937396"/>
@@ -310,7 +311,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510150735</guid>
+<guid isPermaLink="false">episode-202510150735</guid>
 <title>Learn English with Confidence מתחילים</title>
 <pubDate>Wed, 15 Oct 2025 07:35:10 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2e9d772f3_legacy-1qAJoxuJCFIJ9MoitMX7vIE00jm-9kVXi.mp3" type="audio/mpeg" length="4014542"/>
@@ -319,7 +320,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510150741</guid>
+<guid isPermaLink="false">episode-202510150741</guid>
 <title>News and Hope בינוני</title>
 <pubDate>Wed, 15 Oct 2025 07:41:23 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c3c8893e0_legacy-1SCmIM5_Tt4TVnW7fqxWCLNol6HKlFJPQ.mp3" type="audio/mpeg" length="4116942"/>
@@ -328,7 +329,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510150747</guid>
+<guid isPermaLink="false">episode-202510150747</guid>
 <title>From Crisis to Celebration מתקדמים</title>
 <pubDate>Wed, 15 Oct 2025 07:47:23 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/782f29e16_legacy-1gd5CsmoehmWgRgxAzFwszvU3Kd9co-I9.mp3" type="audio/mpeg" length="3293145"/>
@@ -337,7 +338,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510190737</guid>
+<guid isPermaLink="false">episode-202510190737</guid>
 <title>Learning with Numbers מתחילים</title>
 <pubDate>Sun, 19 Oct 2025 07:37:48 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/664818faa_legacy-1M0KnMP2IxeSyXwltSDVtLIcNzMyiOUAU.mp3" type="audio/mpeg" length="5008031"/>
@@ -346,7 +347,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510190744</guid>
+<guid isPermaLink="false">episode-202510190744</guid>
 <title>TV Shows and AI Bubbles בינוני</title>
 <pubDate>Sun, 19 Oct 2025 07:44:02 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cd6ad043c_legacy-1GkUEMn7iS7gtT7tNraK7RbIfe8xR-6Wn.mp3" type="audio/mpeg" length="6766804"/>
@@ -364,7 +365,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510220725</guid>
+<guid isPermaLink="false">episode-202510220725</guid>
 <title>Exploring the Unknown מתחילים</title>
 <pubDate>Wed, 22 Oct 2025 07:25:09 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/81419199d_legacy-1TkYa1hLxDNIoieGBCSjGVEVYarGcjrOU.mp3" type="audio/mpeg" length="4484329"/>
@@ -382,7 +383,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510220740</guid>
+<guid isPermaLink="false">episode-202510220740</guid>
 <title>Big Talks and Big Changes מתקדמים</title>
 <pubDate>Wed, 22 Oct 2025 07:40:50 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/219ece7e5_legacy-1FJyTfpaXRnu5VvuVMQP5zq5KKnDFIN_o.mp3" type="audio/mpeg" length="5389210"/>
@@ -391,7 +392,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510240843</guid>
+<guid isPermaLink="false">episode-202510240843</guid>
 <title>Cracking the Code of English Learning מתחילים</title>
 <pubDate>Fri, 24 Oct 2025 08:43:57 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/082d0fd32_legacy-1DPZV_npVuYzdK44qIie8rkC-foRj8WYs.mp3" type="audio/mpeg" length="3923009"/>
@@ -409,7 +410,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510240857</guid>
+<guid isPermaLink="false">episode-202510240857</guid>
 <title>Stories of Resilience and Hope מתקדמים</title>
 <pubDate>Fri, 24 Oct 2025 08:57:12 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6d93ef8a7_legacy-1Xrd12m0HBit7XST759YROgMROTMUsW8I.mp3" type="audio/mpeg" length="5076995"/>
@@ -418,7 +419,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510290719</guid>
+<guid isPermaLink="false">episode-202510290719</guid>
 <title>Master English Numbers Easily מתחילים</title>
 <pubDate>Wed, 29 Oct 2025 07:19:30 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4090dc566_legacy-1N1S2eyHO5uzHfr83nQ8fgSxAQ7odxEja.mp3" type="audio/mpeg" length="4491434"/>
@@ -436,7 +437,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510290738</guid>
+<guid isPermaLink="false">episode-202510290738</guid>
 <title>Stories That Shake the World מתקדמים</title>
 <pubDate>Wed, 29 Oct 2025 07:38:49 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/545fdbd27_legacy-1af_PJGhXLj5igtceVv33z91TBvb8alkK.mp3" type="audio/mpeg" length="4042964"/>
@@ -445,7 +446,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202510290746</guid>
+<guid isPermaLink="false">episode-202510290746</guid>
 <title>Tech Giants on the Move בינוני</title>
 <pubDate>Wed, 29 Oct 2025 07:46:13 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b550243ac_legacy-15jnaj629239zmzVfubNl6y7g6awYdG6w.mp3" type="audio/mpeg" length="6775581"/>
@@ -454,7 +455,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511020749</guid>
+<guid isPermaLink="false">episode-202511020749</guid>
 <title>Boost Your Grammar Skills! מתחילים</title>
 <pubDate>Sun, 02 Nov 2025 07:49:02 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/fdc820e9a_legacy-13jsZCvHdzJXRggMtND0ZbtmJZp1cS5Uv.mp3" type="audio/mpeg" length="4613478"/>
@@ -463,7 +464,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511020757</guid>
+<guid isPermaLink="false">episode-202511020757</guid>
 <title>Movies and Changes בינוני</title>
 <pubDate>Sun, 02 Nov 2025 07:57:02 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cbdf8513a_legacy-1pEUmDtQnh7tECVoMFGb3X3m9ST_CWlh8.mp3" type="audio/mpeg" length="4374823"/>
@@ -472,7 +473,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511020805</guid>
+<guid isPermaLink="false">episode-202511020805</guid>
 <title>Lights, Camera, Action! מתקדמים</title>
 <pubDate>Sun, 02 Nov 2025 08:05:08 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1e50e3615_legacy-1lwslV_cQ8jomY9fViE4G810haqdIReIJ.mp3" type="audio/mpeg" length="5664227"/>
@@ -481,7 +482,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511050756</guid>
+<guid isPermaLink="false">episode-202511050756</guid>
 <title>Learning Fun with IFAL מתחילים</title>
 <pubDate>Wed, 05 Nov 2025 07:56:09 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c185c9004_legacy-1ZOxOqQL8YbkNeC4SHyMTnS_W69sIT6PC.mp3" type="audio/mpeg" length="6250206"/>
@@ -490,7 +491,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511050803</guid>
+<guid isPermaLink="false">episode-202511050803</guid>
 <title>Learning Fun with IFAL מתחילים</title>
 <pubDate>Wed, 05 Nov 2025 08:03:04 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/da65b2f64_legacy-1oUSFo0tuZKvhhg5C_oDuBua57sxF-PWa.mp3" type="audio/mpeg" length="6144880"/>
@@ -499,7 +500,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511050810</guid>
+<guid isPermaLink="false">episode-202511050810</guid>
 <title>Exciting Art and Music Mix מתקדמים</title>
 <pubDate>Wed, 05 Nov 2025 08:10:06 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/33f45231e_legacy-17UThrm5HFIutNhT7Wg7ov2mi6jF1BihX.mp3" type="audio/mpeg" length="5341563"/>
@@ -508,7 +509,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511050817</guid>
+<guid isPermaLink="false">episode-202511050817</guid>
 <title>Exciting Travels in Art and Success בינוני</title>
 <pubDate>Wed, 05 Nov 2025 08:17:05 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/feead7638_legacy-1spNgrXdFvvPKZqfYEGWq2tMBqtZfAcq5.mp3" type="audio/mpeg" length="4010781"/>
@@ -517,7 +518,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511090935</guid>
+<guid isPermaLink="false">episode-202511090935</guid>
 <title>The Curious Case of NaN מתחילים</title>
 <pubDate>Sun, 09 Nov 2025 09:35:53 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7a46a11bb_legacy-1vw5yIbUAWm9vAdkeN1c70ehEEa_lKpNP.mp3" type="audio/mpeg" length="6167032"/>
@@ -526,7 +527,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511090942</guid>
+<guid isPermaLink="false">episode-202511090942</guid>
 <title>Shopping Tips &amp; Series Thrills בינוני</title>
 <pubDate>Sun, 09 Nov 2025 09:42:07 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/74281debb_legacy-1GCf1mmXG68XlZ5iFU4mWU1GFLSLx8vNG.mp3" type="audio/mpeg" length="5562245"/>
@@ -535,7 +536,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511090948</guid>
+<guid isPermaLink="false">episode-202511090948</guid>
 <title>Discovering Hidden Stories מתקדמים</title>
 <pubDate>Sun, 09 Nov 2025 09:48:16 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cd83b2cae_legacy-1USTZrMRgeZ_TB4Z-yMvznqliHOUV4G3T.mp3" type="audio/mpeg" length="4626017"/>
@@ -544,7 +545,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511120734</guid>
+<guid isPermaLink="false">episode-202511120734</guid>
 <title>Understanding NaN in Numbers מתחילים</title>
 <pubDate>Wed, 12 Nov 2025 07:34:10 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7f5e82de6_legacy-1vMzpbf6JWXpo6qMJykHL3dt0O0WGT3Os.mp3" type="audio/mpeg" length="5106252"/>
@@ -553,7 +554,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511120742</guid>
+<guid isPermaLink="false">episode-202511120742</guid>
 <title>Safety and Secrets בינוני</title>
 <pubDate>Wed, 12 Nov 2025 07:42:36 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/39dbe568a_legacy-1HfqvuesSyFNcklLw4GTSUzJojCWQWDpv.mp3" type="audio/mpeg" length="3902947"/>
@@ -562,7 +563,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511120751</guid>
+<guid isPermaLink="false">episode-202511120751</guid>
 <title>Surprising Cancellations and Controversies מתקדמים</title>
 <pubDate>Wed, 12 Nov 2025 07:51:08 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2663ab3ab_legacy-1JtISdXj0-h3H0kIri1ivFxTzLRh5-zAF.mp3" type="audio/mpeg" length="3634200"/>
@@ -571,7 +572,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511120759</guid>
+<guid isPermaLink="false">episode-202511120759</guid>
 <title>Surprising Cancellations and Controversies מתקדמים</title>
 <pubDate>Wed, 12 Nov 2025 07:59:41 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/33ab24f94_legacy-1PuHfPko2ZmtXL-z4e6XNmBiYe4L-_5WU.mp3" type="audio/mpeg" length="3691460"/>
@@ -580,7 +581,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511140035</guid>
+<guid isPermaLink="false">episode-202511140035</guid>
 <title>Explore Great Adventures מתחילים</title>
 <pubDate>Fri, 14 Nov 2025 00:35:53 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cf5f9a827_legacy-1P6JMAbxn1eX-34YX7SovEgC0q01xs0MI.mp3" type="audio/mpeg" length="3553116"/>
@@ -589,7 +590,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511140042</guid>
+<guid isPermaLink="false">episode-202511140042</guid>
 <title>TV Talk and Movie Magic בינוני</title>
 <pubDate>Fri, 14 Nov 2025 00:42:54 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/610029a74_legacy-1mtpejntVHh-IEbHCVhvv6qZzlbprGg4Z.mp3" type="audio/mpeg" length="4978356"/>
@@ -598,7 +599,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511140050</guid>
+<guid isPermaLink="false">episode-202511140050</guid>
 <title>Behind the Headlines: Stories Unfolding מתקדמים</title>
 <pubDate>Fri, 14 Nov 2025 00:50:03 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8e74043bc_legacy-14t1mQaw-oEnJTMNTJba4T6PQAxXx5RNc.mp3" type="audio/mpeg" length="5337801"/>
@@ -616,7 +617,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511190858</guid>
+<guid isPermaLink="false">episode-202511190858</guid>
 <title>Celebrities and Surprises בינוני</title>
 <pubDate>Wed, 19 Nov 2025 08:58:55 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5ff149f10_legacy-1UN4LdmPnmkHD9vR_JurmzBilwNCoHeGy.mp3" type="audio/mpeg" length="4607627"/>
@@ -634,7 +635,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511230805</guid>
+<guid isPermaLink="false">episode-202511230805</guid>
 <title>Learning English with Fun Stories מתחילים</title>
 <pubDate>Sun, 23 Nov 2025 08:05:50 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/33dd37512_legacy-1iuOfzq37989P2Zj_xSTpDnN2wMVhWagU.mp3" type="audio/mpeg" length="4446294"/>
@@ -643,7 +644,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511230812</guid>
+<guid isPermaLink="false">episode-202511230812</guid>
 <title>Exciting Art and Big Deals! בינוני</title>
 <pubDate>Sun, 23 Nov 2025 08:12:11 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/35ce0814f_legacy-1eGMnsSZFr9IOCmKyXD0iuR0Ox2FG1ZcI.mp3" type="audio/mpeg" length="5069054"/>
@@ -652,7 +653,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511230818</guid>
+<guid isPermaLink="false">episode-202511230818</guid>
 <title>Exciting Art and Big Deals מתקדמים</title>
 <pubDate>Sun, 23 Nov 2025 08:18:25 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/437c9a388_legacy-12r3a_gRFfWoH16kBQaUHLJo89WCz7E8h.mp3" type="audio/mpeg" length="4256959"/>
@@ -661,7 +662,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511260754</guid>
+<guid isPermaLink="false">episode-202511260754</guid>
 <title>Unlock the Secrets of Daily English מתחילים</title>
 <pubDate>Wed, 26 Nov 2025 07:54:12 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d0c21a145_legacy-1EYRn5pzXTGY8VgdUVVe6_52YsLf4AoQ3.mp3" type="audio/mpeg" length="5276361"/>
@@ -670,7 +671,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511260800-v2</guid>
+<guid isPermaLink="false">episode-202511260800-v2</guid>
 <title>Music, Movies, and More בינוני</title>
 <pubDate>Wed, 26 Nov 2025 08:00:43 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f5eed58e8_legacy-1qmlWBuQMEc_hQ_30Yz7Y2YHrSLE4Zm7t.mp3" type="audio/mpeg" length="4437517"/>
@@ -679,7 +680,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511260807</guid>
+<guid isPermaLink="false">episode-202511260807</guid>
 <title>Exciting Tunes and Bright Innovations מתקדמים</title>
 <pubDate>Wed, 26 Nov 2025 08:07:28 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4fd701bd4_legacy-1Nf3bhgVgL-ScCUQXMQ71wLlC-1KQWdgM.mp3" type="audio/mpeg" length="4547858"/>
@@ -688,7 +689,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511300933</guid>
+<guid isPermaLink="false">episode-202511300933</guid>
 <title>Explore and Learn! מתחילים</title>
 <pubDate>Sun, 30 Nov 2025 09:33:41 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1a3451c14_legacy-10aYP6LtEXr0WhquWDxCoFwTEiYmtyvub.mp3" type="audio/mpeg" length="4282872"/>
@@ -697,7 +698,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511300939</guid>
+<guid isPermaLink="false">episode-202511300939</guid>
 <title>Eurovision Drama Unfolds בינוני</title>
 <pubDate>Sun, 30 Nov 2025 09:39:49 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4c43683d7_legacy-1PdtlpDJfMmcOIiATJZ9xeKanhAJVdLIF.mp3" type="audio/mpeg" length="5310216"/>
@@ -706,7 +707,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202511300946</guid>
+<guid isPermaLink="false">episode-202511300946</guid>
 <title>Hot Topics of Today מתקדמים</title>
 <pubDate>Sun, 30 Nov 2025 09:46:15 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/db3cdd2ef_legacy-13yyX8fPhKuW-9UZdaVsuPiNzYRk2t_QF.mp3" type="audio/mpeg" length="4729253"/>
@@ -715,7 +716,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512030744</guid>
+<guid isPermaLink="false">episode-202512030744</guid>
 <title>Understanding 'NaN' in Numbers מתחילים</title>
 <pubDate>Wed, 03 Dec 2025 07:44:23 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/994a3fc73_legacy-1TGpdE0SqhDYOhDEsolSpRcvZW6QxDVUi.mp3" type="audio/mpeg" length="5199039"/>
@@ -724,7 +725,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512030750</guid>
+<guid isPermaLink="false">episode-202512030750</guid>
 <title>Surprising Stories Unwrapped בינוני</title>
 <pubDate>Wed, 03 Dec 2025 07:50:48 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8196ca8c7_legacy-1wD3NCyUrcFXwWkeb8mOXcBcUZ03juINk.mp3" type="audio/mpeg" length="5202800"/>
@@ -733,7 +734,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512030757</guid>
+<guid isPermaLink="false">episode-202512030757</guid>
 <title>Trending Tales and Surprising Facts! מתקדמים</title>
 <pubDate>Wed, 03 Dec 2025 07:57:11 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6fb8f2ec9_legacy-1NOSvIo-0ZVt1NJiIP-XsLNgJhiPmotFT.mp3" type="audio/mpeg" length="3831894"/>
@@ -742,7 +743,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512070829</guid>
+<guid isPermaLink="false">episode-202512070829</guid>
 <title>Exciting English Adventures! מתחילים</title>
 <pubDate>Sun, 07 Dec 2025 08:29:18 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1c9dc9b5d_legacy-18d4qqBz-tMV0q0RY370vjIELhUd3desq.mp3" type="audio/mpeg" length="4535320"/>
@@ -751,7 +752,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512070835</guid>
+<guid isPermaLink="false">episode-202512070835</guid>
 <title>Pop Legends and TV Hits בינוני</title>
 <pubDate>Sun, 07 Dec 2025 08:35:28 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/efa6aa4fc_legacy-1w8PSplOq1UurATwggnku-lmHs5GDI9xi.mp3" type="audio/mpeg" length="4765197"/>
@@ -760,7 +761,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512070841</guid>
+<guid isPermaLink="false">episode-202512070841</guid>
 <title>Mix of Music, Shows, and Innovations מתקדמים</title>
 <pubDate>Sun, 07 Dec 2025 08:41:37 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/577897855_legacy-1ZCzeQk92Kfo0XduJdLrh-qIxxpFWKDp0.mp3" type="audio/mpeg" length="4794036"/>
@@ -769,7 +770,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512100728-v2</guid>
+<guid isPermaLink="false">episode-202512100728-v2</guid>
 <title>Exploring the World of Numbers מתחילים</title>
 <pubDate>Wed, 10 Dec 2025 07:28:18 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ea3216ac4_legacy-1zM91Ql90y8EwztHL_gN3OUpq_SmAqbPE.mp3" type="audio/mpeg" length="6033285"/>
@@ -778,7 +779,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512100737</guid>
+<guid isPermaLink="false">episode-202512100737</guid>
 <title>Big News and New Books! בינוני</title>
 <pubDate>Wed, 10 Dec 2025 07:37:06 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8d331c34c_legacy-1y3cCPVX0QIvo9cOfQo7Jgg7UysZwGX0w.mp3" type="audio/mpeg" length="4531140"/>
@@ -787,7 +788,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512100743</guid>
+<guid isPermaLink="false">episode-202512100743</guid>
 <title>Music, Movies, and More! מתקדמים</title>
 <pubDate>Wed, 10 Dec 2025 07:43:43 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/17ddf0f33_legacy-18NgsPDNgvDchlpab1nUY5K2Y4jTGUM4N.mp3" type="audio/mpeg" length="4591744"/>
@@ -796,7 +797,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512141001</guid>
+<guid isPermaLink="false">episode-202512141001</guid>
 <title>Master English with Fun! מתחילים</title>
 <pubDate>Sun, 14 Dec 2025 10:01:57 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/487a306d2_legacy-1xANOjwHFX5nja2TQ1SSk4OgJ-xd0RhCK.mp3" type="audio/mpeg" length="8140636"/>
@@ -805,7 +806,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512141009</guid>
+<guid isPermaLink="false">episode-202512141009</guid>
 <title>Exciting Stories from Around the World בינוני</title>
 <pubDate>Sun, 14 Dec 2025 10:09:02 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b01fc78f3_legacy-1VZVuiSphhvE15eAdO9E4bFHtS05NvlIB.mp3" type="audio/mpeg" length="5821798"/>
@@ -814,7 +815,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512141016</guid>
+<guid isPermaLink="false">episode-202512141016</guid>
 <title>Fascinating Festivities &amp; Million-Dollar Moves מתקדמים</title>
 <pubDate>Sun, 14 Dec 2025 10:16:29 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b0afa2aea_legacy-1nDhu8YFht0GwWphNfmZkmfFxdkDquwPW.mp3" type="audio/mpeg" length="4852133"/>
@@ -823,7 +824,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512210937</guid>
+<guid isPermaLink="false">episode-202512210937</guid>
 <title>Understanding NaN in Numbers מתחילים</title>
 <pubDate>Sun, 21 Dec 2025 09:37:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/814888f5f_legacy-1yiZz4X1u3nsWdNScZOs17qr_A7p12JKx.mp3" type="audio/mpeg" length="8484616"/>
@@ -832,7 +833,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512300900</guid>
+<guid isPermaLink="false">episode-202512300900</guid>
 <title>Exciting Events and Shifting Trends! מתקדמים</title>
 <pubDate>Tue, 30 Dec 2025 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e4a59c079_legacy-1cla8YxTJkbDsfDnPAeuOLqavFhNsiqre.mp3" type="audio/mpeg" length="4309203"/>
@@ -841,7 +842,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512300906</guid>
+<guid isPermaLink="false">episode-202512300906</guid>
 <title>Trends and Triumphs in 2026 בינוני</title>
 <pubDate>Tue, 30 Dec 2025 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5f407791a_legacy-1gf6mI6FMFopakJdxE5e_tUpLg_4zKHMV.mp3" type="audio/mpeg" length="4445875"/>
@@ -850,7 +851,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202512300912</guid>
+<guid isPermaLink="false">episode-202512300912</guid>
 <title>Learn with Numbers מתחילים</title>
 <pubDate>Tue, 30 Dec 2025 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f8b74506a_legacy-1kaHndZJd9Ys1kq83H6CEqpGUcb8WRi2c.mp3" type="audio/mpeg" length="5462352"/>
@@ -859,7 +860,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601010900</guid>
+<guid isPermaLink="false">episode-202601010900</guid>
 <title>Exciting TV Shows and More! מתקדמים</title>
 <pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3d992a10d_legacy-1IrfRsm3xaa-kn2OvNIFjHiDg1oGBdr56.mp3" type="audio/mpeg" length="6213007"/>
@@ -868,7 +869,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601010906</guid>
+<guid isPermaLink="false">episode-202601010906</guid>
 <title>New Series and Shows to Catch This January בינוני</title>
 <pubDate>Thu, 01 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1486d4cfd_legacy-1bSFnywnM9mRmQ_j4nUo5iMYLxpmhA78N.mp3" type="audio/mpeg" length="5605712"/>
@@ -877,7 +878,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601010912</guid>
+<guid isPermaLink="false">episode-202601010912</guid>
 <title>Understanding Numbers and Nan מתחילים</title>
 <pubDate>Thu, 01 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/085d4aadc_legacy-157ft1Uyegedm9z_Id9lYnWavkkFqlkO6.mp3" type="audio/mpeg" length="4350999"/>
@@ -886,7 +887,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601060900</guid>
+<guid isPermaLink="false">episode-202601060900</guid>
 <title>Teen Scientists &amp; Big Dreams מתקדמים</title>
 <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b15f91f57_legacy-1ZckpDr4rt4i_2X2vMF87Kng_BFB1HDYV.mp3" type="audio/mpeg" length="4663632"/>
@@ -895,7 +896,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601060906</guid>
+<guid isPermaLink="false">episode-202601060906</guid>
 <title>Pop, Politics, and Future Stars בינוני</title>
 <pubDate>Tue, 06 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6a9b9e78a_legacy-1eT7tKBDvsJDR9QEd7BhKpbrR9sAN_4bk.mp3" type="audio/mpeg" length="5785017"/>
@@ -904,7 +905,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601060912</guid>
+<guid isPermaLink="false">episode-202601060912</guid>
 <title>Explore the World of Words מתחילים</title>
 <pubDate>Tue, 06 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/41287d7ec_legacy-1mwPu6OJp7UrMpTTBPLVJNFK2_7pxNsDC.mp3" type="audio/mpeg" length="4888912"/>
@@ -913,7 +914,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601080900</guid>
+<guid isPermaLink="false">episode-202601080900</guid>
 <title>Melodies and Innovations מתקדמים</title>
 <pubDate>Thu, 08 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5af81ae31_legacy-1Vyg5yBqrkRtx91DDads4uADBXQcRyxh3.mp3" type="audio/mpeg" length="5355355"/>
@@ -922,7 +923,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601080906</guid>
+<guid isPermaLink="false">episode-202601080906</guid>
 <title>Rock, Laugh, and Learn בינוני</title>
 <pubDate>Thu, 08 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2c3d8bccf_legacy-157nuWPL_x4UY6F88q77PEyqMllZRT9Rh.mp3" type="audio/mpeg" length="5452739"/>
@@ -931,7 +932,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601080912</guid>
+<guid isPermaLink="false">episode-202601080912</guid>
 <title>Unlocking Language Fun מתחילים</title>
 <pubDate>Thu, 08 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f42826858_legacy-1YKhRXyQ2XJomd033uaFsLAnLt3VlzrnB.mp3" type="audio/mpeg" length="4756419"/>
@@ -940,7 +941,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601130900</guid>
+<guid isPermaLink="false">episode-202601130900</guid>
 <title>Shrek's Villain Takes the Stage מתקדמים</title>
 <pubDate>Tue, 13 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a0448e200_legacy-1kvycYCtD9C4e_vOT3xG9B9TtBM6yMIDA.mp3" type="audio/mpeg" length="5858577"/>
@@ -949,7 +950,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601130906</guid>
+<guid isPermaLink="false">episode-202601130906</guid>
 <title>Movie Magic and More! בינוני</title>
 <pubDate>Tue, 13 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b7e60cb39_legacy-1effkOzKZp6KwM4OhxQlgnydux5x9HcYX.mp3" type="audio/mpeg" length="4587146"/>
@@ -958,7 +959,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601130912</guid>
+<guid isPermaLink="false">episode-202601130912</guid>
 <title>English Tips &amp; Tricks מתחילים</title>
 <pubDate>Tue, 13 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/45f2184fa_legacy-1BoY6pvCTbnD3dXboXXOih8x2T8yjlosf.mp3" type="audio/mpeg" length="4780243"/>
@@ -967,7 +968,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601150900</guid>
+<guid isPermaLink="false">episode-202601150900</guid>
 <title>Exciting News: From Shows to Savings מתקדמים</title>
 <pubDate>Thu, 15 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d6a47b931_legacy-1zQKcSwwm6p9Wtz7qJlHGTM5DDv8qtd-6.mp3" type="audio/mpeg" length="4873866"/>
@@ -976,7 +977,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601150906</guid>
+<guid isPermaLink="false">episode-202601150906</guid>
 <title>Fueling Your Wallet בינוני</title>
 <pubDate>Thu, 15 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/38bbe4c8c_legacy-1GKCWKzM5aA0sk00QSgo7gP5OGS6lNULF.mp3" type="audio/mpeg" length="6980380"/>
@@ -985,7 +986,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601150912</guid>
+<guid isPermaLink="false">episode-202601150912</guid>
 <title>Exploring English Together מתחילים</title>
 <pubDate>Thu, 15 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b3c6ca0de_legacy-1yQKoaMn0JP_cDOSkKliqVNppezCjNoRT.mp3" type="audio/mpeg" length="6972439"/>
@@ -994,7 +995,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601200900</guid>
+<guid isPermaLink="false">episode-202601200900</guid>
 <title>Why We Say Goodbye to Jobs מתקדמים</title>
 <pubDate>Tue, 20 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/64af21ffc_legacy-1cBc9gjzGNT6yXbuXlZnrY2PaEJgRPfn4.mp3" type="audio/mpeg" length="5538839"/>
@@ -1003,7 +1004,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601200906</guid>
+<guid isPermaLink="false">episode-202601200906</guid>
 <title>Top Stories: New Songs, Films, and Work Trends בינוני</title>
 <pubDate>Tue, 20 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5c885d2c7_legacy-1IHWOixgswhc1BNBnCWZRsTCguIV-PUUA.mp3" type="audio/mpeg" length="4626434"/>
@@ -1012,7 +1013,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601200912</guid>
+<guid isPermaLink="false">episode-202601200912</guid>
 <title>Learning English Fun! מתחילים</title>
 <pubDate>Tue, 20 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/70dc543f8_legacy-1bQG2IuJ9r7Oy847wG7CQaud-VAvfT49U.mp3" type="audio/mpeg" length="5390881"/>
@@ -1021,7 +1022,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601220900</guid>
+<guid isPermaLink="false">episode-202601220900</guid>
 <title>A Magical Journey and Award Dreams מתקדמים</title>
 <pubDate>Thu, 22 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/faf50b92f_legacy-1l2b7jl35LxfHpHncmRPuEzgSYbbib7kC.mp3" type="audio/mpeg" length="4324667"/>
@@ -1030,7 +1031,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601220906</guid>
+<guid isPermaLink="false">episode-202601220906</guid>
 <title>Oscar Buzz and Movie Magic בינוני</title>
 <pubDate>Thu, 22 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f94544a9d_legacy-10enruL67VHCcA4EDTxQjxCHv6EisrMPW.mp3" type="audio/mpeg" length="3645484"/>
@@ -1039,7 +1040,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601220912</guid>
+<guid isPermaLink="false">episode-202601220912</guid>
 <title>Explore Mindful Language Learning מתחילים</title>
 <pubDate>Thu, 22 Jan 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1a4b4856a_legacy-1k_GfAhbX6_TcOkBOxR7-5oUNYsoL2MJ0.mp3" type="audio/mpeg" length="4821203"/>
@@ -1048,7 +1049,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601270900</guid>
+<guid isPermaLink="false">episode-202601270900</guid>
 <title>Top TV Shows for February מתקדמים</title>
 <pubDate>Tue, 27 Jan 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/54388073d_legacy-1C5PU2DpNg-uK9u9kvUNnaU3_ei-A8LcP.mp3" type="audio/mpeg" length="4763106"/>
@@ -1057,7 +1058,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202601270906</guid>
+<guid isPermaLink="false">episode-202601270906</guid>
 <title>TV Picks and Big Changes בינוני</title>
 <pubDate>Tue, 27 Jan 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b00c55801_legacy-1szZbiJUtud1xauqMDJJOJxf3uTtNaOmW.mp3" type="audio/mpeg" length="4470954"/>
@@ -1066,7 +1067,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602030900</guid>
+<guid isPermaLink="false">episode-202602030900</guid>
 <title>News Buzz: Headlines That Matter מתקדמים</title>
 <pubDate>Tue, 03 Feb 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6292db1cb_legacy-1pjIjUA9JFmenTMzBbRPvLfxKPGZKpB4g.mp3" type="audio/mpeg" length="5268002"/>
@@ -1075,7 +1076,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602030906</guid>
+<guid isPermaLink="false">episode-202602030906</guid>
 <title>Big Stories from Around the World בינוני</title>
 <pubDate>Tue, 03 Feb 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7419e37ce_legacy-1L8-1AxQjgvzmhpWIjG96_k6zc7enH3T5.mp3" type="audio/mpeg" length="4753912"/>
@@ -1084,7 +1085,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602030912-v2</guid>
+<guid isPermaLink="false">episode-202602030912-v2</guid>
 <title>Mastering English with IFAL מתחילים</title>
 <pubDate>Tue, 03 Feb 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b37273641_legacy-1Gsqxr5NvvrF5xI3MyGo9NSid2rY0asVS.mp3" type="audio/mpeg" length="3804309"/>
@@ -1093,7 +1094,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602100900</guid>
+<guid isPermaLink="false">episode-202602100900</guid>
 <title>Chasing Dreams and Stars מתקדמים</title>
 <pubDate>Tue, 10 Feb 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/299962710_legacy-1adGFghZHx7GqkxzHYsbr7_rf1ODTwVG4.mp3" type="audio/mpeg" length="5571022"/>
@@ -1102,7 +1103,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602100906</guid>
+<guid isPermaLink="false">episode-202602100906</guid>
 <title>Dreams, Drama, and Deals בינוני</title>
 <pubDate>Tue, 10 Feb 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/886cb0b11_legacy-1wdgyHy1xsM3N-XbkbO4pvqFITkYlaD2e.mp3" type="audio/mpeg" length="5370402"/>
@@ -1111,7 +1112,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602100912</guid>
+<guid isPermaLink="false">episode-202602100912</guid>
 <title>Learning Bytes מתחילים</title>
 <pubDate>Tue, 10 Feb 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1c3d39e93_legacy-1xT3fMYjqw9nyRU71uTk8_20bD0E_zK4U.mp3" type="audio/mpeg" length="5257553"/>
@@ -1120,7 +1121,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602120900</guid>
+<guid isPermaLink="false">episode-202602120900</guid>
 <title>Love, Dollars, and Drama מתקדמים</title>
 <pubDate>Thu, 12 Feb 2026 09:00:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/98312f258_legacy-1ULPVpKRsCRGW5_KjYWslwpJU9DYergEL.mp3" type="audio/mpeg" length="4862164"/>
@@ -1129,7 +1130,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602120906</guid>
+<guid isPermaLink="false">episode-202602120906</guid>
 <title>Love, Movies, and Money בינוני</title>
 <pubDate>Thu, 12 Feb 2026 09:06:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d256efa7f_legacy-1fSYyYixftrn4KOWEjjPHYvhgyVaq6hJX.mp3" type="audio/mpeg" length="5399659"/>
@@ -1138,7 +1139,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602120912</guid>
+<guid isPermaLink="false">episode-202602120912</guid>
 <title>Fun with Numbers: Understanding NaN! מתחילים</title>
 <pubDate>Thu, 12 Feb 2026 09:12:00 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d32e19517_legacy-1VmkNs8HFzDBNeheoAZKA5qa4VBRYWJvi.mp3" type="audio/mpeg" length="5283049"/>
@@ -1148,7 +1149,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 </item>
 
 <item>
-<guid>episode-202602250937</guid>
+<guid isPermaLink="false">episode-202602250937</guid>
 <title>Musical Moments &amp; Legal Giants בינוני</title>
 <pubDate>Wed, 25 Feb 2026 09:37:12 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ca07c336d_legacy-1WYD8GRQAX-j5dtKZ29Mnna0GVRJZdQrc.mp3" type="audio/mpeg" length="5737369"/>
@@ -1157,7 +1158,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <itunes:duration>00:04:30</itunes:duration>
 </item>
 <item>
-<guid>episode-202602250946-v2</guid>
+<guid isPermaLink="false">episode-202602250946-v2</guid>
 <title>Music, Money, and More מתקדמים</title>
 <pubDate>Wed, 25 Feb 2026 09:46:31 GMT</pubDate>
 <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/248361348_legacy-1Q223NP56gqNqWzt7_5R-oxstFxSje52Y.mp3" type="audio/mpeg" length="4534483"/>
@@ -1522,7 +1523,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     
 
     <item>
-        <guid>6ab52294975941adb3f16ca1</guid>
+        <guid isPermaLink="false">6ab52294975941adb3f16ca1</guid>
         <title>Learning Numbers: Understanding NaN מתחילים</title>
         <pubDate>Thu, 24 Sep 2026 13:16:04 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/27b73316d_episode-1790517261273-1.mp3" type="audio/mpeg" length="5825141"/>
@@ -1532,7 +1533,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab52398c3c9b756cb0f8b55</guid>
+        <guid isPermaLink="false">6ab52398c3c9b756cb0f8b55</guid>
         <title>Movies, Money, and More בינוני</title>
         <pubDate>Thu, 24 Sep 2026 13:20:24 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/96eb02ad2_episode-1790517251991-1.mp3" type="audio/mpeg" length="6999606"/>
@@ -1542,7 +1543,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab527260cebd5b2d6743559</guid>
+        <guid isPermaLink="false">6ab527260cebd5b2d6743559</guid>
         <title>Stories from the Big Screen מתקדמים</title>
         <pubDate>Thu, 24 Sep 2026 13:35:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b06a5f16a_episode-1790517240987-1.mp3" type="audio/mpeg" length="5732772"/>
@@ -1552,7 +1553,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab8954c4b04e50d94f073dd</guid>
+        <guid isPermaLink="false">6ab8954c4b04e50d94f073dd</guid>
         <title>The Golden Chapter מתחילים</title>
         <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7dca7edf8_episode-1790516677696-auto-1790481740184.mp3" type="audio/mpeg" length="8067492"/>
@@ -1562,7 +1563,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab8954c9cc9cfcd477bae7c</guid>
+        <guid isPermaLink="false">6ab8954c9cc9cfcd477bae7c</guid>
         <title>A New Chapter of Life בינוני</title>
         <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cbe373953_episode-1790516689613-auto-1790481739998.mp3" type="audio/mpeg" length="7112037"/>
@@ -1572,7 +1573,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab8954c7b2952e65480c75f</guid>
+        <guid isPermaLink="false">6ab8954c7b2952e65480c75f</guid>
         <title>A Fresh Look at Aging מתקדמים</title>
         <pubDate>Sun, 27 Sep 2026 04:02:20 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6acde17b_episode-1790516663500-auto-1790481740309.mp3" type="audio/mpeg" length="6810271"/>
@@ -1582,7 +1583,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab9e6d94439eea613cc5bfe</guid>
+        <guid isPermaLink="false">6ab9e6d94439eea613cc5bfe</guid>
         <title>Pop Stars, Tech Deals, and Music Returns מתחילים</title>
         <pubDate>Mon, 28 Sep 2026 04:02:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e2cd61e4f_episode-1790673649393-auto-1790568153365.mp3" type="audio/mpeg" length="9135377"/>
@@ -1592,7 +1593,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab9e6d9464ae718e1fb9787</guid>
+        <guid isPermaLink="false">6ab9e6d9464ae718e1fb9787</guid>
         <title>Music, Tech, and Magic on IFAL בינוני</title>
         <pubDate>Mon, 28 Sep 2026 04:02:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d81ea87fe_episode-1790673671806-auto-1790568153327.mp3" type="audio/mpeg" length="7417983"/>
@@ -1602,7 +1603,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adadc6d78ab335ef52d78b2</guid>
+        <guid isPermaLink="false">6adadc6d78ab335ef52d78b2</guid>
         <title>Tech Growth and TV Revivals מתקדמים</title>
         <pubDate>Fri, 23 Oct 2026 04:02:53 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ebf9579f9_episode-1792728182747-auto-1792728173714.mp3" type="audio/mpeg" length="6182495"/>
@@ -1617,7 +1618,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
 <lastBuildDate>Thu, 12 Nov 2026 05:03:46 GMT</lastBuildDate>
 
     <item>
-        <guid>6adadc6e020ed05539c15894</guid>
+        <guid isPermaLink="false">6adadc6e020ed05539c15894</guid>
         <title>Tech, Business, and TV News בינוני</title>
         <pubDate>Fri, 23 Oct 2026 04:02:54 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3aa7b52c4_episode-1792728183900-auto-1792728174316.mp3" type="audio/mpeg" length="7019249"/>
@@ -1631,7 +1632,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adadc713b1c315bc03887a1</guid>
+        <guid isPermaLink="false">6adadc713b1c315bc03887a1</guid>
         <title>Tech, TV Trends, and Business News מתחילים</title>
         <pubDate>Fri, 23 Oct 2026 04:02:57 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d15d6dc33_episode-1792728188903-auto-1792728177026.mp3" type="audio/mpeg" length="8809786"/>
@@ -1645,7 +1646,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adc2dc45617035e898b862f</guid>
+        <guid isPermaLink="false">6adc2dc45617035e898b862f</guid>
         <title>Nostalgia, Travel, and Inspiration בינוני</title>
         <pubDate>Sat, 24 Oct 2026 04:02:12 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/39e33e969_episode-1792814541787-auto-1792814532830.mp3" type="audio/mpeg" length="6483425"/>
@@ -1659,7 +1660,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adc2dc59cde8bb5265c33e4</guid>
+        <guid isPermaLink="false">6adc2dc59cde8bb5265c33e4</guid>
         <title>Nostalgia and New Adventures מתחילים</title>
         <pubDate>Sat, 24 Oct 2026 04:02:13 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1fdacd795_episode-1792814543834-auto-1792814532950.mp3" type="audio/mpeg" length="8594955"/>
@@ -1673,7 +1674,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adc2dc6be32947b8f66e891</guid>
+        <guid isPermaLink="false">6adc2dc6be32947b8f66e891</guid>
         <title>Toy Shops, Cruises, and Heartwarming Moments מתקדמים</title>
         <pubDate>Sat, 24 Oct 2026 04:02:14 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8b61237da_episode-1792814544142-auto-1792814534846.mp3" type="audio/mpeg" length="6493874"/>
@@ -1687,7 +1688,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6add8da71a3b0320bdc2067e</guid>
+        <guid isPermaLink="false">6add8da71a3b0320bdc2067e</guid>
         <title>Nostalgia and Heartwarming Moments מתקדמים</title>
         <pubDate>Sun, 25 Oct 2026 05:03:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9a20eae8d_episode-1792904624651-auto-1792904615701.mp3" type="audio/mpeg" length="5915001"/>
@@ -1701,7 +1702,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6add8da8a836ec5f10925281</guid>
+        <guid isPermaLink="false">6add8da8a836ec5f10925281</guid>
         <title>Nostalgia, Travel, and Kind Hearts בינוני</title>
         <pubDate>Sun, 25 Oct 2026 05:03:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b6401a7ea_episode-1792904625277-auto-1792904616018.mp3" type="audio/mpeg" length="6602962"/>
@@ -1715,7 +1716,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6add8da87dde8f91173c1c3a</guid>
+        <guid isPermaLink="false">6add8da87dde8f91173c1c3a</guid>
         <title>Local Legends and Starry Moments מתחילים</title>
         <pubDate>Sun, 25 Oct 2026 05:03:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2c69d9ddb_episode-1792904628936-auto-1792904616853.mp3" type="audio/mpeg" length="9049695"/>
@@ -1729,7 +1730,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adedf271cc907ce6e18795d</guid>
+        <guid isPermaLink="false">6adedf271cc907ce6e18795d</guid>
         <title>Movie Drama and Shopping Deals בינוני</title>
         <pubDate>Mon, 26 Oct 2026 05:03:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3ae6db95c_episode-1792991025361-auto-1792991015574.mp3" type="audio/mpeg" length="6772235"/>
@@ -1743,7 +1744,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adedf282aa4a0dec99b4c9e</guid>
+        <guid isPermaLink="false">6adedf282aa4a0dec99b4c9e</guid>
         <title>Movie Set Drama and Big Shopping Deals מתחילים</title>
         <pubDate>Mon, 26 Oct 2026 05:03:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f53cc0b6e_episode-1792991027506-auto-1792991016330.mp3" type="audio/mpeg" length="8123915"/>
@@ -1757,7 +1758,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6adedf28fe154ab56dd77f77</guid>
+        <guid isPermaLink="false">6adedf28fe154ab56dd77f77</guid>
         <title>Movie Drama and Election Deals מתקדמים</title>
         <pubDate>Mon, 26 Oct 2026 05:03:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c379198f3_episode-1792991026976-auto-1792991016737.mp3" type="audio/mpeg" length="7601048"/>
@@ -1771,7 +1772,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae031162e95117478cacff1</guid>
+        <guid isPermaLink="false">6ae031162e95117478cacff1</guid>
         <title>Tech Giants and New Opportunities מתקדמים</title>
         <pubDate>Tue, 27 Oct 2026 05:05:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ff5765e33_episode-1793077535666-auto-1793077525830.mp3" type="audio/mpeg" length="6964078"/>
@@ -1785,7 +1786,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae031163191385cc127940b</guid>
+        <guid isPermaLink="false">6ae031163191385cc127940b</guid>
         <title>Tech Giants and Big News בינוני</title>
         <pubDate>Tue, 27 Oct 2026 05:05:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8e0bf2b28_episode-1793077538942-auto-1793077526371.mp3" type="audio/mpeg" length="7045998"/>
@@ -1799,7 +1800,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae031149f73b0609c359390</guid>
+        <guid isPermaLink="false">6ae031149f73b0609c359390</guid>
         <title>Tech Giants and Big Moves מתחילים</title>
         <pubDate>Tue, 27 Oct 2026 05:05:24 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/af33bf248_episode-1793077536138-auto-1793077524517.mp3" type="audio/mpeg" length="7972196"/>
@@ -1813,7 +1814,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae181e524e4eafca56f5cd7</guid>
+        <guid isPermaLink="false">6ae181e524e4eafca56f5cd7</guid>
         <title>Fun Facts About the Israeli Parliament בינוני</title>
         <pubDate>Wed, 28 Oct 2026 05:02:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7377e6f6f_episode-1793163758932-auto-1793163749821.mp3" type="audio/mpeg" length="6630547"/>
@@ -1827,7 +1828,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae181e7484550a5a350566d</guid>
+        <guid isPermaLink="false">6ae181e7484550a5a350566d</guid>
         <title>Fun Facts About The Israeli Parliament מתקדמים</title>
         <pubDate>Wed, 28 Oct 2026 05:02:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/96b93ffdb_episode-1793163761038-auto-1793163751360.mp3" type="audio/mpeg" length="6752173"/>
@@ -1841,7 +1842,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae181e7e99c9982d08a8aee</guid>
+        <guid isPermaLink="false">6ae181e7e99c9982d08a8aee</guid>
         <title>Fun Facts About The Israeli Parliament מתחילים</title>
         <pubDate>Wed, 28 Oct 2026 05:02:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6b84bc320_episode-1793163762511-auto-1793163751087.mp3" type="audio/mpeg" length="8857434"/>
@@ -1855,7 +1856,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae2d386237dd61c5748eda8</guid>
+        <guid isPermaLink="false">6ae2d386237dd61c5748eda8</guid>
         <title>IFAL Daily Brief: Culture, Tech, and Economy מתקדמים</title>
         <pubDate>Thu, 29 Oct 2026 05:03:02 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f9c8601e7_episode-1793250188417-auto-1793250182269.mp3" type="audio/mpeg" length="5590247"/>
@@ -1869,7 +1870,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae2d386d0b3fe30c160bbbd</guid>
+        <guid isPermaLink="false">6ae2d386d0b3fe30c160bbbd</guid>
         <title>IFAL Daily News Digest מתחילים</title>
         <pubDate>Thu, 29 Oct 2026 05:03:02 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/826f4f7a2_episode-1793250189162-auto-1793250182014.mp3" type="audio/mpeg" length="6462527"/>
@@ -1883,7 +1884,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae2d38667144b7a97ff2c22</guid>
+        <guid isPermaLink="false">6ae2d38667144b7a97ff2c22</guid>
         <title>IFAL Daily: Tech, Theater, and More בינוני</title>
         <pubDate>Thu, 29 Oct 2026 05:03:02 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6fa112df3_episode-1793250189197-auto-1793250182720.mp3" type="audio/mpeg" length="6126070"/>
@@ -1897,7 +1898,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae425460eeb3891d3dae35b</guid>
+        <guid isPermaLink="false">6ae425460eeb3891d3dae35b</guid>
         <title>IFAL Daily News Digest מתחילים</title>
         <pubDate>Fri, 30 Oct 2026 05:04:06 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/36574f236_episode-1793336652992-auto-1793336645846.mp3" type="audio/mpeg" length="5865682"/>
@@ -1911,7 +1912,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae42547aeefcec33e13378c</guid>
+        <guid isPermaLink="false">6ae42547aeefcec33e13378c</guid>
         <title>Business, Culture, and Tech Updates מתקדמים</title>
         <pubDate>Fri, 30 Oct 2026 05:04:07 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0462256d1_episode-1793336653885-auto-1793336647202.mp3" type="audio/mpeg" length="6457930"/>
@@ -1925,7 +1926,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae425477286ccecabaffea8</guid>
+        <guid isPermaLink="false">6ae425477286ccecabaffea8</guid>
         <title>From Tech Deals to Coffee Success בינוני</title>
         <pubDate>Fri, 30 Oct 2026 05:04:07 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e39b0bf36_episode-1793336653825-auto-1793336647138.mp3" type="audio/mpeg" length="6616336"/>
@@ -1939,7 +1940,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae5768ee9316cd2b2221ce0</guid>
+        <guid isPermaLink="false">6ae5768ee9316cd2b2221ce0</guid>
         <title>Culture and Tech Updates בינוני</title>
         <pubDate>Sat, 31 Oct 2026 05:03:10 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9333625e7_episode-1793422996642-auto-1793422990345.mp3" type="audio/mpeg" length="6097649"/>
@@ -1953,7 +1954,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae5768e7e82f51a21c8447f</guid>
+        <guid isPermaLink="false">6ae5768e7e82f51a21c8447f</guid>
         <title>Inspiring Stories and Business Updates מתחילים</title>
         <pubDate>Sat, 31 Oct 2026 05:03:10 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4824fd646_episode-1793422997002-auto-1793422990079.mp3" type="audio/mpeg" length="6921865"/>
@@ -1967,7 +1968,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae5768f43a7851586d8d035</guid>
+        <guid isPermaLink="false">6ae5768f43a7851586d8d035</guid>
         <title>Inspiring Stories and Business Updates מתקדמים</title>
         <pubDate>Sat, 31 Oct 2026 05:03:11 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/22dd179e8_episode-1793422997530-auto-1793422991059.mp3" type="audio/mpeg" length="6053763"/>
@@ -1981,7 +1982,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae6c854afb85b590e3045f6</guid>
+        <guid isPermaLink="false">6ae6c854afb85b590e3045f6</guid>
         <title>Inspiring Stories and Business News מתחילים</title>
         <pubDate>Sun, 01 Nov 2026 05:04:20 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ac93cc762_episode-1793509466697-auto-1793509459891.mp3" type="audio/mpeg" length="6382279"/>
@@ -1995,7 +1996,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6af00277f283a75bf38f70a3</guid>
+        <guid isPermaLink="false">6af00277f283a75bf38f70a3</guid>
         <title>The Hollywood Comedy You Need to See מתחילים</title>
         <pubDate>Sun, 08 Nov 2026 05:02:47 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/48053f5c2_episode-1794217778030-auto-1794114167153.mp3" type="audio/mpeg" length="9409976"/>
@@ -2009,7 +2010,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aec0e7d2d37a757e2cb4b64</guid>
+        <guid isPermaLink="false">6aec0e7d2d37a757e2cb4b64</guid>
         <title>IFAL Daily Mix: Music, Tech, and Kindness מתקדמים</title>
         <pubDate>Thu, 05 Nov 2026 05:05:01 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2f4a80858_episode-1794217802171-auto-1793855100294.mp3" type="audio/mpeg" length="6590423"/>
@@ -2023,7 +2024,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aeabc562c4cb103f60720a4</guid>
+        <guid isPermaLink="false">6aeabc562c4cb103f60720a4</guid>
         <title>Culture, Tech, and Tunes מתחילים</title>
         <pubDate>Wed, 04 Nov 2026 05:02:14 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cc984ae72_episode-1794217802866-auto-1793768534127.mp3" type="audio/mpeg" length="7460614"/>
@@ -2037,7 +2038,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aeabc55183087bfbcd06be3</guid>
+        <guid isPermaLink="false">6aeabc55183087bfbcd06be3</guid>
         <title>90210 Drama and AI in the Workplace בינוני</title>
         <pubDate>Wed, 04 Nov 2026 05:02:13 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4b1e98887_episode-1794217802971-auto-1793768532809.mp3" type="audio/mpeg" length="7270025"/>
@@ -2051,7 +2052,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aeabc54dfc8f210ce45563e</guid>
+        <guid isPermaLink="false">6aeabc54dfc8f210ce45563e</guid>
         <title>From 90210 to AI at Work מתקדמים</title>
         <pubDate>Wed, 04 Nov 2026 05:02:12 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e8d9b0bb7_episode-1794217810955-auto-1793768532715.mp3" type="audio/mpeg" length="5729845"/>
@@ -2065,7 +2066,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae96ad016ef32a24b8580f0</guid>
+        <guid isPermaLink="false">6ae96ad016ef32a24b8580f0</guid>
         <title>IFAL: Tech, TV, and Deals! בינוני</title>
         <pubDate>Tue, 03 Nov 2026 05:02:08 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5100816fb_episode-1794217813099-auto-1793682128735.mp3" type="audio/mpeg" length="7741483"/>
@@ -2079,7 +2080,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae96ad07dd9003b851361a9</guid>
+        <guid isPermaLink="false">6ae96ad07dd9003b851361a9</guid>
         <title>IFAL Update: Tech, Deals, and TV News מתחילים</title>
         <pubDate>Tue, 03 Nov 2026 05:02:08 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ba75a888e_episode-1794217813169-auto-1793682128247.mp3" type="audio/mpeg" length="8362570"/>
@@ -2093,7 +2094,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae8194f9b39af788fed5e86</guid>
+        <guid isPermaLink="false">6ae8194f9b39af788fed5e86</guid>
         <title>Entertainment News and Shopping Trends מתחילים</title>
         <pubDate>Mon, 02 Nov 2026 05:02:07 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/44578ca88_episode-1794217823397-auto-1793595727827.mp3" type="audio/mpeg" length="8402694"/>
@@ -2107,7 +2108,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae96ad072836a6ae6727563</guid>
+        <guid isPermaLink="false">6ae96ad072836a6ae6727563</guid>
         <title>IFAL: From Tech Hacks to Shopping Deals מתקדמים</title>
         <pubDate>Tue, 03 Nov 2026 05:02:08 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/493ee0724_episode-1794217822034-auto-1793682128058.mp3" type="audio/mpeg" length="6495964"/>
@@ -2121,7 +2122,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae8194edb86dd22c7511cde</guid>
+        <guid isPermaLink="false">6ae8194edb86dd22c7511cde</guid>
         <title>Entertainment, Music, and Your Wallet מתקדמים</title>
         <pubDate>Mon, 02 Nov 2026 05:02:06 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5cd31f191_episode-1794217821499-auto-1793595726756.mp3" type="audio/mpeg" length="5788777"/>
@@ -2135,7 +2136,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae6c8549c75a7662655c0f4</guid>
+        <guid isPermaLink="false">6ae6c8549c75a7662655c0f4</guid>
         <title>Culture, Trade, and Tech Wins בינוני</title>
         <pubDate>Sun, 01 Nov 2026 05:04:20 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1f2265ee3_episode-1794217833721-auto-1793509460790.mp3" type="audio/mpeg" length="6490949"/>
@@ -2149,7 +2150,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae6c855d0619685a7d42fb6</guid>
+        <guid isPermaLink="false">6ae6c855d0619685a7d42fb6</guid>
         <title>Inspiring Stories and Business News מתקדמים</title>
         <pubDate>Sun, 01 Nov 2026 05:04:21 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/68f6be63f_episode-1794217833179-auto-1793509461417.mp3" type="audio/mpeg" length="5787105"/>
@@ -2163,7 +2164,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ae8194e6c25cc3bcd2d10c3</guid>
+        <guid isPermaLink="false">6ae8194e6c25cc3bcd2d10c3</guid>
         <title>IFAL News Update: From Pop Stars to Shopping בינוני</title>
         <pubDate>Mon, 02 Nov 2026 05:02:06 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9121ea571_episode-1794217834167-auto-1793595726371.mp3" type="audio/mpeg" length="7155922"/>
@@ -2177,7 +2178,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6af2a58582139ab6f5693692</guid>
+        <guid isPermaLink="false">6af2a58582139ab6f5693692</guid>
         <title>IFAL Weekly: Stars, Tech, and Books בינוני</title>
         <pubDate>Tue, 10 Nov 2026 05:03:01 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/bc776b23a_episode-1794286989767-auto-1794286981276.mp3" type="audio/mpeg" length="8204999"/>
@@ -2191,7 +2192,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab2842581c5f34b3b848cfc-v2</guid>
+        <guid isPermaLink="false">6ab2842581c5f34b3b848cfc-v2</guid>
         <title>From Music to Tech: Surprising Twists מתקדמים</title>
         <pubDate>Tue, 22 Sep 2026 13:35:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0667f1a46_b5067b27a_episode-1790144825260-1.mp3" type="audio/mpeg" length="4483910"/>
@@ -2205,7 +2206,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab280958c14feef125345c4-v2</guid>
+        <guid isPermaLink="false">6ab280958c14feef125345c4-v2</guid>
         <title>Famous Faces and Fresh Tunes בינוני</title>
         <pubDate>Tue, 22 Sep 2026 13:20:21 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e897792ea_181747814_episode-1790144814696-1.mp3" type="audio/mpeg" length="5564752"/>
@@ -2219,7 +2220,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab27f9365f5366b62c51241</guid>
+        <guid isPermaLink="false">6ab27f9365f5366b62c51241</guid>
         <title>Let&apos;s Understand NaN! מתחילים</title>
         <pubDate>Tue, 22 Sep 2026 13:16:03 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/968edd139_a94b8fb44_episode-1790144799499-1.mp3" type="audio/mpeg" length="4902705"/>
@@ -2233,7 +2234,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab1fd9733151e9fe4d8b292-v2</guid>
+        <guid isPermaLink="false">6ab1fd9733151e9fe4d8b292-v2</guid>
         <title>Big Business and Financial News מתקדמים</title>
         <pubDate>Tue, 22 Sep 2026 04:01:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5e87eb7d7_f6120df42_episode-1790144729445-auto-1790049687777.mp3" type="audio/mpeg" length="4026662"/>
@@ -2247,7 +2248,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab1fd97ebf30d73b5f3d3a5-v2</guid>
+        <guid isPermaLink="false">6ab1fd97ebf30d73b5f3d3a5-v2</guid>
         <title>IFAL News Update: Business and Market Trends בינוני</title>
         <pubDate>Tue, 22 Sep 2026 04:01:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/11c05cc01_440c9801f_episode-1790144693868-auto-1790049687363.mp3" type="audio/mpeg" length="4043381"/>
@@ -2261,7 +2262,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab1fd9673972a0de70dd50a-v2</guid>
+        <guid isPermaLink="false">6ab1fd9673972a0de70dd50a-v2</guid>
         <title>Market Moves and Media Deals מתחילים</title>
         <pubDate>Tue, 22 Sep 2026 04:01:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cadf321e9_a7d124e66_episode-1790144679927-auto-1790049686695.mp3" type="audio/mpeg" length="3736181"/>
@@ -2275,7 +2276,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab0ac3231e29eb0fe57b048-v2</guid>
+        <guid isPermaLink="false">6ab0ac3231e29eb0fe57b048-v2</guid>
         <title>Success Stories and Global News מתקדמים</title>
         <pubDate>Mon, 21 Sep 2026 04:01:54 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/38d505f34_90e80d5c1_episode-1790144627208-auto-1789963314570.mp3" type="audio/mpeg" length="4093118"/>
@@ -2289,7 +2290,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab0ac314b96e51fad76934c-v2</guid>
+        <guid isPermaLink="false">6ab0ac314b96e51fad76934c-v2</guid>
         <title>From Global Tech to Emmy Wins בינוני</title>
         <pubDate>Mon, 21 Sep 2026 04:01:53 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b2aa5c5d2_2238e96ff_episode-1790144617991-auto-1789963313793.mp3" type="audio/mpeg" length="4170440"/>
@@ -2303,7 +2304,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6ab0ac31042168e7c71139e9-v2</guid>
+        <guid isPermaLink="false">6ab0ac31042168e7c71139e9-v2</guid>
         <title>From Global Stages to Big News מתחילים</title>
         <pubDate>Mon, 21 Sep 2026 04:01:53 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/836b94b43_2bf3140cc_episode-1790144599083-auto-1789963313751.mp3" type="audio/mpeg" length="4618911"/>
@@ -2317,7 +2318,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aaf5abbe0e394c65d38a433-v2</guid>
+        <guid isPermaLink="false">6aaf5abbe0e394c65d38a433-v2</guid>
         <title>IFAL Weekly Update בינוני</title>
         <pubDate>Sun, 20 Sep 2026 04:02:03 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/136787f5e_413b46b26_episode-1789886270126-auto-1789876923360.mp3" type="audio/mpeg" length="4234806"/>
@@ -2331,7 +2332,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aaf5aba352c2b9b91359ed5-v2</guid>
+        <guid isPermaLink="false">6aaf5aba352c2b9b91359ed5-v2</guid>
         <title>IFAL Daily News: Life, Money, and Safety מתחילים</title>
         <pubDate>Sun, 20 Sep 2026 04:02:02 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/97bdfbfe3_0c95be889_episode-1789886221999-auto-1789876922109.mp3" type="audio/mpeg" length="3688115"/>
@@ -2345,7 +2346,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aaf5aba52962db8edfac9a3-v2</guid>
+        <guid isPermaLink="false">6aaf5aba52962db8edfac9a3-v2</guid>
         <title>IFAL Daily News: Life, Money, and Safety מתקדמים</title>
         <pubDate>Sun, 20 Sep 2026 04:02:02 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f6ab1ccdf_dc23254ae_episode-1789886244046-auto-1789876922044.mp3" type="audio/mpeg" length="2889813"/>
@@ -2359,7 +2360,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa8c323e8e9e7da6b381d8f-v2</guid>
+        <guid isPermaLink="false">6aa8c323e8e9e7da6b381d8f-v2</guid>
         <title>Israeli Cinema and Economic Updates מתקדמים</title>
         <pubDate>Tue, 15 Sep 2026 04:01:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a89c3c627_9ea17f252_episode-1789624944384-auto-1789444899374.mp3" type="audio/mpeg" length="4038783"/>
@@ -2373,7 +2374,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa8c321c348e281d0627bd2-v2</guid>
+        <guid isPermaLink="false">6aa8c321c348e281d0627bd2-v2</guid>
         <title>Business, Tech, and Cinema News בינוני</title>
         <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e525d8238_a0426a74c_episode-1789624925774-auto-1789444897615.mp3" type="audio/mpeg" length="3907962"/>
@@ -2387,7 +2388,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa8c3212cf806253b42bc73-v2</guid>
+        <guid isPermaLink="false">6aa8c3212cf806253b42bc73-v2</guid>
         <title>Business, Tech, and Cinema Trends מתחילים</title>
         <pubDate>Tue, 15 Sep 2026 04:01:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d38d40c63_de5612e17_episode-1789624921489-auto-1789444897368.mp3" type="audio/mpeg" length="4177546"/>
@@ -2401,7 +2402,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa771ea15917757aa5c0fc8-v2</guid>
+        <guid isPermaLink="false">6aa771ea15917757aa5c0fc8-v2</guid>
         <title>Tech, Space, and Voice Stars מתקדמים</title>
         <pubDate>Mon, 14 Sep 2026 04:02:50 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6c0c6376f_d93b09646_episode-1789624705984-auto-1789358570624.mp3" type="audio/mpeg" length="3604106"/>
@@ -2415,7 +2416,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa771e9f9158e7f51be1785-v2</guid>
+        <guid isPermaLink="false">6aa771e9f9158e7f51be1785-v2</guid>
         <title>Tech, Space, and Voiceovers בינוני</title>
         <pubDate>Mon, 14 Sep 2026 04:02:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/94a86d453_d4ff616cf_episode-1789624701374-auto-1789358568779.mp3" type="audio/mpeg" length="4256540"/>
@@ -2429,7 +2430,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa771e8660a05c0fdb7904b-v2</guid>
+        <guid isPermaLink="false">6aa771e8660a05c0fdb7904b-v2</guid>
         <title>Tech, Space, and Tomorrow מתחילים</title>
         <pubDate>Mon, 14 Sep 2026 04:02:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c82735692_69e1ccd2e_episode-1789624698449-auto-1789358568363.mp3" type="audio/mpeg" length="4784840"/>
@@ -2443,7 +2444,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa37d6d066bf9fe6e56b359-v2</guid>
+        <guid isPermaLink="false">6aa37d6d066bf9fe6e56b359-v2</guid>
         <title>IFAL: From Stage Lights to Big Wins מתקדמים</title>
         <pubDate>Fri, 11 Sep 2026 04:02:53 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ae0e1616c_4d6482067_episode-1789624486272-auto-1789099373442.mp3" type="audio/mpeg" length="3525947"/>
@@ -2457,7 +2458,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa37d6c939056ac4746dd8a-v2</guid>
+        <guid isPermaLink="false">6aa37d6c939056ac4746dd8a-v2</guid>
         <title>IFAL: Israeli Cultural Icons and Trends בינוני</title>
         <pubDate>Fri, 11 Sep 2026 04:02:52 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1db8be932_7d6f812de_episode-1789624481967-auto-1789099371845.mp3" type="audio/mpeg" length="3722388"/>
@@ -2471,7 +2472,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa37d6ba77ec20b9bf8f1d8-v2</guid>
+        <guid isPermaLink="false">6aa37d6ba77ec20b9bf8f1d8-v2</guid>
         <title>IFAL: Israeli Culture and Local News מתחילים</title>
         <pubDate>Fri, 11 Sep 2026 04:02:51 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/67afe45fe_6e7ba0467_episode-1789624472029-auto-1789099371554.mp3" type="audio/mpeg" length="4082669"/>
@@ -2485,7 +2486,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa2b22651c5f3315b37737b-v2</guid>
+        <guid isPermaLink="false">6aa2b22651c5f3315b37737b-v2</guid>
         <title>Surprises and Standpoints מתקדמים</title>
         <pubDate>Thu, 10 Sep 2026 13:35:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0c0ca94af_559e485ab_episode-1789052682254-1.mp3" type="audio/mpeg" length="5445216"/>
@@ -2499,7 +2500,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa2ae9e4576ce4c440fc913-v2</guid>
+        <guid isPermaLink="false">6aa2ae9e4576ce4c440fc913-v2</guid>
         <title>Unexpected Triumphs and Bold Voices בינוני</title>
         <pubDate>Thu, 10 Sep 2026 13:20:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/299654fe6_32151a2c4_episode-1789052652609-1.mp3" type="audio/mpeg" length="6613412"/>
@@ -2513,7 +2514,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa2ad8373b7e7ecaa5afb1d-v2</guid>
+        <guid isPermaLink="false">6aa2ad8373b7e7ecaa5afb1d-v2</guid>
         <title>5 Amazing Article Summaries! מתחילים</title>
         <pubDate>Thu, 10 Sep 2026 13:15:47 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0358b75f9_c9ff16ef5_episode-1789052585437-1.mp3" type="audio/mpeg" length="7251635"/>
@@ -2527,7 +2528,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa22c02f83029379b046aa7-v2</guid>
+        <guid isPermaLink="false">6aa22c02f83029379b046aa7-v2</guid>
         <title>Movies, Music, and More! מתקדמים</title>
         <pubDate>Thu, 10 Sep 2026 04:03:14 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5474ed225_9ec6ae803_episode-1789041651218-auto-1789012994364.mp3" type="audio/mpeg" length="3656768"/>
@@ -2541,7 +2542,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa22c01ea4800473f8e2fed-v2</guid>
+        <guid isPermaLink="false">6aa22c01ea4800473f8e2fed-v2</guid>
         <title>IFAL: Culture and Music Highlights בינוני</title>
         <pubDate>Thu, 10 Sep 2026 04:03:13 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4d265ef83_4ecc082e5_episode-1789041621309-auto-1789012993624.mp3" type="audio/mpeg" length="4073056"/>
@@ -2555,7 +2556,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa22c009ef4d56cd4973b0c-v2</guid>
+        <guid isPermaLink="false">6aa22c009ef4d56cd4973b0c-v2</guid>
         <title>IFAL: Cinema, Music, and Bites מתחילים</title>
         <pubDate>Thu, 10 Sep 2026 04:03:12 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b06e54ef5_c6717698f_episode-1789041596924-auto-1789012992762.mp3" type="audio/mpeg" length="4167097"/>
@@ -2569,7 +2570,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa0daa06ab45c84f3341fcc-v2</guid>
+        <guid isPermaLink="false">6aa0daa06ab45c84f3341fcc-v2</guid>
         <title>John Malkovich and the TV Drama בינוני</title>
         <pubDate>Wed, 09 Sep 2026 04:03:44 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8658f8e2a_63f31ed04_episode-1789042008531-auto-1788926624629.mp3" type="audio/mpeg" length="4165843"/>
@@ -2583,7 +2584,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa0daa07046b1478467e700-v2</guid>
+        <guid isPermaLink="false">6aa0daa07046b1478467e700-v2</guid>
         <title>IFAL: News and Updates מתקדמים</title>
         <pubDate>Wed, 09 Sep 2026 04:03:44 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3daa8f94b_23f0a9dce_episode-1789041976637-auto-1788926624557.mp3" type="audio/mpeg" length="3705670"/>
@@ -2597,7 +2598,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6aa0da9f70b8dee7b734c93e-v2</guid>
+        <guid isPermaLink="false">6aa0da9f70b8dee7b734c93e-v2</guid>
         <title>John Malkovich, Reality TV, and Big Business News מתחילים</title>
         <pubDate>Wed, 09 Sep 2026 04:03:43 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0e5d250bf_d5414440a_episode-1789041939842-auto-1788926623433.mp3" type="audio/mpeg" length="3341627"/>
@@ -2611,7 +2612,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a9f88e97d344fd51e75756c-v2</guid>
+        <guid isPermaLink="false">6a9f88e97d344fd51e75756c-v2</guid>
         <title>Culture, Cars, and Sweet Success מתקדמים</title>
         <pubDate>Tue, 08 Sep 2026 04:02:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5ac5980df_7e68fe100_episode-1789041343206-auto-1788840169280.mp3" type="audio/mpeg" length="4587146"/>
@@ -2625,7 +2626,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a9f88e84663004fdd49dfe8-v2</guid>
+        <guid isPermaLink="false">6a9f88e84663004fdd49dfe8-v2</guid>
         <title>Culture, Cars, and Sweet Success מתחילים</title>
         <pubDate>Tue, 08 Sep 2026 04:02:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e307e95ee_bfbed4940_episode-1789041258539-auto-1788840168425.mp3" type="audio/mpeg" length="4753493"/>
@@ -2639,7 +2640,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a9f88e87397cb060b30be76-v2</guid>
+        <guid isPermaLink="false">6a9f88e87397cb060b30be76-v2</guid>
         <title>Culture, Cars, and Sweet Honey בינוני</title>
         <pubDate>Tue, 08 Sep 2026 04:02:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5795d0eac_3162a4a90_episode-1789041144357-auto-1788840168313.mp3" type="audio/mpeg" length="4375240"/>
@@ -2653,7 +2654,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a9e65d28b7229a29cb915fb-v2</guid>
+        <guid isPermaLink="false">6a9e65d28b7229a29cb915fb-v2</guid>
         <title>Art and History in Jerusalem מתחילים</title>
         <pubDate>Mon, 07 Sep 2026 07:20:50 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/66f891884_a76dddfd4_episode-1789041103005-auto-1788765650485.mp3" type="audio/mpeg" length="4133242"/>
@@ -2667,7 +2668,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a9977bf9932d25220413942-v2</guid>
+        <guid isPermaLink="false">6a9977bf9932d25220413942-v2</guid>
         <title>Fun Highlights and New Ventures מתקדמים</title>
         <pubDate>Thu, 03 Sep 2026 13:35:59 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/95e094c5d_388ddc3d8_episode-1788685618912-1.mp3" type="audio/mpeg" length="5666734"/>
@@ -2681,7 +2682,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a997419eb44a4b832c81001-v2</guid>
+        <guid isPermaLink="false">6a997419eb44a4b832c81001-v2</guid>
         <title>Music, Dance, and Tasty Traditions בינוני</title>
         <pubDate>Thu, 03 Sep 2026 13:20:25 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/579c6509e_0a33211ce_episode-1788685594753-1.mp3" type="audio/mpeg" length="5075322"/>
@@ -2695,7 +2696,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a997308c8dea44e5c5a1720-v2</guid>
+        <guid isPermaLink="false">6a997308c8dea44e5c5a1720-v2</guid>
         <title>Unlocking English Mystery מתחילים</title>
         <pubDate>Thu, 03 Sep 2026 13:15:52 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7de87c5ed_2bbf72d5c_episode-1788685564850-1.mp3" type="audio/mpeg" length="5437693"/>
@@ -2709,7 +2710,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a96d4cfe85d32467f04053a-v2</guid>
+        <guid isPermaLink="false">6a96d4cfe85d32467f04053a-v2</guid>
         <title>Memories and Money Matters מתקדמים</title>
         <pubDate>Tue, 01 Sep 2026 13:36:15 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/68ab6eaf2_c275db1e9_episode-1788327983974-1.mp3" type="audio/mpeg" length="6149895"/>
@@ -2723,7 +2724,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a96d11f98acb58afc7e48f4-v2</guid>
+        <guid isPermaLink="false">6a96d11f98acb58afc7e48f4-v2</guid>
         <title>Money Talks and Shopping Sprees בינוני</title>
         <pubDate>Tue, 01 Sep 2026 13:20:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0c28c9f37_4ef244f71_episode-1788327939519-1.mp3" type="audio/mpeg" length="6108099"/>
@@ -2737,7 +2738,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a96cff45dea3ea1424c9439-v2</guid>
+        <guid isPermaLink="false">6a96cff45dea3ea1424c9439-v2</guid>
         <title>Learn English with Fun Stories! מתחילים</title>
         <pubDate>Tue, 01 Sep 2026 13:15:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b41302b1a_121114f18_episode-1788327909660-1.mp3" type="audio/mpeg" length="6475903"/>
@@ -2751,7 +2752,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a903d7a1346c36652f2d0d8-v2</guid>
+        <guid isPermaLink="false">6a903d7a1346c36652f2d0d8-v2</guid>
         <title>Music, Money, and More! מתקדמים</title>
         <pubDate>Thu, 27 Aug 2026 13:36:58 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/058591b5e_1ffe15dc4_episode-1788070614316-1.mp3" type="audio/mpeg" length="5302692"/>
@@ -2765,7 +2766,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a90399e322ca3ffc454e6a0</guid>
+        <guid isPermaLink="false">6a90399e322ca3ffc454e6a0</guid>
         <title>Music, Money &amp; Robots בינוני</title>
         <pubDate>Thu, 27 Aug 2026 13:20:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cd2dc662b_bb43839f2_episode-1788070585366-1.mp3" type="audio/mpeg" length="6366816"/>
@@ -2779,7 +2780,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a90388539e51ccc7d0e911f-v2</guid>
+        <guid isPermaLink="false">6a90388539e51ccc7d0e911f-v2</guid>
         <title>Understanding NaN in Math מתחילים</title>
         <pubDate>Thu, 27 Aug 2026 13:15:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5644f6d0a_a3b865940_episode-1788070553747-1.mp3" type="audio/mpeg" length="4352253"/>
@@ -2793,7 +2794,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a8d9b0a45835719bc5dfa02-v2</guid>
+        <guid isPermaLink="false">6a8d9b0a45835719bc5dfa02-v2</guid>
         <title>Intriguing Stories from Israel מתקדמים</title>
         <pubDate>Tue, 25 Aug 2026 13:39:22 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/83bde61ac_6cc8b1848_episode-1787731861421-1.mp3" type="audio/mpeg" length="5171871"/>
@@ -2807,7 +2808,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a8d96a042121b37aae83510-v2</guid>
+        <guid isPermaLink="false">6a8d96a042121b37aae83510-v2</guid>
         <title>Chasing Dreams and Navigating Realities בינוני</title>
         <pubDate>Tue, 25 Aug 2026 13:20:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ba3c0ee29_908a0310f_episode-1787731837192-1.mp3" type="audio/mpeg" length="6021999"/>
@@ -2821,7 +2822,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a8d95a03a1c4e75a0e8c200-v2</guid>
+        <guid isPermaLink="false">6a8d95a03a1c4e75a0e8c200-v2</guid>
         <title>Cracking the NaN Code! מתחילים</title>
         <pubDate>Tue, 25 Aug 2026 13:16:16 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9991bb2c2_734a91613_episode-1787731797181-1.mp3" type="audio/mpeg" length="5183573"/>
@@ -2835,7 +2836,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a845fea056cf7189e94ff2c-v2</guid>
+        <guid isPermaLink="false">6a845fea056cf7189e94ff2c-v2</guid>
         <title>Showtime Surprises and Future Tech מתקדמים</title>
         <pubDate>Tue, 18 Aug 2026 13:36:42 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8bf752acc_5104a39e5_episode-1787143544765-1.mp3" type="audio/mpeg" length="4397810"/>
@@ -2849,7 +2850,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a845c1b48e3d977937cd39b-v2</guid>
+        <guid isPermaLink="false">6a845c1b48e3d977937cd39b-v2</guid>
         <title>Exciting Musicals and AI Wonders בינוני</title>
         <pubDate>Tue, 18 Aug 2026 13:20:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0467fa735_47e609975_episode-1787143521402-1.mp3" type="audio/mpeg" length="6764295"/>
@@ -2863,7 +2864,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a845b284e257e898d5543c5-v2</guid>
+        <guid isPermaLink="false">6a845b284e257e898d5543c5-v2</guid>
         <title>Unlocking Easy English מתחילים</title>
         <pubDate>Tue, 18 Aug 2026 13:16:24 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4a592dcb8_389cfd1cf_episode-1787143491017-1.mp3" type="audio/mpeg" length="4768958"/>
@@ -2877,7 +2878,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7dc83696590b310073c54e-v2</guid>
+        <guid isPermaLink="false">6a7dc83696590b310073c54e-v2</guid>
         <title>Exciting Events and Surprising Twists מתקדמים</title>
         <pubDate>Thu, 13 Aug 2026 13:35:50 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/248c6c44c_a0bdb1b22_episode-1786879065027-1.mp3" type="audio/mpeg" length="5583560"/>
@@ -2891,7 +2892,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7dc4b15612dae2e24f71a3-v2</guid>
+        <guid isPermaLink="false">6a7dc4b15612dae2e24f71a3-v2</guid>
         <title>Exciting Changes in Tel Aviv! בינוני</title>
         <pubDate>Thu, 13 Aug 2026 13:20:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/824df3354_4c2d14122_episode-1786879015591-1.mp3" type="audio/mpeg" length="6193363"/>
@@ -2905,7 +2906,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7dc3a986c86c8968081f21-v2</guid>
+        <guid isPermaLink="false">6a7dc3a986c86c8968081f21-v2</guid>
         <title>Mastering English with IFAL מתחילים</title>
         <pubDate>Thu, 13 Aug 2026 13:16:25 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1b02a4332_f1b59681f_episode-1786878962522-1.mp3" type="audio/mpeg" length="5394225"/>
@@ -2919,7 +2920,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7b2524778c627e8efa8eb2-v2</guid>
+        <guid isPermaLink="false">6a7b2524778c627e8efa8eb2-v2</guid>
         <title>Stories of Challenge and Change מתקדמים</title>
         <pubDate>Tue, 11 Aug 2026 13:35:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7e754eafe_29359c96c_episode-1786534965983-1.mp3" type="audio/mpeg" length="4228955"/>
@@ -2933,7 +2934,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7b21a2e6b2e84652f86d5e-v2</guid>
+        <guid isPermaLink="false">6a7b21a2e6b2e84652f86d5e-v2</guid>
         <title>Stories from the Headlines בינוני</title>
         <pubDate>Tue, 11 Aug 2026 13:20:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b59d5ba7e_ad92570dc_episode-1786534865914-1.mp3" type="audio/mpeg" length="3956863"/>
@@ -2947,7 +2948,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a7b20a784c2a9eb2baf0818-v2</guid>
+        <guid isPermaLink="false">6a7b20a784c2a9eb2baf0818-v2</guid>
         <title>Learn English with Fun! מתחילים</title>
         <pubDate>Tue, 11 Aug 2026 13:16:23 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4b7f0ea14_25b820b04_episode-1786534746914-1.mp3" type="audio/mpeg" length="6487188"/>
@@ -2961,7 +2962,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a748dbb75ec9da234807420-v2</guid>
+        <guid isPermaLink="false">6a748dbb75ec9da234807420-v2</guid>
         <title>News You Can Use מתקדמים</title>
         <pubDate>Thu, 06 Aug 2026 13:35:55 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b2d557c95_8ddbd707f_episode-1786431502031-1.mp3" type="audio/mpeg" length="4864253"/>
@@ -2975,7 +2976,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a748a26e0f8ef0335338c35-v2</guid>
+        <guid isPermaLink="false">6a748a26e0f8ef0335338c35-v2</guid>
         <title>Hot Topics and Cool Tunes בינוני</title>
         <pubDate>Thu, 06 Aug 2026 13:20:38 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3a592baad_b7f6d6630_episode-1786431476076-1.mp3" type="audio/mpeg" length="5063201"/>
@@ -2989,7 +2990,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a748913db6ebd652cdd5172-v2</guid>
+        <guid isPermaLink="false">6a748913db6ebd652cdd5172-v2</guid>
         <title>Understanding NaN in Technology מתחילים</title>
         <pubDate>Thu, 06 Aug 2026 13:16:03 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4ef1eea2c_47b11783c_episode-1786431440257-1.mp3" type="audio/mpeg" length="5326515"/>
@@ -3003,7 +3004,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a6b5326e8488f7b7a70e0e0-v2</guid>
+        <guid isPermaLink="false">6a6b5326e8488f7b7a70e0e0-v2</guid>
         <title>Scandals and Songs מתקדמים</title>
         <pubDate>Thu, 30 Jul 2026 13:35:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5e70ee690_42ad48a6d_episode-1785738030282-1.mp3" type="audio/mpeg" length="4615149"/>
@@ -3017,7 +3018,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a6b4fa1b0841b3608bcca68-v2</guid>
+        <guid isPermaLink="false">6a6b4fa1b0841b3608bcca68-v2</guid>
         <title>Mystery and Music Revealed בינוני</title>
         <pubDate>Thu, 30 Jul 2026 13:20:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e988ac690_ab830135f_episode-1785737999156-1.mp3" type="audio/mpeg" length="5036034"/>
@@ -3031,7 +3032,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a6b4e96ea26161af8d16853-v2</guid>
+        <guid isPermaLink="false">6a6b4e96ea26161af8d16853-v2</guid>
         <title>Unlock English with IFAL! מתחילים</title>
         <pubDate>Thu, 30 Jul 2026 13:16:06 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2026ac1d4_3a7d6bdf9_episode-1785738966142-1.mp3" type="audio/mpeg" length="6195035"/>
@@ -3045,7 +3046,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a68b020fc086e774c0b2d6f-v2</guid>
+        <guid isPermaLink="false">6a68b020fc086e774c0b2d6f-v2</guid>
         <title>Exciting Festivals and New Beginnings מתקדמים</title>
         <pubDate>Tue, 28 Jul 2026 13:35:28 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c77ae520d_5b0075b99_episode-1785737895007-1.mp3" type="audio/mpeg" length="5727756"/>
@@ -3059,7 +3060,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a68acaa0bee00cbf2dad45f-v2</guid>
+        <guid isPermaLink="false">6a68acaa0bee00cbf2dad45f-v2</guid>
         <title>Festival Fun and TV Thrills בינוני</title>
         <pubDate>Tue, 28 Jul 2026 13:20:42 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/37f6c57ce_606250e00_episode-1785737868020-1.mp3" type="audio/mpeg" length="5117536"/>
@@ -3073,7 +3074,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a68ab9f638d8323fcc1eda4-v2</guid>
+        <guid isPermaLink="false">6a68ab9f638d8323fcc1eda4-v2</guid>
         <title>The Joy of Learning English מתחילים</title>
         <pubDate>Tue, 28 Jul 2026 13:16:15 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6bdf6159_3327aefbb_episode-1785737832958-1.mp3" type="audio/mpeg" length="2943312"/>
@@ -3087,7 +3088,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a62189a0990f1e7cb8f4e5f-v2</guid>
+        <guid isPermaLink="false">6a62189a0990f1e7cb8f4e5f-v2</guid>
         <title>News and Fun מתקדמים</title>
         <pubDate>Thu, 23 Jul 2026 13:35:22 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4e680871a_f7657ab3a_episode-1785737797702-1.mp3" type="audio/mpeg" length="5242506"/>
@@ -3101,7 +3102,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a621528d5b7dfcb90e014a3-v2</guid>
+        <guid isPermaLink="false">6a621528d5b7dfcb90e014a3-v2</guid>
         <title>Embarrassing Moments and Hollywood Lessons בינוני</title>
         <pubDate>Thu, 23 Jul 2026 13:20:40 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4aff69896_c2aaf4da3_episode-1785737761828-1.mp3" type="audio/mpeg" length="5737369"/>
@@ -3115,7 +3116,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a62141ea29513d390611d9c</guid>
+        <guid isPermaLink="false">6a62141ea29513d390611d9c</guid>
         <title>Let&apos;s Learn English Together! מתחילים</title>
         <pubDate>Thu, 23 Jul 2026 13:16:14 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2d402c6fb_97f990bf0_episode-1785737724632-1.mp3" type="audio/mpeg" length="5097474"/>
@@ -3129,7 +3130,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a5f75a29cc813d841d6f109-v2</guid>
+        <guid isPermaLink="false">6a5f75a29cc813d841d6f109-v2</guid>
         <title>Exciting Series and Events Ahead! מתקדמים</title>
         <pubDate>Tue, 21 Jul 2026 13:35:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e442a8d36_46ee15819_episode-1784806944606-1.mp3" type="audio/mpeg" length="4248181"/>
@@ -3143,7 +3144,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a5f721b736ea02bdbe7c41c-v2</guid>
+        <guid isPermaLink="false">6a5f721b736ea02bdbe7c41c-v2</guid>
         <title>Catch Up with the Latest Stories! בינוני</title>
         <pubDate>Tue, 21 Jul 2026 13:20:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8244cf1e9_a3fab15f6_episode-1784806920309-1.mp3" type="audio/mpeg" length="6056690"/>
@@ -3157,7 +3158,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a5f71268ef02c12bc45d0fc</guid>
+        <guid isPermaLink="false">6a5f71268ef02c12bc45d0fc</guid>
         <title>Let&apos;s Learn English Together! מתחילים</title>
         <pubDate>Tue, 21 Jul 2026 13:16:22 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6ce6898d6_ff1709821_episode-1784806890224-1.mp3" type="audio/mpeg" length="7073167"/>
@@ -3171,7 +3172,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a58de290bc8e87daff829ec-v2</guid>
+        <guid isPermaLink="false">6a58de290bc8e87daff829ec-v2</guid>
         <title>Stories of Comebacks and Surprises מתקדמים</title>
         <pubDate>Thu, 16 Jul 2026 13:35:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0d82365b9_46e70d961_episode-1784456795253-1.mp3" type="audio/mpeg" length="5191097"/>
@@ -3185,7 +3186,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a58daa262bf825562997ddd-v2</guid>
+        <guid isPermaLink="false">6a58daa262bf825562997ddd-v2</guid>
         <title>Stories of Success and Challenges בינוני</title>
         <pubDate>Thu, 16 Jul 2026 13:20:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f48a88268_4962c4a62_episode-1784456746368-1.mp3" type="audio/mpeg" length="5737369"/>
@@ -3199,7 +3200,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a58d9a3b60609595c95fb05-v2</guid>
+        <guid isPermaLink="false">6a58d9a3b60609595c95fb05-v2</guid>
         <title>Learn English with Fun Chats מתחילים</title>
         <pubDate>Thu, 16 Jul 2026 13:16:19 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/410db35e4_c3a12e67e_episode-1784456672769-1.mp3" type="audio/mpeg" length="5637059"/>
@@ -3213,7 +3214,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4fa3a05b43d74912ab5b11-v2</guid>
+        <guid isPermaLink="false">6a4fa3a05b43d74912ab5b11-v2</guid>
         <title>News That Kicked Off the Weekend מתקדמים</title>
         <pubDate>Thu, 09 Jul 2026 13:35:28 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d403ee7b6_78f92b3f4_episode-1785740029669-1.mp3" type="audio/mpeg" length="5048573"/>
@@ -3227,7 +3228,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4fa021d0f9c4413f38d5f5-v2</guid>
+        <guid isPermaLink="false">6a4fa021d0f9c4413f38d5f5-v2</guid>
         <title>News and Music: A Mix of Surprises! בינוני</title>
         <pubDate>Thu, 09 Jul 2026 13:20:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/208faef1c_74094f09b_episode-1785739759613-1.mp3" type="audio/mpeg" length="6054600"/>
@@ -3241,7 +3242,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4f9f29e0d7c916848addd9-v2</guid>
+        <guid isPermaLink="false">6a4f9f29e0d7c916848addd9-v2</guid>
         <title>Discovering English Fun! מתחילים</title>
         <pubDate>Thu, 09 Jul 2026 13:16:25 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9cb042b8c_bec3690a9_episode-1785739970346-1.mp3" type="audio/mpeg" length="5695155"/>
@@ -3255,7 +3256,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4d00b4f49ce3d49e7eff75-v2</guid>
+        <guid isPermaLink="false">6a4d00b4f49ce3d49e7eff75-v2</guid>
         <title>TV Buzz and Big Deals מתקדמים</title>
         <pubDate>Tue, 07 Jul 2026 13:35:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/38f2a22ef_556f88a10_episode-1783491671672-1.mp3" type="audio/mpeg" length="4445039"/>
@@ -3269,7 +3270,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4cfd29db56f8f1a04e0911-v2</guid>
+        <guid isPermaLink="false">6a4cfd29db56f8f1a04e0911-v2</guid>
         <title>Exciting World of TV and Music בינוני</title>
         <pubDate>Tue, 07 Jul 2026 13:20:41 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3fea42ece_407ce757a_episode-1783491646757-1.mp3" type="audio/mpeg" length="5448977"/>
@@ -3283,7 +3284,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4cfc2ad91258e859955d2d-v2</guid>
+        <guid isPermaLink="false">6a4cfc2ad91258e859955d2d-v2</guid>
         <title>Exploring the World of Numbers מתחילים</title>
         <pubDate>Tue, 07 Jul 2026 13:16:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8d7007c3d_64f0860cd_episode-1783491364204-1.mp3" type="audio/mpeg" length="5266329"/>
@@ -3297,7 +3298,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4669214df04ffcb0a9ed2c-v2</guid>
+        <guid isPermaLink="false">6a4669214df04ffcb0a9ed2c-v2</guid>
         <title>TV Comeback and Critic Glare מתקדמים</title>
         <pubDate>Thu, 02 Jul 2026 13:35:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/81a564157_fa4f94322_episode-1783228114562-1.mp3" type="audio/mpeg" length="5111684"/>
@@ -3311,7 +3312,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a4665b1e163df19fe69fa92</guid>
+        <guid isPermaLink="false">6a4665b1e163df19fe69fa92</guid>
         <title>Let&apos;s Talk TV Surprises בינוני</title>
         <pubDate>Thu, 02 Jul 2026 13:20:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6b439fe53_a06993d7a_episode-1783228081436-1.mp3" type="audio/mpeg" length="6805255"/>
@@ -3325,7 +3326,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a46649c4f90f3dc32982890-v2</guid>
+        <guid isPermaLink="false">6a46649c4f90f3dc32982890-v2</guid>
         <title>Learning English with Fun! מתחילים</title>
         <pubDate>Thu, 02 Jul 2026 13:16:12 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d37bd1306_fc555a536_episode-1783228040311-1.mp3" type="audio/mpeg" length="6810271"/>
@@ -3339,7 +3340,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a43c621ee282bebd67f2db7-v2</guid>
+        <guid isPermaLink="false">6a43c621ee282bebd67f2db7-v2</guid>
         <title>Life, Music, and Unseen Battles מתקדמים</title>
         <pubDate>Tue, 30 Jun 2026 13:35:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/99cb881ca_fe64ff0b2_episode-1782884133098-1.mp3" type="audio/mpeg" length="5364132"/>
@@ -3353,7 +3354,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a43c2b1f951a24a7f46d1fd-v2</guid>
+        <guid isPermaLink="false">6a43c2b1f951a24a7f46d1fd-v2</guid>
         <title>Art, Music, and Strong Voices בינוני</title>
         <pubDate>Tue, 30 Jun 2026 13:20:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6a2809f13_6a3b5b6e0_episode-1782884101673-1.mp3" type="audio/mpeg" length="6113115"/>
@@ -3367,7 +3368,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a43c1a1f41daa789bbab596-v2</guid>
+        <guid isPermaLink="false">6a43c1a1f41daa789bbab596-v2</guid>
         <title>Learning English Made Easy מתחילים</title>
         <pubDate>Tue, 30 Jun 2026 13:16:17 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e9baf9fae_203bdab20_episode-1782884060130-1.mp3" type="audio/mpeg" length="6744233"/>
@@ -3381,7 +3382,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3d2ea22f750d21565a6a85-v2</guid>
+        <guid isPermaLink="false">6a3d2ea22f750d21565a6a85-v2</guid>
         <title>Exciting World of TV, Careers, and AI מתקדמים</title>
         <pubDate>Thu, 25 Jun 2026 13:35:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cfa691235_e3db3e8e5_episode-1782629030224-1.mp3" type="audio/mpeg" length="5420138"/>
@@ -3395,7 +3396,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3d2b29db352eb4522e7c3e-v2</guid>
+        <guid isPermaLink="false">6a3d2b29db352eb4522e7c3e-v2</guid>
         <title>Exciting Shows and Career Paths בינוני</title>
         <pubDate>Thu, 25 Jun 2026 13:20:41 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/60aa20046_0047b35e4_episode-1782628998067-1.mp3" type="audio/mpeg" length="5340726"/>
@@ -3409,7 +3410,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3d2a103214918527664d1a-v2</guid>
+        <guid isPermaLink="false">6a3d2a103214918527664d1a-v2</guid>
         <title>All About NaN: Not a Number! מתחילים</title>
         <pubDate>Thu, 25 Jun 2026 13:16:00 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a7e4db020_5de003615_episode-1782628960375-1.mp3" type="audio/mpeg" length="5821379"/>
@@ -3423,7 +3424,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3a8ba2b772bfaddd0d6ba6-v2</guid>
+        <guid isPermaLink="false">6a3a8ba2b772bfaddd0d6ba6-v2</guid>
         <title>Exciting Stories in the World Today מתקדמים</title>
         <pubDate>Tue, 23 Jun 2026 13:35:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/84856ac71_e024e5e1c_episode-1782284094267-1.mp3" type="audio/mpeg" length="4394466"/>
@@ -3437,7 +3438,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3a882fc1bdeabd595b9586-v2</guid>
+        <guid isPermaLink="false">6a3a882fc1bdeabd595b9586-v2</guid>
         <title>Mystery Filming Uncovered! בינוני</title>
         <pubDate>Tue, 23 Jun 2026 13:20:47 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0499b7fe5_aa7a0e7a4_episode-1782284057849-1.mp3" type="audio/mpeg" length="4696233"/>
@@ -3451,7 +3452,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a3a8722c844b9d06b67dc27-v2</guid>
+        <guid isPermaLink="false">6a3a8722c844b9d06b67dc27-v2</guid>
         <title>Unlocking English Fun! מתחילים</title>
         <pubDate>Tue, 23 Jun 2026 13:16:18 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6475205fb_0f4f0550a_episode-1782284018434-1.mp3" type="audio/mpeg" length="5084099"/>
@@ -3465,7 +3466,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a33f424cfec4e3b88a651eb-v2</guid>
+        <guid isPermaLink="false">6a33f424cfec4e3b88a651eb-v2</guid>
         <title>Power, Films, and Fresh Starts מתקדמים</title>
         <pubDate>Thu, 18 Jun 2026 13:35:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/782dca0b0_64c90fad0_episode-1782017757522-1.mp3" type="audio/mpeg" length="5286391"/>
@@ -3479,7 +3480,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a33f0936687004411778794</guid>
+        <guid isPermaLink="false">6a33f0936687004411778794</guid>
         <title>Pixar&apos;s New Adventure בינוני</title>
         <pubDate>Thu, 18 Jun 2026 13:20:19 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b95eff815_c40cb74de_episode-1782021300145-1.mp3" type="audio/mpeg" length="8863286"/>
@@ -3493,7 +3494,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a33ef9b53862be8888dca2f-v2</guid>
+        <guid isPermaLink="false">6a33ef9b53862be8888dca2f-v2</guid>
         <title>Fun with Numbers! מתחילים</title>
         <pubDate>Thu, 18 Jun 2026 13:16:11 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0253acd5f_753f0dfe5_episode-1782017696477-1.mp3" type="audio/mpeg" length="6747159"/>
@@ -3507,7 +3508,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a31512369ad9e27804d51b3-v2</guid>
+        <guid isPermaLink="false">6a31512369ad9e27804d51b3-v2</guid>
         <title>Stories of Change and Connection מתקדמים</title>
         <pubDate>Tue, 16 Jun 2026 13:35:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/aaa81c566_7877fa855_episode-1781675704569-1.mp3" type="audio/mpeg" length="5409689"/>
@@ -3521,7 +3522,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a314d9f5cbea53deeff3b4e-v2</guid>
+        <guid isPermaLink="false">6a314d9f5cbea53deeff3b4e-v2</guid>
         <title>Exciting Times in Entertainment! בינוני</title>
         <pubDate>Tue, 16 Jun 2026 13:20:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e9f0da3d9_62ff4f1e9_episode-1781675676006-1.mp3" type="audio/mpeg" length="5591084"/>
@@ -3535,7 +3536,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a314c9f684c76fcad6cb226-v2</guid>
+        <guid isPermaLink="false">6a314c9f684c76fcad6cb226-v2</guid>
         <title>Exploring Language Fun מתחילים</title>
         <pubDate>Tue, 16 Jun 2026 13:16:15 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/356be3a69_1b94fc034_episode-1781675647870-1.mp3" type="audio/mpeg" length="6452079"/>
@@ -3549,7 +3550,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a2ab9abc1ebcdded5429543-v2</guid>
+        <guid isPermaLink="false">6a2ab9abc1ebcdded5429543-v2</guid>
         <title>Pop Culture and Much More! מתקדמים</title>
         <pubDate>Thu, 11 Jun 2026 13:35:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/de8075a49_c44aefa20_episode-1781416793414-1.mp3" type="audio/mpeg" length="4946173"/>
@@ -3563,7 +3564,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a2ab62639ea904fd0e985d8-v2</guid>
+        <guid isPermaLink="false">6a2ab62639ea904fd0e985d8-v2</guid>
         <title>A World of Stories and Surprises בינוני</title>
         <pubDate>Thu, 11 Jun 2026 13:20:38 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e177398c6_9dbbde9d8_episode-1781416718733-1.mp3" type="audio/mpeg" length="5462352"/>
@@ -3577,7 +3578,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a2ab515fbdf3c3a9f8b2793-v2</guid>
+        <guid isPermaLink="false">6a2ab515fbdf3c3a9f8b2793-v2</guid>
         <title>Unlock the Mystery of NaN! מתחילים</title>
         <pubDate>Thu, 11 Jun 2026 13:16:05 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/32616564b_385bd4153_episode-1781416686724-1.mp3" type="audio/mpeg" length="6565764"/>
@@ -3591,7 +3592,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a28169e4ba2d55da93f401e-v2</guid>
+        <guid isPermaLink="false">6a28169e4ba2d55da93f401e-v2</guid>
         <title>Music, Fame, and Fortune מתקדמים</title>
         <pubDate>Tue, 09 Jun 2026 13:35:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0baaeaace_23bf5b363_episode-1781073605693-1.mp3" type="audio/mpeg" length="4946591"/>
@@ -3605,7 +3606,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a281327a638150a76648068-v2</guid>
+        <guid isPermaLink="false">6a281327a638150a76648068-v2</guid>
         <title>Music and Money: New Songs and Big Dreams בינוני</title>
         <pubDate>Tue, 09 Jun 2026 13:20:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/15c28b5c3_1cbf580a5_episode-1781073579925-1.mp3" type="audio/mpeg" length="6335469"/>
@@ -3619,7 +3620,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a28120b80ab93fe5a78ff1e-v2</guid>
+        <guid isPermaLink="false">6a28120b80ab93fe5a78ff1e-v2</guid>
         <title>Learning with Fun מתחילים</title>
         <pubDate>Tue, 09 Jun 2026 13:15:55 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/09af4e980_a21e069e5_episode-1781073547499-1.mp3" type="audio/mpeg" length="6449990"/>
@@ -3633,7 +3634,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a217f1f598d7be615d5b6c6-v2</guid>
+        <guid isPermaLink="false">6a217f1f598d7be615d5b6c6-v2</guid>
         <title>Amazing Stories and Surprising Changes מתקדמים</title>
         <pubDate>Thu, 04 Jun 2026 13:35:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/48d686f8c_b9b2d9efe_episode-1780805983290-1.mp3" type="audio/mpeg" length="5373327"/>
@@ -3647,7 +3648,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a217bae074adbb5bf192886-v2</guid>
+        <guid isPermaLink="false">6a217bae074adbb5bf192886-v2</guid>
         <title>Movies, AI, and Money בינוני</title>
         <pubDate>Thu, 04 Jun 2026 13:20:46 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8cbeece10_f5d49f594_episode-1780805936201-1.mp3" type="audio/mpeg" length="7245784"/>
@@ -3661,7 +3662,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a217a7e0349cd724790d255-v2</guid>
+        <guid isPermaLink="false">6a217a7e0349cd724790d255-v2</guid>
         <title>Dive into English Fun! מתחילים</title>
         <pubDate>Thu, 04 Jun 2026 13:15:42 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e9bdf71cf_707895bda_episode-1780805904563-1.mp3" type="audio/mpeg" length="4840429"/>
@@ -3675,7 +3676,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1edc2f2c6ff4f732e66437-v2</guid>
+        <guid isPermaLink="false">6a1edc2f2c6ff4f732e66437-v2</guid>
         <title>Exciting News and Surprising Changes מתקדמים</title>
         <pubDate>Tue, 02 Jun 2026 13:35:43 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6d60aa9cd_2e1d25b04_episode-1780466260868-1.mp3" type="audio/mpeg" length="4532811"/>
@@ -3689,7 +3690,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1ed8b725da346e12ca32f6-v2</guid>
+        <guid isPermaLink="false">6a1ed8b725da346e12ca32f6-v2</guid>
         <title>Catchy Tunes and Big News בינוני</title>
         <pubDate>Tue, 02 Jun 2026 13:20:55 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f544c594d_4de3880da_episode-1780466219397-1.mp3" type="audio/mpeg" length="4545350"/>
@@ -3703,7 +3704,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1ed79b2fb84ee5176c9a8d-v2</guid>
+        <guid isPermaLink="false">6a1ed79b2fb84ee5176c9a8d-v2</guid>
         <title>Discover the NaN Mystery מתחילים</title>
         <pubDate>Tue, 02 Jun 2026 13:16:11 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/bcf00b6a9_b10383652_episode-1780466186384-1.mp3" type="audio/mpeg" length="5721905"/>
@@ -3717,7 +3718,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1844a7c17949cc2c0f6d73-v2</guid>
+        <guid isPermaLink="false">6a1844a7c17949cc2c0f6d73-v2</guid>
         <title>Diving into Dreams מתקדמים</title>
         <pubDate>Thu, 28 May 2026 13:35:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e573af041_071805f96_episode-1780201955312-1.mp3" type="audio/mpeg" length="5131746"/>
@@ -3731,7 +3732,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1841162dc53ad39b4152fb-v2</guid>
+        <guid isPermaLink="false">6a1841162dc53ad39b4152fb-v2</guid>
         <title>Stories of Success בינוני</title>
         <pubDate>Thu, 28 May 2026 13:20:22 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/28c0db7e8_1033b47d6_episode-1780201926520-1.mp3" type="audio/mpeg" length="4954114"/>
@@ -3745,7 +3746,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a1840116ed4bd81abe78153-v2</guid>
+        <guid isPermaLink="false">6a1840116ed4bd81abe78153-v2</guid>
         <title>Exploring Fun Topics! מתחילים</title>
         <pubDate>Thu, 28 May 2026 13:16:01 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d9aaaae95_bf4f77735_episode-1780201893068-1.mp3" type="audio/mpeg" length="4986715"/>
@@ -3759,7 +3760,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a15a1a03ea1b473213d344c-v2</guid>
+        <guid isPermaLink="false">6a15a1a03ea1b473213d344c-v2</guid>
         <title>Pop Stars Unite! מתקדמים</title>
         <pubDate>Tue, 26 May 2026 13:35:28 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d3c72f044_1772bb90f_episode-1779857933155-1.mp3" type="audio/mpeg" length="5682199"/>
@@ -3773,7 +3774,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a159e1a995759edd77edae8-v2</guid>
+        <guid isPermaLink="false">6a159e1a995759edd77edae8-v2</guid>
         <title>Pop Power Showdown! בינוני</title>
         <pubDate>Tue, 26 May 2026 13:20:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1628fbd6b_fc7956810_episode-1779857900628-1.mp3" type="audio/mpeg" length="6058362"/>
@@ -3787,7 +3788,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a159cf43fe3d2f6e1861666</guid>
+        <guid isPermaLink="false">6a159cf43fe3d2f6e1861666</guid>
         <title>Let&apos;s Explore Number Concepts! מתחילים</title>
         <pubDate>Tue, 26 May 2026 13:15:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/02985d5e1_f670199a0_episode-1779857845871-1.mp3" type="audio/mpeg" length="4477222"/>
@@ -3801,7 +3802,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0f0a20b0963369671d0e0e-v2</guid>
+        <guid isPermaLink="false">6a0f0a20b0963369671d0e0e-v2</guid>
         <title>Cannes, Books, and Big Events! מתקדמים</title>
         <pubDate>Thu, 21 May 2026 13:35:28 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/823ecd75c_1c11edb72_episode-1779596065813-1.mp3" type="audio/mpeg" length="4762271"/>
@@ -3815,7 +3816,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0f069eae6cd666ed3bf36f-v2</guid>
+        <guid isPermaLink="false">6a0f069eae6cd666ed3bf36f-v2</guid>
         <title>A Festival of Stories בינוני</title>
         <pubDate>Thu, 21 May 2026 13:20:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a0748cc93_cf887cb3f_episode-1779596038135-1.mp3" type="audio/mpeg" length="6538179"/>
@@ -3829,7 +3830,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0f0581c79ddf75a465f14f-v2</guid>
+        <guid isPermaLink="false">6a0f0581c79ddf75a465f14f-v2</guid>
         <title>Discover the Power of Learning English מתחילים</title>
         <pubDate>Thu, 21 May 2026 13:15:45 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c97a50ce8_3ebac6168_episode-1779595999614-1.mp3" type="audio/mpeg" length="4608044"/>
@@ -3843,7 +3844,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0c6728d2301cf4dd70603a-v2</guid>
+        <guid isPermaLink="false">6a0c6728d2301cf4dd70603a-v2</guid>
         <title>Songs, Dogs, and Docu-dramas מתקדמים</title>
         <pubDate>Tue, 19 May 2026 13:35:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7c9c7ff72_b7b268eaa_episode-1779259466983-1.mp3" type="audio/mpeg" length="3817265"/>
@@ -3857,7 +3858,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0c63a1ef6390601555037c-v2</guid>
+        <guid isPermaLink="false">6a0c63a1ef6390601555037c-v2</guid>
         <title>New Doc Wins, Chefs Change Show, and Canine Heroes בינוני</title>
         <pubDate>Tue, 19 May 2026 13:20:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/42972f15b_fc4fd43ec_episode-1779259436734-1.mp3" type="audio/mpeg" length="5160586"/>
@@ -3871,7 +3872,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a0c6287879bf8887c4322b4-v2</guid>
+        <guid isPermaLink="false">6a0c6287879bf8887c4322b4-v2</guid>
         <title>Exploring Language Fun מתחילים</title>
         <pubDate>Tue, 19 May 2026 13:15:51 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/2a5c0bc9b_07b44b63d_episode-1779259399810-1.mp3" type="audio/mpeg" length="5507910"/>
@@ -3885,7 +3886,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a05cf9f1fc9ad07ba94d2f9-v2</guid>
+        <guid isPermaLink="false">6a05cf9f1fc9ad07ba94d2f9-v2</guid>
         <title>From Books to Bids מתקדמים</title>
         <pubDate>Thu, 14 May 2026 13:35:27 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/bf70ea467_50d88f016_episode-1779078153550-1.mp3" type="audio/mpeg" length="6500981"/>
@@ -3899,7 +3900,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a05cc2c34b8f1dd948d540d-v2</guid>
+        <guid isPermaLink="false">6a05cc2c34b8f1dd948d540d-v2</guid>
         <title>Wild Rides and New Chapters בינוני</title>
         <pubDate>Thu, 14 May 2026 13:20:44 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/412278aa5_a1853a184_episode-1779078121998-1.mp3" type="audio/mpeg" length="9436308"/>
@@ -3913,7 +3914,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6a05cb0ecca8755a7d4d3d6c-v2</guid>
+        <guid isPermaLink="false">6a05cb0ecca8755a7d4d3d6c-v2</guid>
         <title>Understanding NaN in Math מתחילים</title>
         <pubDate>Thu, 14 May 2026 13:15:58 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cbd2bd6bb_d1b79fc93_episode-1779078083874-1.mp3" type="audio/mpeg" length="5555975"/>
@@ -3927,7 +3928,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69fc95271d796e417756caac-v2</guid>
+        <guid isPermaLink="false">69fc95271d796e417756caac-v2</guid>
         <title>Surprising Success Stories מתקדמים</title>
         <pubDate>Thu, 07 May 2026 13:35:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/768f5251c_033fd328b_episode-1778387189618-1.mp3" type="audio/mpeg" length="5703933"/>
@@ -3941,7 +3942,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69fc919fd6157d0080bde395-v2</guid>
+        <guid isPermaLink="false">69fc919fd6157d0080bde395-v2</guid>
         <title>Stories of Success and Surprises בינוני</title>
         <pubDate>Thu, 07 May 2026 13:20:31 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/51628d396_b8397ef74_episode-1778387154243-1.mp3" type="audio/mpeg" length="5259642"/>
@@ -3955,7 +3956,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69fc909692dcc072c3e3d01d-v2</guid>
+        <guid isPermaLink="false">69fc909692dcc072c3e3d01d-v2</guid>
         <title>Welcome to IFAL: English Fun for All! מתחילים</title>
         <pubDate>Thu, 07 May 2026 13:16:06 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/23b964577_7121b9eab_episode-1778387126868-1.mp3" type="audio/mpeg" length="6152821"/>
@@ -3969,7 +3970,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f9f229646420bfc8bc7b65-v2</guid>
+        <guid isPermaLink="false">69f9f229646420bfc8bc7b65-v2</guid>
         <title>Mystery Unveiled and Victories Celebrated מתקדמים</title>
         <pubDate>Tue, 05 May 2026 13:35:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/20280d714_a63df93ef_episode-1778045600549-1.mp3" type="audio/mpeg" length="4441278"/>
@@ -3983,7 +3984,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f9ee9d90df293d0dc4334a-v2</guid>
+        <guid isPermaLink="false">69f9ee9d90df293d0dc4334a-v2</guid>
         <title>Mysteries Unveiled בינוני</title>
         <pubDate>Tue, 05 May 2026 13:20:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4bfcfec2f_503a7ea76_episode-1778045572510-1.mp3" type="audio/mpeg" length="4805738"/>
@@ -3997,7 +3998,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f9ed8ae2f40c1da2af0701-v2</guid>
+        <guid isPermaLink="false">69f9ed8ae2f40c1da2af0701-v2</guid>
         <title>Unlocking Learning Power מתחילים</title>
         <pubDate>Tue, 05 May 2026 13:15:54 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/51782d122_8b3863d23_episode-1778045532251-1.mp3" type="audio/mpeg" length="4029170"/>
@@ -4011,7 +4012,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f35aa53b378208b4de6c17-v2</guid>
+        <guid isPermaLink="false">69f35aa53b378208b4de6c17-v2</guid>
         <title>Hollywood Dreams and Surprising Headlines מתקדמים</title>
         <pubDate>Thu, 30 Apr 2026 13:35:33 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/77ff298f0_9fb055b8a_episode-1777782410318-1.mp3" type="audio/mpeg" length="6760533"/>
@@ -4025,7 +4026,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f35722218852fc75adf672-v2</guid>
+        <guid isPermaLink="false">69f35722218852fc75adf672-v2</guid>
         <title>Hollywood Dreams and AI בינוני</title>
         <pubDate>Thu, 30 Apr 2026 13:20:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d1354b61f_1b2bd4c67_episode-1777782381101-1.mp3" type="audio/mpeg" length="5403838"/>
@@ -4039,7 +4040,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69f3560c57a16e8a22a217b8-v2</guid>
+        <guid isPermaLink="false">69f3560c57a16e8a22a217b8-v2</guid>
         <title>Exploring the World of Numbers מתחילים</title>
         <pubDate>Thu, 30 Apr 2026 13:15:56 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7ac40ad28_13b63f9b4_episode-1777782351799-1.mp3" type="audio/mpeg" length="5655449"/>
@@ -4053,7 +4054,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ea202d13c8bebc97cfa37a-v2</guid>
+        <guid isPermaLink="false">69ea202d13c8bebc97cfa37a-v2</guid>
         <title>A World of Music and TV מתקדמים</title>
         <pubDate>Thu, 23 Apr 2026 13:35:41 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/1825f63e7_f049ad7ec_episode-1777176808123-1.mp3" type="audio/mpeg" length="5236654"/>
@@ -4067,7 +4068,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ea1ca2b2562e5f19899eef-v2</guid>
+        <guid isPermaLink="false">69ea1ca2b2562e5f19899eef-v2</guid>
         <title>Music, Movies and More! בינוני</title>
         <pubDate>Thu, 23 Apr 2026 13:20:34 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5b7320d65_f28434ab5_episode-1777176763769-1.mp3" type="audio/mpeg" length="5853980"/>
@@ -4081,7 +4082,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ea1b8576872607be732e8a-v2</guid>
+        <guid isPermaLink="false">69ea1b8576872607be732e8a-v2</guid>
         <title>Discover the World of Numbers מתחילים</title>
         <pubDate>Thu, 23 Apr 2026 13:15:49 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c3c8baed6_cc05a2838_episode-1777176734613-1.mp3" type="audio/mpeg" length="5119208"/>
@@ -4095,7 +4096,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e77d2ec71d211a05110e6d-v2</guid>
+        <guid isPermaLink="false">69e77d2ec71d211a05110e6d-v2</guid>
         <title>Lost Stories and Missing Outfits מתקדמים</title>
         <pubDate>Tue, 21 Apr 2026 13:35:42 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d3b3194fd_e495ea592_episode-1776917987552-1.mp3" type="audio/mpeg" length="4561232"/>
@@ -4109,7 +4110,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e779abb57488d5da4f0fa6-v2</guid>
+        <guid isPermaLink="false">69e779abb57488d5da4f0fa6-v2</guid>
         <title>Lost and Found: Stars and Stories בינוני</title>
         <pubDate>Tue, 21 Apr 2026 13:20:43 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0cd859349_f51ee57b9_episode-1776917960959-1.mp3" type="audio/mpeg" length="5419302"/>
@@ -4123,7 +4124,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e778844a4e73aa5c686bd4-v2</guid>
+        <guid isPermaLink="false">69e778844a4e73aa5c686bd4-v2</guid>
         <title>Boost Your English Skills! מתחילים</title>
         <pubDate>Tue, 21 Apr 2026 13:15:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7b64fb3a6_942740dd4_episode-1776917928293-1.mp3" type="audio/mpeg" length="7713898"/>
@@ -4137,7 +4138,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e0e5ad94c4a43095e2bd12-v2</guid>
+        <guid isPermaLink="false">69e0e5ad94c4a43095e2bd12-v2</guid>
         <title>Unveiling AI in Cinema מתקדמים</title>
         <pubDate>Thu, 16 Apr 2026 13:35:41 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/984c68273_6b0e32c06_episode-1776571598543-1.mp3" type="audio/mpeg" length="6276119"/>
@@ -4151,7 +4152,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e0e21d4f493c16fc7f461b-v2</guid>
+        <guid isPermaLink="false">69e0e21d4f493c16fc7f461b-v2</guid>
         <title>Lights, Music, and Surprises בינוני</title>
         <pubDate>Thu, 16 Apr 2026 13:20:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/44af53871_96d862059_episode-1776571566098-1.mp3" type="audio/mpeg" length="6047913"/>
@@ -4165,7 +4166,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69e0e0fc168b8b037ce6f615-v2</guid>
+        <guid isPermaLink="false">69e0e0fc168b8b037ce6f615-v2</guid>
         <title>Exploring Language Adventures מתחילים</title>
         <pubDate>Thu, 16 Apr 2026 13:15:40 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/9ccdc0e5b_e106c48ee_episode-1776571530649-1.mp3" type="audio/mpeg" length="5049408"/>
@@ -4179,7 +4180,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d7ab2b289d71f4e4d6482c-v2</guid>
+        <guid isPermaLink="false">69d7ab2b289d71f4e4d6482c-v2</guid>
         <title>Music, Theater, and Changing Tunes מתקדמים</title>
         <pubDate>Thu, 09 Apr 2026 13:35:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cadf9feae_a09819fbb_episode-1776055136094-1.mp3" type="audio/mpeg" length="5346577"/>
@@ -4193,7 +4194,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d7a7ade3100c7ec91db016</guid>
+        <guid isPermaLink="false">69d7a7ade3100c7ec91db016</guid>
         <title>New Faces &amp; Big Stages בינוני</title>
         <pubDate>Thu, 09 Apr 2026 13:20:45 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4ca56d0a8_43fc4ddbd_episode-1776055106469-1.mp3" type="audio/mpeg" length="5782091"/>
@@ -4207,7 +4208,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d7a672ca50d918b816fe32-v2</guid>
+        <guid isPermaLink="false">69d7a672ca50d918b816fe32-v2</guid>
         <title>Learning English with Fun מתחילים</title>
         <pubDate>Thu, 09 Apr 2026 13:15:30 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7da1dc054_4176e3e9f_episode-1776055072925-1.mp3" type="audio/mpeg" length="4725908"/>
@@ -4221,7 +4222,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d5082a02f25696f43c0f74-v2</guid>
+        <guid isPermaLink="false">69d5082a02f25696f43c0f74-v2</guid>
         <title>Hot Topics and World Stories מתקדמים</title>
         <pubDate>Tue, 07 Apr 2026 13:35:38 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ffd03efdd_f666c18c1_episode-1775712942483-1.mp3" type="audio/mpeg" length="5748654"/>
@@ -4235,7 +4236,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d504af2b729531c1bc4a3f-v2</guid>
+        <guid isPermaLink="false">69d504af2b729531c1bc4a3f-v2</guid>
         <title>Stars, Stories, and Surprises בינוני</title>
         <pubDate>Tue, 07 Apr 2026 13:20:47 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/711b74844_35ee06105_episode-1775712894793-1.mp3" type="audio/mpeg" length="4983789"/>
@@ -4249,7 +4250,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69d50377dfcd03f843e6e171-v2</guid>
+        <guid isPermaLink="false">69d50377dfcd03f843e6e171-v2</guid>
         <title>Learn English with Fun Stories! מתחילים</title>
         <pubDate>Tue, 07 Apr 2026 13:15:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/a72530e01_b65cac28b_episode-1775712855300-1.mp3" type="audio/mpeg" length="4321742"/>
@@ -4263,7 +4264,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ce70a12b9193c9075a5084-v2</guid>
+        <guid isPermaLink="false">69ce70a12b9193c9075a5084-v2</guid>
         <title>Remembering Music Legends מתקדמים</title>
         <pubDate>Thu, 02 Apr 2026 13:35:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7a251fedd_902b35084_episode-1775375227576-1.mp3" type="audio/mpeg" length="4150796"/>
@@ -4277,7 +4278,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ce6d0ebe50024f6c37a659-v2</guid>
+        <guid isPermaLink="false">69ce6d0ebe50024f6c37a659-v2</guid>
         <title>Drama, Deals, and Discoveries בינוני</title>
         <pubDate>Thu, 02 Apr 2026 13:20:14 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ca13c9fe8_222621b58_episode-1775375202337-1.mp3" type="audio/mpeg" length="5981875"/>
@@ -4291,7 +4292,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69ce6be7b18dab3b40c41271-v2</guid>
+        <guid isPermaLink="false">69ce6be7b18dab3b40c41271-v2</guid>
         <title>Exploring the World of NaN מתחילים</title>
         <pubDate>Thu, 02 Apr 2026 13:15:19 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d8761cfe6_038b1c89b_episode-1775375172295-1.mp3" type="audio/mpeg" length="4962891"/>
@@ -4305,7 +4306,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69cbcda8b24333be4f9d129b-v2</guid>
+        <guid isPermaLink="false">69cbcda8b24333be4f9d129b-v2</guid>
         <title>Songs, Shows, and Surprises מתקדמים</title>
         <pubDate>Tue, 31 Mar 2026 13:35:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/35630857a_09964bcd6_episode-1775023637510-1.mp3" type="audio/mpeg" length="5334457"/>
@@ -4319,7 +4320,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69cbca28629d55a8ca9b8be4</guid>
+        <guid isPermaLink="false">69cbca28629d55a8ca9b8be4</guid>
         <title>What&apos;s New on Your Screen בינוני</title>
         <pubDate>Tue, 31 Mar 2026 13:20:40 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/176e27fb5_a76821aa8_episode-1775023608171-1.mp3" type="audio/mpeg" length="3718626"/>
@@ -4333,7 +4334,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69cbc9065df4f45f897f6f6e-v2</guid>
+        <guid isPermaLink="false">69cbc9065df4f45f897f6f6e-v2</guid>
         <title>Mastering Numbers in English מתחילים</title>
         <pubDate>Tue, 31 Mar 2026 13:15:50 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/23eebda13_ed5581808_episode-1775023578815-1.mp3" type="audio/mpeg" length="7316837"/>
@@ -4347,7 +4348,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69c2a1374e72379d1bc0b22b-v2</guid>
+        <guid isPermaLink="false">69c2a1374e72379d1bc0b22b-v2</guid>
         <title>TV Shows and Comedy Drama מתקדמים</title>
         <pubDate>Tue, 24 Mar 2026 14:35:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e0a7f8ba4_59da65c68_episode-1774515673569-1.mp3" type="audio/mpeg" length="4745970"/>
@@ -4361,7 +4362,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69c29dbeb28d24b73f08105d-v2</guid>
+        <guid isPermaLink="false">69c29dbeb28d24b73f08105d-v2</guid>
         <title>Hot Topics: TV, Comedy, and Global Changes! בינוני</title>
         <pubDate>Tue, 24 Mar 2026 14:20:46 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6ccc13249_09a13d5df_episode-1774515634011-1.mp3" type="audio/mpeg" length="6215933"/>
@@ -4375,7 +4376,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69c29c84542f9ce38032a7e3-v2</guid>
+        <guid isPermaLink="false">69c29c84542f9ce38032a7e3-v2</guid>
         <title>Exploring World Adventures Together מתחילים</title>
         <pubDate>Tue, 24 Mar 2026 14:15:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ca0a88260_58db4ac15_episode-1774515568946-1.mp3" type="audio/mpeg" length="4054248"/>
@@ -4389,7 +4390,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b966bef7440b1fc0587490-v2</guid>
+        <guid isPermaLink="false">69b966bef7440b1fc0587490-v2</guid>
         <title>Surprising Twists from Around the World מתקדמים</title>
         <pubDate>Tue, 17 Mar 2026 14:35:42 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0cd3ec919_a27ae07cb_episode-1774157674877-1.mp3" type="audio/mpeg" length="4613059"/>
@@ -4403,7 +4404,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b9633e873c804cf08c5cf0-v2</guid>
+        <guid isPermaLink="false">69b9633e873c804cf08c5cf0-v2</guid>
         <title>Amazing Stories Around the World בינוני</title>
         <pubDate>Tue, 17 Mar 2026 14:20:46 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/0b4ccb179_00d865c22_episode-1774157589495-1.mp3" type="audio/mpeg" length="7456017"/>
@@ -4417,7 +4418,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b96214f5ce2153c651e2c1-v2</guid>
+        <guid isPermaLink="false">69b96214f5ce2153c651e2c1-v2</guid>
         <title>Understanding NaN in English מתחילים</title>
         <pubDate>Tue, 17 Mar 2026 14:15:48 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/837dd6d30_11438cb94_episode-1774157533291-1.mp3" type="audio/mpeg" length="3766692"/>
@@ -4431,7 +4432,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b2cf418123563ef6ef7b80-v2</guid>
+        <guid isPermaLink="false">69b2cf418123563ef6ef7b80-v2</guid>
         <title>Hollywood Sparkles and Surprises מתקדמים</title>
         <pubDate>Thu, 12 Mar 2026 14:35:45 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/45140deb0_bb2c89658_episode-1773561721732-1.mp3" type="audio/mpeg" length="5008448"/>
@@ -4445,7 +4446,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b2cbb62662c8107f6e9747-v2</guid>
+        <guid isPermaLink="false">69b2cbb62662c8107f6e9747-v2</guid>
         <title>Lights, Camera, Action! בינוני</title>
         <pubDate>Thu, 12 Mar 2026 14:20:38 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c73dc4b54_100d27697_episode-1773561649892-1.mp3" type="audio/mpeg" length="7183926"/>
@@ -4459,7 +4460,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69b2ca9a0b10c2deff08a883-v2</guid>
+        <guid isPermaLink="false">69b2ca9a0b10c2deff08a883-v2</guid>
         <title>Language Discovery with IFAL! מתחילים</title>
         <pubDate>Thu, 12 Mar 2026 14:15:54 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/68eb97742_452061064_episode-1773561411857-1.mp3" type="audio/mpeg" length="3899603"/>
@@ -4473,7 +4474,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a994c214ff5472b598355d-v2</guid>
+        <guid isPermaLink="false">69a994c214ff5472b598355d-v2</guid>
         <title>Movies, Music, and Markets מתקדמים</title>
         <pubDate>Thu, 05 Mar 2026 14:35:46 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c88465a86_88a86e3f2_episode-1772959054824-1.mp3" type="audio/mpeg" length="4063861"/>
@@ -4487,7 +4488,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a991382d3ed95d4440645c-v2</guid>
+        <guid isPermaLink="false">69a991382d3ed95d4440645c-v2</guid>
         <title>Trending Now: Movies, Music, and More! בינוני</title>
         <pubDate>Thu, 05 Mar 2026 14:20:40 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/c2794bf41_f0e0dbdb7_episode-1772959023698-1.mp3" type="audio/mpeg" length="6666911"/>
@@ -4501,7 +4502,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a9900180a260e0ab648b39</guid>
+        <guid isPermaLink="false">69a9900180a260e0ab648b39</guid>
         <title>Decoding &apos;NaN&apos;: A Language Lesson מתחילים</title>
         <pubDate>Thu, 05 Mar 2026 14:15:29 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d557274d6_0c150d3a0_episode-1772958979595-1.mp3" type="audio/mpeg" length="4927364"/>
@@ -4515,7 +4516,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a6f1c1285cb407f3483403-v2</guid>
+        <guid isPermaLink="false">69a6f1c1285cb407f3483403-v2</guid>
         <title>Helping Hands and Tough Times מתקדמים</title>
         <pubDate>Tue, 03 Mar 2026 14:35:45 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/52c49cd7d_196989bde_episode-1772606450899-1.mp3" type="audio/mpeg" length="4532811"/>
@@ -4529,7 +4530,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a6ee3e50431d09cadf01c7-v2</guid>
+        <guid isPermaLink="false">69a6ee3e50431d09cadf01c7-v2</guid>
         <title>New Ideas for a Better Future בינוני</title>
         <pubDate>Tue, 03 Mar 2026 14:20:46 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/acdc22787_f43e93fc3_episode-1772606403321-1.mp3" type="audio/mpeg" length="3897513"/>
@@ -4543,7 +4544,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a6ed0acb975b38c1fd986e-v2</guid>
+        <guid isPermaLink="false">69a6ed0acb975b38c1fd986e-v2</guid>
         <title>Explore the World in Today&apos;s Words מתחילים</title>
         <pubDate>Tue, 03 Mar 2026 14:15:38 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d19d61e00_56a975830_episode-1772606354649-1.mp3" type="audio/mpeg" length="5372491"/>
@@ -4557,7 +4558,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a05a347a9bf9eacbe7a676-v2</guid>
+        <guid isPermaLink="false">69a05a347a9bf9eacbe7a676-v2</guid>
         <title>Stage Magic and Surprises מתקדמים</title>
         <pubDate>Thu, 26 Feb 2026 14:35:32 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/15abf1548_afc3e6728_episode-1772346091817-1.mp3" type="audio/mpeg" length="5665062"/>
@@ -4571,7 +4572,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a056b4b5c88e5c156f915e-v2</guid>
+        <guid isPermaLink="false">69a056b4b5c88e5c156f915e-v2</guid>
         <title>Fun, Drama, and Big Decisions! בינוני</title>
         <pubDate>Thu, 26 Feb 2026 14:20:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/ad286001d_8e67b0e5a_episode-1772346062535-1.mp3" type="audio/mpeg" length="5509164"/>
@@ -4585,7 +4586,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69a0557ebd181ab095bbfe0d-v2</guid>
+        <guid isPermaLink="false">69a0557ebd181ab095bbfe0d-v2</guid>
         <title>Unlocking the Mystery of NaN מתחילים</title>
         <pubDate>Thu, 26 Feb 2026 14:15:26 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/f95e61504_ed1f4bca0_episode-1772346031050-1.mp3" type="audio/mpeg" length="6475903"/>
@@ -4599,7 +4600,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>699db7383d6710bd5f97e8bf-v2</guid>
+        <guid isPermaLink="false">699db7383d6710bd5f97e8bf-v2</guid>
         <title>Music, Money, and More מתקדמים</title>
         <pubDate>Tue, 24 Feb 2026 14:35:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/5c5fc9ca0_8b0e7cb2e_episode-1772006849220-1.mp3" type="audio/mpeg" length="5061947"/>
@@ -4613,7 +4614,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>699db3b7b71b8fc2517fd36f</guid>
+        <guid isPermaLink="false">699db3b7b71b8fc2517fd36f</guid>
         <title>Musical Moments &amp; Legal Giants בינוני</title>
         <pubDate>Tue, 24 Feb 2026 14:20:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/8d6ac608a_e5ffe5183_episode-1772006813292-1.mp3" type="audio/mpeg" length="6526476"/>
@@ -4627,7 +4628,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>699db2993688a9dfa9aaa5d3-v2</guid>
+        <guid isPermaLink="false">699db2993688a9dfa9aaa5d3-v2</guid>
         <title>Understanding NaN in English מתחילים</title>
         <pubDate>Tue, 24 Feb 2026 14:15:53 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/d07d0b8a1_79bc8a991_episode-1772004309188-1.mp3" type="audio/mpeg" length="5448142"/>
@@ -4641,7 +4642,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69971fb973e622368d9ac805-v2</guid>
+        <guid isPermaLink="false">69971fb973e622368d9ac805-v2</guid>
         <title>Stories of Change מתקדמים</title>
         <pubDate>Thu, 19 Feb 2026 14:35:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3d7038afc_17493f8f1_episode-1771745413889-1.mp3" type="audio/mpeg" length="4896853"/>
@@ -4655,7 +4656,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69971c371f87351bc8cd4301-v2</guid>
+        <guid isPermaLink="false">69971c371f87351bc8cd4301-v2</guid>
         <title>Stories of Change and New Beginnings בינוני</title>
         <pubDate>Thu, 19 Feb 2026 14:20:39 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/212586e7d_5b19f8037_episode-1771572197857-1.mp3" type="audio/mpeg" length="5492027"/>
@@ -4669,7 +4670,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69971b095b73b3445f27eec7-v2</guid>
+        <guid isPermaLink="false">69971b095b73b3445f27eec7-v2</guid>
         <title>Understanding NaN in Simple Terms מתחילים</title>
         <pubDate>Thu, 19 Feb 2026 14:15:37 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/e6253bf18_1a0f8b8f0_episode-1771525302393-1.mp3" type="audio/mpeg" length="7645353"/>
@@ -4683,7 +4684,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>69947807b85ad7eb07c38ea8-v2</guid>
+        <guid isPermaLink="false">69947807b85ad7eb07c38ea8-v2</guid>
         <title>Unlock English Fluency מתחילים</title>
         <pubDate>Tue, 17 Feb 2026 14:15:35 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/62b198e84_5c7d6414b_episode-1771745769408-1.mp3" type="audio/mpeg" length="3117183"/>
@@ -4697,7 +4698,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
     </item>
 
     <item>
-        <guid>6af548a89e9d63e8557f4508</guid>
+        <guid isPermaLink="false">6af548a89e9d63e8557f4508</guid>
         <title>Jazz, Tech Trends, and Workplace Rights מתקדמים</title>
         <pubDate>Thu, 12 Nov 2026 05:03:36 GMT</pubDate>
         <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/7a8ee6615_episode-1794459824249-auto-1794459816612.mp3" type="audio/mpeg" length="6908490"/>
