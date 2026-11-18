@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 16 Nov 2026 05:03:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 05:02:00 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1460,6 +1460,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come to the beach with me today. We will play in the water with a red bucket. 🏖️</description>
         <itunes:subtitle>Come to the beach with me today.</itunes:subtitle>
         <ageGroup>4-6</ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6afd31345e00a085ebb446a3</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Blast Off Robot!</title>
+        <pubDate>Wed, 18 Nov 2026 05:01:40 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/eb6734c9c_episode-1794978118591-auto-1794978099826.mp3" type="audio/mpeg" length="5353330"/>
+        <description>We fly to space in a shiny rocket today. Our silly robot friend dances on the moon. 🚀</description>
+        <itunes:subtitle>We fly to space in a shiny rocket today.</itunes:subtitle>
+        <ifal:ageGroup>7-9</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
