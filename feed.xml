@@ -1616,7 +1616,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 17 Nov 2026 05:02:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 05:03:37 GMT</lastBuildDate>
 
     <item>
         <guid isPermaLink="false">6adadc6e020ed05539c15894</guid>
@@ -4720,6 +4720,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the exciting return of a popular TV show and meet a music festival founder who makes big dreams happen. We also look at recent banking glitches in the US and the latest news about a major tech company. Join us for a fun and informative look at these global stories!</description>
         <itunes:subtitle>In this episode, we explore the exciting return of a popular TV show and meet a music festival founder who makes big dreams happen.</itunes:subtitle>
         <ifal:ageGroup>2</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6afe8321460ae29bd33d4a74</guid>
+        <title>IFAL: Art, Innovation, and Business News מתקדמים</title>
+        <pubDate>Thu, 19 Nov 2026 05:03:29 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/cf7ee5510_episode-1795064615335-auto-1795064609177.mp3" type="audio/mpeg" length="5731517"/>
+        <description>In this episode, we explore an exciting new art exhibition in Israel featuring 35 talented creators. We also look at the latest updates in the world of technology and the impressive international success of Israeli defense systems. Finally, we discuss how big companies are planning for their future growth.</description>
+        <itunes:subtitle>In this episode, we explore an exciting new art exhibition in Israel featuring 35 talented creators.</itunes:subtitle>
+        <ifal:ageGroup>3</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
