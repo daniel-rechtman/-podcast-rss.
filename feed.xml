@@ -1616,7 +1616,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Thu, 19 Nov 2026 05:03:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:04:13 GMT</lastBuildDate>
 
     <item>
         <guid isPermaLink="false">6adadc6e020ed05539c15894</guid>
@@ -4734,6 +4734,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore an exciting new art exhibition in Israel featuring 35 talented creators. We also look at the latest updates in the world of technology and the impressive international success of Israeli defense systems. Finally, we discuss how big companies are planning for their future growth.</description>
         <itunes:subtitle>In this episode, we explore an exciting new art exhibition in Israel featuring 35 talented creators.</itunes:subtitle>
         <ifal:ageGroup>3</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6b0277c1f7faae164a3184c7</guid>
+        <title>Surprising News and Tech Trends מתחילים</title>
+        <pubDate>Sun, 22 Nov 2026 05:04:01 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/6437e3a06_episode-1795323850352-auto-1795323841223.mp3" type="audio/mpeg" length="9079370"/>
+        <description>In this episode, we talk about a 59-year-old TV host who announced her pregnancy on live television. Then, we look at the recent drop in the stock market caused by new worries about artificial intelligence. Join us to learn new vocabulary while catching up on these interesting stories!</description>
+        <itunes:subtitle>In this episode, we talk about a 59-year-old TV host who announced her pregnancy on live television.</itunes:subtitle>
+        <ifal:ageGroup>1</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
