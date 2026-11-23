@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 18 Nov 2026 05:02:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 05:02:23 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1474,6 +1474,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>We fly to space in a shiny rocket today. Our silly robot friend dances on the moon. 🚀</description>
         <itunes:subtitle>We fly to space in a shiny rocket today.</itunes:subtitle>
         <ifal:ageGroup>7-9</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6b03c8cbea1a11c4360e77fe</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Fun Day At The Zoo</title>
+        <pubDate>Mon, 23 Nov 2026 05:02:03 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/3e06dcce9_episode-1795410139381-auto-1795410122713.mp3" type="audio/mpeg" length="4836522"/>
+        <description>Come see the big lion and the silly monkey. We will also meet a giant elephant! 🦁</description>
+        <itunes:subtitle>Come see the big lion and the silly monkey.</itunes:subtitle>
+        <ifal:ageGroup>4-6</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
