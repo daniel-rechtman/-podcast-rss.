@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Mon, 23 Nov 2026 05:02:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 05:05:02 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1488,6 +1488,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come see the big lion and the silly monkey. We will also meet a giant elephant! 🦁</description>
         <itunes:subtitle>Come see the big lion and the silly monkey.</itunes:subtitle>
         <ifal:ageGroup>4-6</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6b066c6c4ebd1871c4e7e2eb</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Penguin Lunch Time!</title>
+        <pubDate>Wed, 25 Nov 2026 05:04:44 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/b3e66ee3baa287885943e4c887cbb34a_episode-1795583100563-auto-1795583084057.mp3" type="audio/mpeg" length="4700267"/>
+        <description>Come feed the hungry penguins with me today. They love to splash and eat yummy fish! 🐧</description>
+        <itunes:subtitle>Come feed the hungry penguins with me today.</itunes:subtitle>
+        <ifal:ageGroup>7-9</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
