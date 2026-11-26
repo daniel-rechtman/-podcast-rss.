@@ -1616,7 +1616,7 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Tue, 24 Nov 2026 05:02:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:01:27 GMT</lastBuildDate>
 
     <item>
         <guid isPermaLink="false">6adadc6e020ed05539c15894</guid>
@@ -4762,6 +4762,20 @@ Learn English with real news in a simple and practical way. The I-FAL English Po
         <description>In this episode, we explore the exciting return of Nvidia&apos;s CEO to the company headquarters. We also hear about the famous Spanish flamenco dance group, Los Vivancos, and their upcoming tour in Israel. Finally, we discuss why the Bank of Israel is calling for quick action to support the country&apos;s economy.</description>
         <itunes:subtitle>In this episode, we explore the exciting return of Nvidia&apos;s CEO to the company headquarters.</itunes:subtitle>
         <ifal:ageGroup>2</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6b07bd1ee26a818125503834</guid>
+        <title>Sun Babies, AI Mistakes, and Musical Hits מתקדמים</title>
+        <pubDate>Thu, 26 Nov 2026 05:01:18 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/06ffaf117dbeb518f292fb509646e6c3_episode-1795669285489-auto-1795669278395.mp3" type="audio/mpeg" length="6785192"/>
+        <description>We share the surprising story behind the famous Teletubbies sun baby. Then, we look at why using AI in court can lead to big problems. Finally, discover how a struggling band turned their music into an Israeli classic.</description>
+        <itunes:subtitle>We share the surprising story behind the famous Teletubbies sun baby.</itunes:subtitle>
+        <ifal:ageGroup>3</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/5TYrVXlnPILBfxWSqKTIsi</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/us/podcast/english-learning-podcast-learn-english-through-real/id1884426356</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
