@@ -64,7 +64,7 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <itunes:author>יוני כהן</itunes:author>
         <itunes:duration>00:04:30</itunes:duration>
     </item>
-<lastBuildDate>Wed, 25 Nov 2026 05:05:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:03:58 GMT</lastBuildDate>
 
     <item>
         <guid>6aa8c320fa9444da4f50cba9</guid>
@@ -1502,6 +1502,20 @@ Fun, short English episodes for children: stories, songs, simple vocabulary and 
         <description>Come feed the hungry penguins with me today. They love to splash and eat yummy fish! 🐧</description>
         <itunes:subtitle>Come feed the hungry penguins with me today.</itunes:subtitle>
         <ifal:ageGroup>7-9</ifal:ageGroup>
+        <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
+        <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
+        <itunes:author>יוני כהן</itunes:author>
+        <itunes:duration>00:04:30</itunes:duration>
+    </item>
+
+    <item>
+        <guid isPermaLink="false">6b090f2bc7fd6be1fb31b746</guid>
+        <title>לומדים אנגלית עם IFAL Kids | Yummy Treat Secrets</title>
+        <pubDate>Fri, 27 Nov 2026 05:03:39 GMT</pubDate>
+        <enclosure url="https://base44.app/api/apps/68514fa748ce1e5f14a82af3/files/mp/public/68514fa748ce1e5f14a82af3/4dc824d252ccbc9576c9f134bc0ee0bd_episode-1795755836407-auto-1795755819205.mp3" type="audio/mpeg" length="5170760"/>
+        <description>Come see how we make chocolate, chips, and cold ice cream. It is so fun to learn how snacks are made! 🍦</description>
+        <itunes:subtitle>Come see how we make chocolate, chips, and cold ice cream.</itunes:subtitle>
+        <ifal:ageGroup>10-12</ifal:ageGroup>
         <platform:spotify>https://open.spotify.com/show/77M0hXcPh9POoEjD5hgkyp</platform:spotify>
         <platform:applePodcast>https://podcasts.apple.com/podcast/id6816877154</platform:applePodcast>
         <itunes:author>יוני כהן</itunes:author>
